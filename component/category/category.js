@@ -4,7 +4,16 @@ angular.module('categoryModule',['ui.router'])
             .state('category', {
                 url: '/category',
                 templateUrl: 'component/category/category.html',
-//              controller:'categoryCtrl',
+               controller:'categoryCtrl',
                 css:'component/category/category.css'
             })
-    })
+    }).controller("categoryCtrl",["$scope","$http",function ($scope,$http) {
+             $http.get("json/category/catelist.json").then(function (res) {
+
+               // $scope.arr = res.value;
+                  console.log(res);
+                  $scope.init = res.data.value;
+
+             })
+
+}])
