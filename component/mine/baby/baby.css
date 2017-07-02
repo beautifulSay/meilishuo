@@ -1,0 +1,10 @@
+.babytop{width: 100%;height: 100%;}
+.divtop{width: 100;height: 44px;}
+.oul4{width: 100%;height: 44px;line-height:44px;border-bottom: 1px solid #ccc;}
+.oul4 li{width:33%;float: left;text-align: center;}
+.oul4 li:nth-child(2){font-size: 20px;}
+.oul4 li:last-child i{height: 44px;line-height:44px;}
+.babypicter{width: 100%;text-align: center;}
+.babypicter li img{width: 121px;margin-top: 52px;}
+.babypicter li{font-size: 16px;}
+.babypicter li:last-child span i{font-size: 25px;padding-left: 2%;}

@@ -1,4 +1,4 @@
-angular.module('mineModule',['ui.router'])
+angular.module('mineModule',['ui.router',"babyModule"])
     .config(function($stateProvider, $urlRouterProvider) {
         $stateProvider
             .state('mine', {
