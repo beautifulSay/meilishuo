@@ -1,2331 +1,1197 @@
 {
-  "status": 1,
-  "hasNext": true,
-  "dealJson": [
-    {
-      "after_sale_type": 0,
-      "begin_time": 1492390800000,
-      "bg_tag_id": 5701,
-      "brand_id": -1,
-      "deal_coupon": {
-        "wap_url": "//out.zhe800.com/m/deal/15849587?source=tao800_app&tbshop_jump_type=1&dealId=15849587&url=",
-        "price": 0,
-        "name": "",
-        "end_time": -28800000,
-        "description": "",
-        "begin_time": -28800000,
-        "url": "//out.zhe800.com/ju/deal/yuanweijia_15849587?dealId=15849587&tbshop_jump_type=1&url="
-      },
-      "discount": 3.2,
-      "end_time": 1577840340000,
-      "fanjifen": {
-        "Z0": 10,
-        "Z1": 20,
-        "Z2": 29,
-        "Z3": 29,
-        "Z4": 29,
-        "Z5": 29
-      },
-      "good_comment_rate": "95.2",
-      "good_comment_rate_new": {
-        "good_comment_rate": "95.2",
-        "has_quality_comment": 1,
-        "total_num": 188,
-        "count_with_content": 84
-      },
-      "id": 15849587,
-      "image": "http://s3.mogucdn.com/p2/170609/upload_21ahikjj38di24c1al165gi630d5b_640x900.jpg_320x999.webp",
-      "is_baoyou": 1,
-      "is_fanjifen": 1,
-      "is_haitao": 0,
-      "is_hot": 0,
-      "is_hyper_market": 0,
-      "is_oos": 0,
-      "is_promotion": 0,
-      "list_price": 75,
-      "major_brand_id": 0,
-      "origin_images": {
-        "image": "imagev2/trade/800x800.93d87e85d55a17113b7abf687d7fb907.720x480+1-1.jpg",
-        "wireless_image": "imagev2/trade/800x800.93d87e85d55a17113b7abf687d7fb907.640x700+1-1.jpg",
-        "square_image": "imagev2/trade/800x800.93d87e85d55a17113b7abf687d7fb907.jpg"
-      },
-      "price": 23.8,
-      "price_performance_score": {
-        "score": 0,
-        "degree": 1,
-        "content": "�ϲ�"
-      },
-      "priority": 120,
-      "publish_status": 4,
-      "qrcode_url": "//z8.tuanimg.com/imagev2/site/360x360.748d4ac36b1347e3eb98e1ecab0828d6.100x100.png",
-      "sale_stock": {
-        "total_kucun": 24822,
-        "lock_kucun": 0,
-        "kucun": 24783
-      },
-      "seckill": 0,
-      "seller_id": 1850851,
-      "shop_discounts": [],
-      "show_on_ju_home": 1,
-      "sold": 217,
-      "special_deal_type": 0,
-      "square_image_url": "//z8.tuanimg.com/imagev2/trade/800x800.93d87e85d55a17113b7abf687d7fb907.310x310.jpg",
-      "taobao_id": "",
-      "taobao_url": "",
-      "title": "�¿��οհ��ɭϵ��԰����ȹ�黨ѩ��ȹ��Ů���ո���ȹӡ������װ ",
-      "type": 1,
-      "url_name": "yuanweijia",
-      "wuxian_price": 23.8,
-      "zid": "ze170407194338107673",
-      "xianshi": null
+  "success": true,
+  "returnCode": "1001",
+  "returnMessage": null,
+  "data": {
+    "total": 414103,
+    "title": "美丽说wap首页",
+    "sort": "new",
+    "isEnd": false,
+    "cpc_offset": 0,
+    "param": {
+      "_mgjuuid": "3e066687-2dd3-4c71-a98f-9a349cf479a8",
+      "sort": "new",
+      "ptpWallCpc": "_wall_cpc",
+      "section": "0",
+      "ptpWallDoc": "_wall_docs",
+      "cpc_offset": 0,
+      "eventId": 70003,
+      "cKey": "wap-index",
+      "page": "1",
+      "fcid": "10057922",
+      "cpcEventId": 70005,
+      "ptpPartC": "_mb_mls_10057922_wap-index_noab-noab",
+      "minPrice": "5"
     },
-    {
-      "after_sale_type": 0,
-      "begin_time": 1491526800000,
-      "bg_tag_id": 9082,
-      "brand_id": 0,
-      "deal_coupon": {
-        "wap_url": "//out.zhe800.com/m/deal/15243577?source=tao800_app&tbshop_jump_type=1&dealId=15243577&url=",
-        "price": 0,
-        "name": "",
-        "end_time": -28800000,
-        "description": "",
-        "begin_time": -28800000,
-        "url": "//out.zhe800.com/ju/deal/chongwuxia_15243577?dealId=15243577&tbshop_jump_type=1&url="
-      },
-      "discount": 1.5,
-      "end_time": 1577894340000,
-      "fanjifen": {
-        "Z0": 8,
-        "Z1": 16,
-        "Z2": 24,
-        "Z3": 24,
-        "Z4": 24,
-        "Z5": 24
-      },
-      "good_comment_rate": "99.4",
-      "good_comment_rate_new": {
-        "good_comment_rate": "99.4",
-        "has_quality_comment": 1,
-        "total_num": 1194,
-        "count_with_content": 319
-      },
-      "id": 15243577,
-      "image": "http://s3.mogucdn.com/p2/170609/upload_63fac7l4j9c67e5achc5jga29g84c_640x900.jpg_320x999.webp",
-      "is_baoyou": 1,
-      "is_fanjifen": 1,
-      "is_haitao": 0,
-      "is_hot": 0,
-      "is_hyper_market": 0,
-      "is_oos": 0,
-      "is_promotion": 0,
-      "list_price": 140,
-      "major_brand_id": 0,
-      "origin_images": {
-        "image": "imagev2/trade/700x700.8874358c5328c06412d7836a0964f8d6.720x480+1-1.jpg",
-        "wireless_image": "imagev2/trade/700x700.8874358c5328c06412d7836a0964f8d6.640x700+1-1.jpg",
-        "square_image": "imagev2/trade/700x700.8874358c5328c06412d7836a0964f8d6.jpg"
-      },
-      "price": 19.9,
-      "price_performance_score": {
-        "score": 0,
-        "degree": 1,
-        "content": "�ϲ�"
-      },
-      "priority": 130,
-      "publish_status": 4,
-      "qrcode_url": "//z3.tuanimg.com/imagev2/site/360x360.dfa5cedffd445470fa07d57d7f12b906.100x100.png",
-      "sale_stock": {
-        "total_kucun": 15541,
-        "lock_kucun": 0,
-        "kucun": 48410
-      },
-      "seckill": 0,
-      "seller_id": 586624,
-      "shop_discounts": [],
-      "show_on_ju_home": 1,
-      "sold": 1842,
-      "special_deal_type": 0,
-      "square_image_url": "//z3.tuanimg.com/imagev2/trade/700x700.8874358c5328c06412d7836a0964f8d6.310x310.jpg",
-      "taobao_id": "",
-      "taobao_url": "",
-      "title": "��������ͨ���͹���4��*500",
-      "type": 1,
-      "url_name": "chongwuxia",
-      "wuxian_price": 19.9,
-      "youpinhui": {
-        "standard": "19.9Ԫ/4��",
-        "character_1": "�����̸�ζ����",
-        "is_youpin_plus": 0,
-        "character_3": "ͨ�����ʿ���ǿ",
-        "character_2": "ǿ�������ٽ�����",
-        "image_url": "//z3.tuanimg.com/imagev2/site/691x362.01042866d6348270eef14a4ecd9e7154.jpg",
-        "specification": "4��",
-        "comment_rate": {
-          "good_rate": "99.4",
-          "total": 1195
+    "page": 1,
+    "list": [
+      {
+        "orgPrice": "￥99.00",
+        "acm": "3.ms.2_4_1keufqk.0.13386-25176.gcxrYqoe9ljI6.t_0-lc_16",
+        "iid": "1keufqk",
+        "link": "http://item.meilishuo.com/h5/detail/1keufqk?acm=3.ms.2_4_1keufqk.0.13386-25176.gcxrYqoe9ljI6.t_0-lc_16",
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1keufqk?acm=3.ms.2_4_1keufqk.0.13386-25176.gcxrYqoe9ljI6.t_0-lc_16",
+        "itemType": 5,
+        "popularStar": null,
+        "cparam": null,
+        "itemMarks": "",
+        "show": {
+          "w": 320,
+          "img": "http://s3.mogucdn.com/mlcdn/c45406/170702_6j73fd6eaik93ca9kc0dkg3legl9j_640x960.jpg_320x999.jpg",
+          "h": 416
         },
-        "priority": 0,
-        "recommend_reason": "�����������Ƹ��̸⹷��500gx4�����ʿ���ǿ��ǿ��������ëɫ",
-        "fromId": 15243577,
-        "long_title": "����Ʒ�㡿��������ͨ���͹���4��500gţ��ζȮ�����Ƹ��̸�ʳ��ʡ����",
-        "short_title": "����Ʒ�㡿��������ͨ���͹���4��ţ��ζ",
-        "is_star": 0
-      },
-      "zid": "ze141208141944000001",
-      "xianshi": null
-    },
-    {
-      "after_sale_type": 0,
-      "begin_time": 1485240686000,
-      "bg_tag_id": 5852,
-      "brand_id": -1,
-      "deal_coupon": {
-        "wap_url": "//out.zhe800.com/m/deal/12062375?source=tao800_app&tbshop_jump_type=1&dealId=12062375&url=",
-        "price": 0,
-        "name": "",
-        "end_time": -28800000,
-        "description": "",
-        "begin_time": -28800000,
-        "url": "//out.zhe800.com/ju/deal/ailiteduto_12062375?dealId=12062375&tbshop_jump_type=1&url="
-      },
-      "deal_promotion": "{\"text\":\"2��8.8��\",\"type\":1,\"platform\":1,\"begin_time\":\"2017-04-13 09:00:00\",\"end_time\":\"2017-04-16 08:59:00\",\"last_update_time\":\"2017-04-16 08:32:03\",\"begin_timestamp\":1492045200000,\"end_timestamp\":1492304340000,\"last_update_timestamp\":1492302723000}",
-      "discount": 2.2,
-      "end_time": 1577840340000,
-      "fanjifen": {
-        "Z0": 11,
-        "Z1": 21,
-        "Z2": 31,
-        "Z3": 31,
-        "Z4": 31,
-        "Z5": 31
-      },
-      "good_comment_rate": "97.5",
-      "good_comment_rate_new": {
-        "good_comment_rate": "97.5",
-        "has_quality_comment": 1,
-        "total_num": 201,
-        "count_with_content": 67
-      },
-      "id": 12062375,
-      "image": "http://s11.mogucdn.com/p2/170609/upload_0h0b6cede4cl0fce8lg2d3jk66d1h_640x900.jpg_320x999.webp",
-      "is_baoyou": 1,
-      "is_fanjifen": 1,
-      "is_haitao": 0,
-      "is_hot": 0,
-      "is_hyper_market": 0,
-      "is_oos": 0,
-      "is_promotion": 0,
-      "list_price": 119,
-      "major_brand_id": 0,
-      "new_platform_manjian": [
-        {
-          "activity_type": 1,
-          "end_time": 1486515540000,
-          "begin_time": 1486256400000,
-          "rules": "49-5,79-10",
-          "id": 6609,
-          "from_channel": 0
-        },
-        {
-          "logo_link": "//www.zhe800.com/n/pcxindacu/lszxcs413PC",
-          "activity_type": 4,
-          "end_time": 1492304340000,
-          "begin_time": 1492045200000,
-          "rules": "2-8.8",
-          "id": 12189,
-          "from_channel": 0
-        }
-      ],
-      "origin_images": {
-        "image": "imagev2/trade/700x700.cc2a90654b47f8401ae0c0e8b865450f.720x480+1-1.jpg",
-        "wireless_image": "imagev2/trade/700x700.cc2a90654b47f8401ae0c0e8b865450f.640x700+1-1.jpg",
-        "square_image": "imagev2/trade/700x700.cc2a90654b47f8401ae0c0e8b865450f.jpg"
-      },
-      "price": 25.8,
-      "price_performance_score": {
-        "score": 0,
-        "degree": 1,
-        "content": "�ϲ�"
-      },
-      "priority": 120,
-      "publish_status": 4,
-      "qrcode_url": "//z8.tuanimg.com/imagev2/site/300x300.41885649c290ecfd0c250648b20a3bf5.100x100.png",
-      "sale_stock": {
-        "total_kucun": 0,
-        "lock_kucun": 0,
-        "kucun": 435
-      },
-      "seckill": 0,
-      "seller_id": 656942,
-      "shop_coupons": [
-        {
-          "amount": 500,
-          "startTimeStamp": 1474646400000,
-          "quato": 9900,
-          "endTimeStamp": 1475852399000,
-          "rule": "99-5",
-          "startTime": "2016-09-24 00:00:00.0",
-          "endTime": "2016-10-07 22:59:59.0",
-          "id": 20777,
-          "type": 1
-        }
-      ],
-      "shop_discounts": [],
-      "show_on_ju_home": 1,
-      "sold": 396,
-      "special_deal_type": 0,
-      "square_image_url": "//z8.tuanimg.com/imagev2/trade/700x700.cc2a90654b47f8401ae0c0e8b865450f.310x310.jpg",
-      "taobao_id": "",
-      "taobao_url": "",
-      "title": "��ͷ����500g",
-      "type": 1,
-      "url_name": "ailiteduto",
-      "wireless_info_share": "{\"lastUpdateTimeStamp\":1493076616233,\"dealShowInfoId\":-1,\"show_default_label\":1,\"discountType\":-1,\"lastUpdateTime\":\"2017-04-25 07:30:16\",\"beginTime\":\"2017-04-13 09:00:00\",\"endTimeStamp\":1492304340000,\"endTime\":\"2017-04-16 08:59:00\",\"dealId\":12062375,\"beginTimeStamp\":1492045200000,\"promotionText\":\"2��8.8��\"}",
-      "wuxian_price": 25.8,
-      "zid": "ze140701115937000001",
-      "xianshi": null
-    },
-    {
-      "after_sale_type": 0,
-      "begin_time": 1484269200000,
-      "bg_tag_id": 4985,
-      "brand_id": -1,
-      "deal_coupon": {
-        "wap_url": "//out.zhe800.com/m/deal/11495659?source=tao800_app&tbshop_jump_type=1&dealId=11495659&url=",
-        "price": 0,
-        "name": "",
-        "end_time": -28800000,
-        "description": "",
-        "begin_time": -28800000,
-        "url": "//out.zhe800.com/ju/deal/jinjunmeih_11495659?dealId=11495659&tbshop_jump_type=1&url="
-      },
-      "discount": 3.2,
-      "end_time": 1577840340000,
-      "fanjifen": {
-        "Z0": 16,
-        "Z1": 32,
-        "Z2": 48,
-        "Z3": 48,
-        "Z4": 48,
-        "Z5": 48
-      },
-      "good_comment_rate": "100.0",
-      "good_comment_rate_new": {
-        "good_comment_rate": "100.0",
-        "has_quality_comment": 1,
-        "total_num": 78,
-        "count_with_content": 22
-      },
-      "id": 11495659,
-      "image": "http://s3.mogucdn.com/p2/170309/980363356_7c17i09ak23bj8ec2f08fh683l9l9_640x832.jpg_320x999.webp",
-      "is_baoyou": 1,
-      "is_fanjifen": 1,
-      "is_haitao": 0,
-      "is_hot": 0,
-      "is_hyper_market": 0,
-      "is_oos": 0,
-      "is_promotion": 0,
-      "list_price": 128,
-      "major_brand_id": 10241,
-      "origin_images": {
-        "image": "imagev2/trade/800x800.34b0c4249ec9ca7d3d13355bcad534d6.720x480+1-1.jpg",
-        "wireless_image": "imagev2/trade/800x800.34b0c4249ec9ca7d3d13355bcad534d6.640x700+1-1.jpg",
-        "square_image": "imagev2/trade/800x800.34b0c4249ec9ca7d3d13355bcad534d6.jpg"
-      },
-      "price": 39.8,
-      "price_performance_score": {
-        "score": 0,
-        "degree": 1,
-        "content": "�ϲ�"
-      },
-      "priority": 110,
-      "publish_status": 4,
-      "qrcode_url": "//z3.tuanimg.com/imagev2/site/300x300.ea7efa3a68af2ce891d82e81c978e09f.100x100.png",
-      "sale_stock": {
-        "total_kucun": 0,
-        "lock_kucun": 0,
-        "kucun": 570
-      },
-      "seckill": 0,
-      "seller_id": 1095670,
-      "shop_coupons": [
-        {
-          "amount": 1000,
-          "releaseCount": 0,
-          "count": 300,
-          "rule": "99-10",
-          "sessionId": "00000000",
-          "source": 0,
-          "type": 1,
-          "startTimeStamp": 3056230800000,
-          "quato": 9900,
-          "scope": 0,
-          "endTimeStamp": 3056918399000,
-          "startTime": "2066-11-06 09:00:00.0",
-          "endTime": "2066-11-14 07:59:59.0",
-          "id": 28509
-        }
-      ],
-      "shop_discounts": [],
-      "show_on_ju_home": 1,
-      "sold": 104,
-      "special_deal_type": 0,
-      "square_image_url": "//z3.tuanimg.com/imagev2/trade/800x800.34b0c4249ec9ca7d3d13355bcad534d6.310x310.jpg",
-      "taobao_id": "",
-      "taobao_url": "",
-      "title": "���Ͻ�ü300g",
-      "type": 1,
-      "url_name": "jinjunmeih",
-      "wireless_info_share": "{\"lastUpdateTimeStamp\":1476061183948,\"show_default_label\":1,\"weight\":36,\"thirdRightSwitch\":0,\"lastUpdateTime\":\"2016-10-10 08:59:43\",\"beginTime\":\"2016-10-10 08:59:43\",\"thirdSwitch\":0,\"endTimeStamp\":1476061183948,\"endTime\":\"2016-10-10 08:59:43\",\"dealId\":11495659,\"beginTimeStamp\":1476061183948,\"thirdLeftSwitch\":0,\"dealShowInfoId\":12249,\"discountType\":31,\"footSwitch\":0,\"firstSwitch\":0,\"secondSwitch\":0,\"promotionText\":\"�����ָ�%price%Ԫ\"}",
-      "wuxian_price": 39.8,
-      "zid": "ze170104144314686247",
-      "xianshi": null
-    },
-    {
-      "after_sale_type": 0,
-      "begin_time": 1485133200000,
-      "bg_tag_id": 4580,
-      "brand_id": 91567,
-      "deal_promotion": "{\"text\":\"��99Ԫ��10Ԫ\",\"type\":0,\"platform\":1,\"begin_time\":\"2017-01-23 09:00:00\",\"end_time\":\"2020-01-01 08:59:00\",\"last_update_time\":\"2017-07-01 22:03:55\",\"begin_timestamp\":1485133200000,\"end_timestamp\":1577840340000,\"last_update_timestamp\":1498917835000}",
-      "discount": 3.5,
-      "end_time": 1577840340000,
-      "fanjifen": {
-        "Z0": 28,
-        "Z1": 56,
-        "Z2": 83,
-        "Z3": 83,
-        "Z4": 83,
-        "Z5": 83
-      },
-      "good_comment_rate": "98.8",
-      "good_comment_rate_new": {
-        "good_comment_rate": "98.8",
-        "has_quality_comment": 1,
-        "total_num": 175,
-        "count_with_content": 35
-      },
-      "id": 12026887,
-      "image": "http://s3.mogucdn.com/p2/170626/upload_0ih7e93h492b7405g5i17e0iid7gb_640x900.jpg_320x999.webp",
-      "is_baoyou": 1,
-      "is_fanjifen": 1,
-      "is_haitao": 0,
-      "is_hot": 0,
-      "is_hyper_market": 0,
-      "is_oos": 0,
-      "is_promotion": 0,
-      "list_price": 199,
-      "major_brand_id": 12323,
-      "new_platform_manjian": [
-        {
-          "logo_link": "//shop.zhe800.com/zhe800_act/6421",
-          "activity_type": 1,
-          "end_time": 1577840340000,
-          "begin_time": 1485133200000,
-          "rules": "99-10",
-          "id": 6421,
-          "from_channel": 0
-        }
-      ],
-      "origin_images": {
-        "image": "imagev2/trade/800x800.e5cf387a14568947c4985a36f2e91d06.720x480+1-1.jpg",
-        "wireless_image": "imagev2/trade/800x800.e5cf387a14568947c4985a36f2e91d06.640x700+1-1.jpg",
-        "square_image": "imagev2/trade/800x800.e5cf387a14568947c4985a36f2e91d06.jpg"
-      },
-      "pinpai": {
-        "id": 91567,
-        "brand_id": 91567,
-        "url_name": "feike",
-        "name": "�ɿƸ��˻���ר��",
-        "link": "//brand.zhe800.com/feike?brandid=91567",
-        "deals_lowest_price": 26.9,
-        "deals_count": 62,
-        "on_sale_deals_count": 62,
-        "seller_id": 0,
-        "publish_status": 4,
-        "title": "�ɿƸ��˻���ר��",
-        "begin_time": 1485133200000,
-        "end_time": 1577840340000,
-        "logo_image": "//z4.tuanimg.com/imagev2/zhaoshang/120x60.77707b3c7baf70f39c6fd3a2d0f6864e.120x60.jpg",
-        "hot_brand_mark": 1,
-        "discount_rule_desc": "��99Ԫ��10Ԫ",
-        "minimal_discount": 1.6,
-        "platform_discount_tag": "",
-        "zc_discount_tag": "����",
-        "lowest_price_without_miaosha": 26.9,
-        "discounts": [
-          {
-            "begin_time": 1485133200000,
-            "end_time": 1577840340000,
-            "rule": "99-10",
-            "rule_name": "�ɿ�",
-            "rule_type": 1001,
-            "rule_desc": "��99Ԫ��10Ԫ",
-            "rule_tag": "����",
-            "rule_range": 3
-          }
+        "type": 2,
+        "sale": 0,
+        "title": "休闲连衣裙女2017夏新款韩版修身线束灰色气质褶皱直筒T恤裙",
+        "cfav": 0,
+        "price": "￥99.00",
+        "ptpC": "_mb_mls_10057922_wap-index_noab-noab",
+        "lefttop_taglist": [
+
         ],
-        "updated_at": "2017-07-01 22:22:48"
-      },
-      "price": 69,
-      "price_performance_score": {
-        "score": 0,
-        "degree": 1,
-        "content": "�ϲ�"
-      },
-      "priority": 300,
-      "publish_status": 4,
-      "qrcode_url": "//z3.tuanimg.com/imagev2/site/300x300.9c9a468765b087d44ca95d256ad449c7.100x100.png",
-      "sale_stock": {
-        "total_kucun": 0,
-        "lock_kucun": 0,
-        "kucun": 1411
-      },
-      "seckill": 0,
-      "seller_id": 141132,
-      "shop_coupons": [],
-      "shop_discounts": [],
-      "show_on_ju_home": 1,
-      "sku": {
-        "1001": {
-          "image": "//z3.tuanimg.com/imagev2/trade/800x800.e5cf387a14568947c4985a36f2e91d06.310x340+1-1.310x340.jpg",
-          "oos": 0,
-          "leaded": 1,
-          "color": "��ɫ",
-          "square_image": "//z3.tuanimg.com/imagev2/trade/800x800.e5cf387a14568947c4985a36f2e91d06.640x640+1-1.jpg",
-          "id": "1001"
-        }
-      },
-      "sold": 199,
-      "special_deal_type": 0,
-      "square_image_url": "//z3.tuanimg.com/imagev2/trade/800x800.e5cf387a14568947c4985a36f2e91d06.310x310.jpg",
-      "taobao_id": "",
-      "taobao_url": "",
-      "title": "�ɿƴ�����紵�緢�ȼ��ø�����",
-      "type": 1,
-      "url_name": "feikechuif",
-      "wireless_info_share": "{\"lastUpdateTimeStamp\":1493069773800,\"dealShowInfoId\":-1,\"show_default_label\":1,\"discountType\":-1,\"lastUpdateTime\":\"2017-04-25 05:36:13\",\"beginTime\":\"2017-01-23 09:00:00\",\"endTimeStamp\":1577840340000,\"endTime\":\"2020-01-01 08:59:00\",\"dealId\":12026887,\"beginTimeStamp\":1485133200000,\"promotionText\":\"��99Ԫ��10Ԫ\"}",
-      "wuxian_price": 69,
-      "zid": "ze170120005657726339",
-      "xianshi": null,
-      "promotion": {
-        "promotionText": "��99Ԫ��10Ԫ"
-      }
-    },
-    {
-      "after_sale_type": 0,
-      "begin_time": 1489021200000,
-      "bg_tag_id": 6782,
-      "brand_id": -1,
-      "deal_promotion": "{\"text\":\"2��8��\",\"type\":1,\"platform\":1,\"begin_time\":\"2017-04-05 09:00:00\",\"end_time\":\"2017-04-06 08:59:00\",\"last_update_time\":\"2017-04-06 08:31:54\"}",
-      "discount": 2.4,
-      "end_time": 1577840340000,
-      "fanjifen": {
-        "Z0": 20,
-        "Z1": 40,
-        "Z2": 59,
-        "Z3": 59,
-        "Z4": 59,
-        "Z5": 59
-      },
-      "good_comment_rate": "94.1",
-      "good_comment_rate_new": {
-        "good_comment_rate": "94.1",
-        "has_quality_comment": 1,
-        "total_num": 34,
-        "count_with_content": 9
-      },
-      "id": 13508507,
-      "image": "http://s3.mogucdn.com/mlcdn/c45406/170414_693691k7l746ha5b38k6ej27lf948_640x832.jpg_320x999.webp",
-      "is_baoyou": 1,
-      "is_fanjifen": 1,
-      "is_haitao": 0,
-      "is_hot": 0,
-      "is_hyper_market": 0,
-      "is_oos": 0,
-      "is_promotion": 0,
-      "list_price": 208,
-      "major_brand_id": 0,
-      "new_platform_manjian": [
-        {
-          "logo_link": "//www.zhe800.com/n/pcxindacu/ysdw0315PC",
-          "activity_type": 4,
-          "end_time": 1489798740000,
-          "begin_time": 1489539600000,
-          "rules": "2-8",
-          "id": 9213,
-          "from_channel": 0
+        "shopId": 20060740,
+        "titleTags": null,
+        "showLarge": {
+          "img": "http://s3.mogucdn.com/mlcdn/c45406/170702_6j73fd6eaik93ca9kc0dkg3legl9j_640x960.jpg_560x999.jpg",
+          "w": 560,
+          "h": 840
         },
-        {
-          "logo_link": "//www.zhe800.com/n/pcxindacu/rrctttjpc0324",
-          "activity_type": 4,
-          "end_time": 1490403540000,
-          "begin_time": 1490284800000,
-          "rules": "2-8",
-          "id": 9569,
-          "from_channel": 0
-        },
-        {
-          "logo_link": "//shop.zhe800.com/zhe800_act/19005",
-          "activity_type": 5,
-          "end_time": 1497887940000,
-          "begin_time": 1497528000000,
-          "rules": "3-1",
-          "id": 19005,
-          "from_channel": 0
-        }
-      ],
-      "origin_images": {
-        "image": "imagev2/trade/800x800.1e10dc47f9fe7fa4e5b2fe4744d0d945.720x480+1-1.jpg",
-        "wireless_image": "imagev2/trade/800x800.1e10dc47f9fe7fa4e5b2fe4744d0d945.640x700+1-1.jpg",
-        "square_image": "imagev2/trade/800x800.1e10dc47f9fe7fa4e5b2fe4744d0d945.jpg"
-      },
-      "price": 49,
-      "price_performance_score": {
-        "score": 0,
-        "degree": 1,
-        "content": "�ϲ�"
-      },
-      "priority": 190,
-      "publish_status": 4,
-      "qrcode_url": "//z8.tuanimg.com/imagev2/site/300x300.8e4b715a84f461e485b48a35d037f1d3.100x100.png",
-      "sale_stock": {
-        "total_kucun": 1958,
-        "lock_kucun": 0,
-        "kucun": 1951
-      },
-      "seckill": 0,
-      "seller_id": 1520537,
-      "shop_discounts": [],
-      "show_on_ju_home": 1,
-      "sold": 31,
-      "special_deal_type": 0,
-      "square_image_url": "//z8.tuanimg.com/imagev2/trade/800x800.1e10dc47f9fe7fa4e5b2fe4744d0d945.310x310.jpg",
-      "taobao_id": "",
-      "taobao_url": "",
-      "title": "����ѡ��2017���＾��Ʒ��",
-      "type": 1,
-      "url_name": "chunqiutia",
-      "wireless_info_share": "{\"lastUpdateTimeStamp\":1497887696412,\"weight\":90,\"thirdRightSwitch\":0,\"lastUpdateTime\":\"2017-06-19 23:54:56\",\"icon_list_v2\":\"http://z11.tuanimg.com/imagev2/wxyy/100x30.cdc36c65dc9fe1a23228dbc95db03d9a.png\",\"iconList\":\"http://z11.tuanimg.com/imagev2/wxyy/100x30.cdc36c65dc9fe1a23228dbc95db03d9a.png\",\"endTime\":\"2017-06-19 23:59:00\",\"promotionColor\":\"247,36,61,1\",\"beginTimeStamp\":1497526200000,\"promotionBorderColor\":\"255,255,255,1\",\"discountType\":0,\"iconGrid\":\"http://z11.tuanimg.com/imagev2/wxyy/50x52.b48580fca67b2ae2106a9a19ff2577ca.png\",\"footSwitch\":0,\"firstSwitch\":0,\"label_weight\":0,\"promotionBgColor\":\"255,255,255,1\",\"promotionText\":\"�����3��1����100��100\",\"show_default_label\":1,\"beginTime\":\"2017-06-15 19:30:00\",\"thirdSwitch\":0,\"dealId\":13508507,\"endTimeStamp\":1497887940000,\"thirdLeftSwitch\":0,\"dealShowInfoId\":16143,\"secondSwitch\":0,\"iconPc\":\"http://z11.tuanimg.com/imagev2/wxyy/52x54.ef89b2789a9b793f3b7616a7739b4893.png\"}",
-      "wuxian_price": 49,
-      "zid": "ze170226022020851652",
-      "xianshi": null
-    },
-    {
-      "after_sale_type": 0,
-      "begin_time": 1486170000000,
-      "bg_tag_id": 8273,
-      "brand_id": 158027,
-      "deal_coupon": {
-        "wap_url": "//out.zhe800.com/m/deal/12095251?source=tao800_app&tbshop_jump_type=1&dealId=12095251&url=",
-        "price": 0,
-        "name": "",
-        "end_time": -28800000,
-        "description": "",
-        "begin_time": -28800000,
-        "url": "//out.zhe800.com/ju/deal/jiayingduo_12095251?dealId=12095251&tbshop_jump_type=1&url="
-      },
-      "deal_promotion": "{\"text\":\"2��8��\",\"type\":1,\"platform\":1,\"begin_time\":\"2017-04-05 20:00:00\",\"end_time\":\"2017-04-08 08:59:00\",\"last_update_time\":\"2017-04-08 08:32:00\"}",
-      "discount": 2.8,
-      "end_time": 1577840340000,
-      "fanjifen": {
-        "Z0": 8,
-        "Z1": 16,
-        "Z2": 23,
-        "Z3": 23,
-        "Z4": 23,
-        "Z5": 23
-      },
-      "good_comment_rate": "98.4",
-      "good_comment_rate_new": {
-        "good_comment_rate": "98.4",
-        "has_quality_comment": 1,
-        "total_num": 314,
-        "count_with_content": 77
-      },
-      "id": 12095251,
-      "image": "http://s11.mogucdn.com/p2/170627/upload_67gfdd93g5b13f1ch736chbeiekda_640x900.jpg_320x999.webp",
-      "is_baoyou": 1,
-      "is_fanjifen": 1,
-      "is_haitao": 0,
-      "is_hot": 0,
-      "is_hyper_market": 0,
-      "is_oos": 0,
-      "is_promotion": 0,
-      "list_price": 68,
-      "major_brand_id": 0,
-      "new_platform_manjian": [
-        {
-          "logo_link": "//www.zhe800.com/n/pcxindacu/ms0405pc",
-          "activity_type": 4,
-          "end_time": 1491613140000,
-          "begin_time": 1491393600000,
-          "rules": "2-8,3-7.5",
-          "id": 10847,
-          "from_channel": 0
-        },
-        {
-          "logo_link": "//www.zhe800.com/n/pcxindacu/zhc0419pc",
-          "activity_type": 5,
-          "end_time": 1492703940000,
-          "begin_time": 1492430400000,
-          "rules": "3-1",
-          "id": 12299,
-          "from_channel": 0
-        },
-        {
-          "logo_link": "//www.zhe800.com/n/pcxindacu/zhc0419pc",
-          "activity_type": 5,
-          "end_time": 1492747140000,
-          "begin_time": 1492704000000,
-          "rules": "3-1",
-          "id": 12883,
-          "from_channel": 0
-        },
-        {
-          "logo_link": "//www.zhe800.com/n/pcxindacu/cjpprPKJ0509PC",
-          "activity_type": 5,
-          "end_time": 1494550740000,
-          "begin_time": 1494291600000,
-          "rules": "3-1",
-          "id": 14801,
-          "from_channel": 0
-        },
-        {
-          "logo_link": "//shop.zhe800.com/zhe800_act/16043",
-          "activity_type": 4,
-          "end_time": 1495382340000,
-          "begin_time": 1495108800000,
-          "rules": "3-7",
-          "id": 16043,
-          "from_channel": 0
-        },
-        {
-          "logo_link": "//www.zhe800.com/n/pcxindacu/cjppretzdy0523PC",
-          "activity_type": 5,
-          "end_time": 1495587540000,
-          "begin_time": 1495501200000,
-          "rules": "3-1",
-          "id": 16535,
-          "from_channel": 0
-        },
-        {
-          "logo_link": "//www.zhe800.com/n/pcxindacu/nxxqr0610pc",
-          "activity_type": 5,
-          "end_time": 1497229140000,
-          "begin_time": 1497056400000,
-          "rules": "3-1",
-          "id": 18843,
-          "from_channel": 0
-        },
-        {
-          "logo_link": "//shop.zhe800.com/zhe800_act/19005",
-          "activity_type": 5,
-          "end_time": 1497887940000,
-          "begin_time": 1497528000000,
-          "rules": "3-1",
-          "id": 19005,
-          "from_channel": 0
-        }
-      ],
-      "origin_images": {
-        "image": "imagev2/trade/800x800.ed4ba81be4f0ee05273af4634dc907f9.720x480+1-1.jpg",
-        "wireless_image": "imagev2/trade/800x800.ed4ba81be4f0ee05273af4634dc907f9.640x700+1-1.jpg",
-        "square_image": "imagev2/trade/800x800.ed4ba81be4f0ee05273af4634dc907f9.jpg"
-      },
-      "pinpai": {
-        "id": 158027,
-        "brand_id": 158027,
-        "url_name": "jiaying10",
-        "name": "��ӯ����۽�ר��",
-        "link": "//brand.zhe800.com/jiaying10?brandid=158027",
-        "deals_lowest_price": 1,
-        "deals_count": 20,
-        "on_sale_deals_count": 20,
-        "seller_id": 0,
-        "publish_status": 4,
-        "title": "��ӯ����۽�ר��",
-        "begin_time": 1497528000000,
-        "end_time": 1497887940000,
-        "logo_image": "//z4.tuanimg.com/imagev2/zhaoshang/120x60.337c80bb6d74bb067ead2252dacbf43c.120x60.jpg",
-        "hot_brand_mark": 1,
-        "discount_rule_desc": "",
-        "minimal_discount": 0.2,
-        "platform_discount_tag": "",
-        "zc_discount_tag": "",
-        "lowest_price_without_miaosha": 9.5,
-        "discounts": [],
-        "updated_at": "2017-07-01 02:23:59"
-      },
-      "price": 18.8,
-      "price_performance_score": {
-        "score": 0,
-        "degree": 1,
-        "content": "�ϲ�"
-      },
-      "priority": 120,
-      "publish_status": 4,
-      "qrcode_url": "//z3.tuanimg.com/imagev2/site/300x300.58e1081669c31b7f9195a3bd045ba132.100x100.png",
-      "sale_stock": {
-        "total_kucun": 3877,
-        "lock_kucun": 0,
-        "kucun": 4600
-      },
-      "seckill": 0,
-      "seller_id": 794982,
-      "shop_discounts": [],
-      "show_on_ju_home": 1,
-      "sold": 293,
-      "special_deal_type": 0,
-      "square_image_url": "//z3.tuanimg.com/imagev2/trade/800x800.ed4ba81be4f0ee05273af4634dc907f9.310x310.jpg",
-      "taobao_id": "",
-      "taobao_url": "",
-      "title": "��ӯ��ζ������1000g",
-      "type": 1,
-      "url_name": "jiayingduo",
-      "wireless_info_share": "{\"lastUpdateTimeStamp\":1491889654640,\"dealShowInfoId\":-1,\"show_default_label\":1,\"discountType\":-1,\"lastUpdateTime\":\"2017-04-11 13:47:34\",\"beginTime\":\"2017-04-05 20:00:00\",\"endTimeStamp\":1491613140000,\"endTime\":\"2017-04-08 08:59:00\",\"dealId\":12095251,\"beginTimeStamp\":1491393600000,\"promotionText\":\"2��8��\"}",
-      "wuxian_price": 18.8,
-      "zid": "ze160728154532972093",
-      "xianshi": null
-    },
-    {
-      "after_sale_type": 0,
-      "begin_time": 1491094800000,
-      "bg_tag_id": 1425,
-      "brand_id": -1,
-      "deal_promotion": "{\"text\":\"��99Ԫ��10Ԫ\",\"type\":0,\"platform\":2,\"begin_time\":\"2017-04-10 21:46:00\",\"end_time\":\"2017-05-11 21:46:00\",\"last_update_time\":\"2017-05-11 21:32:22\",\"begin_timestamp\":1491831960000,\"end_timestamp\":1494510360000,\"last_update_timestamp\":1494509542000}",
-      "discount": 1.5,
-      "end_time": 1577840340000,
-      "fanjifen": {
-        "Z0": 24,
-        "Z1": 48,
-        "Z2": 71,
-        "Z3": 71,
-        "Z4": 71,
-        "Z5": 71
-      },
-      "good_comment_rate": "94.8",
-      "good_comment_rate_new": {
-        "good_comment_rate": "94.8",
-        "has_quality_comment": 0,
-        "total_num": 58,
-        "count_with_content": 14
-      },
-      "id": 15055545,
-      "image": "http://s3.mogucdn.com/p2/170609/upload_758k61alheg976e09e8d7gcbfbfkc_640x900.jpg_320x999.webp",
-      "is_baoyou": 1,
-      "is_fanjifen": 1,
-      "is_haitao": 0,
-      "is_hot": 0,
-      "is_hyper_market": 0,
-      "is_oos": 0,
-      "is_promotion": 0,
-      "list_price": 399,
-      "major_brand_id": 24687,
-      "origin_images": {
-        "image": "imagev2/trade/800x800.d56db6602373e14de230e4cd29fdb9ba.720x480+1-1.jpg",
-        "wireless_image": "imagev2/trade/800x800.d56db6602373e14de230e4cd29fdb9ba.640x700+1-1.jpg",
-        "square_image": "imagev2/trade/800x800.d56db6602373e14de230e4cd29fdb9ba.jpg"
-      },
-      "price": 59,
-      "price_performance_score": {
-        "score": 0,
-        "degree": 1,
-        "content": "�ϲ�"
-      },
-      "priority": 140,
-      "publish_status": 4,
-      "qrcode_url": "//z2.tuanimg.com/imagev2/site/360x360.e0ef7bf22a525215155075b0f340d43b.100x100.png",
-      "sale_stock": {
-        "total_kucun": 1750,
-        "lock_kucun": 0,
-        "kucun": 1674
-      },
-      "seckill": 0,
-      "seller_id": 1254608,
-      "shop_coupons": [
-        {
-          "amount": 500,
-          "startTimeStamp": 1470067200000,
-          "quato": 10000,
-          "endTimeStamp": 1470153599000,
-          "rule": "100-5",
-          "startTime": "2016-08-02 00:00:00.0",
-          "endTime": "2016-08-02 23:59:59.0",
-          "id": 11655,
-          "type": 1
-        },
-        {
-          "amount": 2000,
-          "startTimeStamp": 1469721600000,
-          "quato": 39900,
-          "endTimeStamp": 1470841199000,
-          "rule": "399-20",
-          "startTime": "2016-07-29 00:00:00.0",
-          "endTime": "2016-08-10 22:59:59.0",
-          "id": 10669,
-          "type": 1
-        }
-      ],
-      "shop_discounts": [],
-      "show_on_ju_home": 1,
-      "sold": 76,
-      "special_deal_type": 0,
-      "square_image_url": "//z2.tuanimg.com/imagev2/trade/800x800.d56db6602373e14de230e4cd29fdb9ba.310x310.jpg",
-      "taobao_id": "",
-      "taobao_url": "",
-      "title": "��ˬ�����Ứ��˿ϯ",
-      "type": 1,
-      "url_name": "haolanqing",
-      "wireless_info_share": "{\"lastUpdateTimeStamp\":1493095986377,\"dealShowInfoId\":-1,\"show_default_label\":1,\"discountType\":-1,\"lastUpdateTime\":\"2017-04-25 12:53:06\",\"beginTime\":\"2017-04-10 21:46:00\",\"endTimeStamp\":1494510360000,\"endTime\":\"2017-05-11 21:46:00\",\"dealId\":15055545,\"beginTimeStamp\":1491831960000,\"promotionText\":\"��99Ԫ��10Ԫ\"}",
-      "wuxian_price": 59,
-      "zid": "ze170314105427951887",
-      "xianshi": null
-    },
-    {
-      "after_sale_type": 0,
-      "begin_time": 1491440400000,
-      "bg_tag_id": 8773,
-      "brand_id": -1,
-      "deal_coupon": {
-        "wap_url": "//out.zhe800.com/m/deal/15127921?source=tao800_app&tbshop_jump_type=1&dealId=15127921&url=",
-        "price": 0,
-        "name": "",
-        "end_time": -28800000,
-        "description": "",
-        "begin_time": -28800000,
-        "url": "//out.zhe800.com/ju/deal/oushimaoji_15127921?dealId=15127921&tbshop_jump_type=1&url="
-      },
-      "discount": 5,
-      "end_time": 1577894340000,
-      "fanjifen": {
-        "Z0": 16,
-        "Z1": 31,
-        "Z2": 46,
-        "Z3": 46,
-        "Z4": 46,
-        "Z5": 46
-      },
-      "good_comment_rate": "100.0",
-      "good_comment_rate_new": {
-        "good_comment_rate": "100.0",
-        "has_quality_comment": 0,
-        "total_num": 14,
-        "count_with_content": 4
-      },
-      "id": 15127921,
-      "image": "http://s11.mogucdn.com/p2/170627/upload_8e00kf3eed95g22b8l3d371ee3hkf_640x900.jpg_320x999.webp",
-      "is_baoyou": 1,
-      "is_fanjifen": 1,
-      "is_haitao": 0,
-      "is_hot": 0,
-      "is_hyper_market": 0,
-      "is_oos": 0,
-      "is_promotion": 0,
-      "list_price": 76,
-      "major_brand_id": 4949,
-      "origin_images": {
-        "image": "imagev2/trade/800x800.fdad955af57edd8ddadc9670caaa166d.720x480+1-1.jpg",
-        "wireless_image": "imagev2/trade/800x800.fdad955af57edd8ddadc9670caaa166d.640x700+1-1.jpg",
-        "square_image": "imagev2/trade/800x800.fdad955af57edd8ddadc9670caaa166d.jpg"
-      },
-      "price": 38,
-      "price_performance_score": {
-        "score": 0,
-        "degree": 1,
-        "content": "�ϲ�"
-      },
-      "priority": 530,
-      "publish_status": 4,
-      "qrcode_url": "//z3.tuanimg.com/imagev2/site/360x360.9f3aee94a366120dd32476c23bfcc8f8.100x100.png",
-      "sale_stock": {
-        "total_kucun": 7867,
-        "lock_kucun": 0,
-        "kucun": 7842
-      },
-      "seckill": 0,
-      "seller_id": 525355,
-      "shop_discounts": [],
-      "show_on_ju_home": 1,
-      "sold": 25,
-      "special_deal_type": 0,
-      "square_image_url": "//z3.tuanimg.com/imagev2/trade/800x800.fdad955af57edd8ddadc9670caaa166d.310x310.jpg",
-      "taobao_id": "",
-      "taobao_url": "",
-      "title": "�������ԡ���Ҽ���װ����",
-      "type": 1,
-      "url_name": "oushimaoji",
-      "wuxian_price": 38,
-      "zid": "ze170312222012942766",
-      "xianshi": null
-    },
-    {
-      "after_sale_type": 0,
-      "begin_time": 1483837200000,
-      "bg_tag_id": 5043,
-      "brand_id": -1,
-      "deal_coupon": {
-        "wap_url": "//out.zhe800.com/m/deal/11379471?source=tao800_app&tbshop_jump_type=1&dealId=11379471&url=",
-        "price": 0,
-        "name": "",
-        "end_time": -28800000,
-        "description": "",
-        "begin_time": -28800000,
-        "url": "//out.zhe800.com/ju/deal/hanbanyund_11379471?dealId=11379471&tbshop_jump_type=1&url="
-      },
-      "discount": 2.9,
-      "end_time": 1577840340000,
-      "fanjifen": {
-        "Z0": 23,
-        "Z1": 45,
-        "Z2": 68,
-        "Z3": 68,
-        "Z4": 68,
-        "Z5": 68
-      },
-      "good_comment_rate": "93.1",
-      "good_comment_rate_new": {
-        "good_comment_rate": "93.1",
-        "has_quality_comment": 0,
-        "total_num": 29,
-        "count_with_content": 4
-      },
-      "id": 11379471,
-      "image": "http://s3.mogucdn.com/mlcdn/55cf19/170528_6076j884598dlf306d0b0l172a774_640x960.jpg_320x999.webp",
-      "is_baoyou": 1,
-      "is_fanjifen": 1,
-      "is_haitao": 0,
-      "is_hot": 0,
-      "is_hyper_market": 0,
-      "is_oos": 0,
-      "is_promotion": 0,
-      "list_price": 199,
-      "major_brand_id": 0,
-      "new_platform_manjian": [
-        {
-          "logo_link": "//www.zhe800.com/n/pcxindacu/rrctttjpc0211",
-          "activity_type": 4,
-          "end_time": 1486861140000,
-          "begin_time": 1486774800000,
-          "rules": "2-8",
-          "id": 6687,
-          "from_channel": 0
-        },
-        {
-          "logo_link": "//www.zhe800.com/n/pcxindacu/rrctttjpc0401",
-          "activity_type": 4,
-          "end_time": 1491094740000,
-          "begin_time": 1491008400000,
-          "rules": "2-8",
-          "id": 10717,
-          "from_channel": 0
-        }
-      ],
-      "origin_images": {
-        "image": "imagev2/trade/800x800.d681fbdf06a6762f8d7579ee9f724eca.720x480+1-1.jpg",
-        "wireless_image": "imagev2/trade/800x800.d681fbdf06a6762f8d7579ee9f724eca.640x700+1-1.jpg",
-        "square_image": "imagev2/trade/800x800.d681fbdf06a6762f8d7579ee9f724eca.jpg"
-      },
-      "price": 55.9,
-      "price_performance_score": {
-        "score": 0,
-        "degree": 1,
-        "content": "�ϲ�"
-      },
-      "priority": 170,
-      "publish_status": 4,
-      "qrcode_url": "//z2.tuanimg.com/imagev2/site/300x300.8c009977e479ea45e1f37a04d5c3ae54.100x100.png",
-      "sale_stock": {
-        "total_kucun": 0,
-        "lock_kucun": 0,
-        "kucun": 3441
-      },
-      "seckill": 0,
-      "seller_id": 472651,
-      "shop_coupons": [],
-      "shop_discounts": [],
-      "show_on_ju_home": 1,
-      "sold": 26,
-      "special_deal_type": 0,
-      "square_image_url": "//z2.tuanimg.com/imagev2/trade/800x800.d681fbdf06a6762f8d7579ee9f724eca.310x310.jpg",
-      "taobao_id": "",
-      "taobao_url": "",
-      "title": "�����˶�����Ь��ĥ��Ь",
-      "type": 1,
-      "url_name": "hanbanyund",
-      "wireless_info_share": "{\"lastUpdateTimeStamp\":1491093655907,\"weight\":38,\"thirdRightSwitch\":0,\"lastUpdateTime\":\"2017-04-02 08:40:55\",\"activityIds\":\"10717\",\"endTime\":\"2017-04-02 08:40:00\",\"promotionColor\":\"247,36,61,1\",\"footAlign\":0,\"beginTimeStamp\":1491007200000,\"promotionBorderColor\":\"255,255,255,1\",\"discountType\":14,\"footSwitch\":0,\"firstSwitch\":0,\"label_weight\":0,\"promotionBgColor\":\"255,255,255,1\",\"promotionText\":\"���2��8��\",\"show_default_label\":1,\"beginTime\":\"2017-04-01 08:40:00\",\"thirdSwitch\":0,\"dealId\":11379471,\"endTimeStamp\":1491093600000,\"point\":0,\"thirdLeftSwitch\":0,\"dealShowInfoId\":14846,\"secondSwitch\":0}",
-      "wuxian_price": 55.9,
-      "zid": "ze170103132423682021",
-      "xianshi": null
-    },
-    {
-      "after_sale_type": 0,
-      "begin_time": 1465401600000,
-      "bg_tag_id": 8309,
-      "brand_id": -1,
-      "deal_coupon": {
-        "wap_url": "//out.zhe800.com/m/deal/4824245?source=tao800_app&tbshop_jump_type=1&dealId=4824245&url=",
-        "price": 0,
-        "name": "",
-        "end_time": -28800000,
-        "description": "",
-        "begin_time": -28800000,
-        "url": "//out.zhe800.com/ju/deal/huangpuhej_4824245?dealId=4824245&tbshop_jump_type=1&url="
-      },
-      "discount": 3.4,
-      "end_time": 1577894340000,
-      "fanjifen": {
-        "Z0": 20,
-        "Z1": 40,
-        "Z2": 60,
-        "Z3": 60,
-        "Z4": 60,
-        "Z5": 60
-      },
-      "good_comment_rate": "98.3",
-      "good_comment_rate_new": {
-        "good_comment_rate": "98.3",
-        "has_quality_comment": 1,
-        "total_num": 300,
-        "count_with_content": 103
-      },
-      "id": 4824245,
-      "image": "http://s3.mogucdn.com/p2/170609/upload_61a8cfd3a2392854e5d3ij9chii34_640x900.jpg_320x999.webp",
-      "is_baoyou": 1,
-      "is_fanjifen": 1,
-      "is_haitao": 0,
-      "is_hot": 0,
-      "is_hyper_market": 0,
-      "is_oos": 0,
-      "is_promotion": 0,
-      "list_price": 150,
-      "major_brand_id": 3067,
-      "origin_images": {
-        "image": "imagev2/trade/800x800.772f22e28d1ca66172d342f2dec94d55.720x480+1-1.jpg",
-        "wireless_image": "imagev2/trade/800x800.772f22e28d1ca66172d342f2dec94d55.640x700+1-1.jpg",
-        "square_image": "imagev2/trade/800x800.772f22e28d1ca66172d342f2dec94d55.jpg"
-      },
-      "price": 49.9,
-      "price_performance_score": {
-        "score": 0,
-        "degree": 1,
-        "content": "�ϲ�"
-      },
-      "priority": 120,
-      "publish_status": 4,
-      "qrcode_url": "//z8.tuanimg.com/imagev2/site/300x300.d734853afa96f45f8859e526e30eeffe.100x100.png",
-      "sale_stock": {
-        "total_kucun": 3880,
-        "lock_kucun": 0,
-        "kucun": 3577
-      },
-      "seckill": 0,
-      "seller_id": 807580,
-      "shop_discounts": [],
-      "show_on_ju_home": 1,
-      "sold": 274,
-      "special_deal_type": 0,
-      "square_image_url": "//z8.tuanimg.com/imagev2/trade/800x800.772f22e28d1ca66172d342f2dec94d55.310x310.jpg",
-      "taobao_id": "",
-      "taobao_url": "",
-      "title": "���ֺͼ�֥�鱡Ƭ2500g",
-      "type": 1,
-      "url_name": "huangpuhej",
-      "wuxian_price": 49.9,
-      "zid": "ze160602092739714955",
-      "xianshi": null
-    },
-    {
-      "after_sale_type": 0,
-      "begin_time": 1471222800000,
-      "bg_tag_id": 4595,
-      "brand_id": 101083,
-      "deal_coupon": {
-        "wap_url": "//out.zhe800.com/m/deal/6219270?source=tao800_app&tbshop_jump_type=1&dealId=6219270&url=",
-        "price": 0,
-        "name": "",
-        "end_time": -28800000,
-        "description": "",
-        "begin_time": -28800000,
-        "url": "//out.zhe800.com/ju/deal/feikenansh_6219270?dealId=6219270&tbshop_jump_type=1&url="
-      },
-      "deal_promotion": "{\"text\":\"10Ԫ����ȯ\",\"type\":-1,\"platform\":2,\"begin_time\":\"2017-05-16 09:00:00\",\"end_time\":\"2017-05-21 23:59:59\",\"last_update_time\":\"2017-05-21 23:32:18\",\"begin_timestamp\":1494896400000,\"end_timestamp\":1495382399000,\"last_update_timestamp\":1495380738000}",
-      "discount": 5,
-      "end_time": 1577894340000,
-      "fanjifen": {
-        "Z0": 24,
-        "Z1": 48,
-        "Z2": 71,
-        "Z3": 71,
-        "Z4": 71,
-        "Z5": 71
-      },
-      "good_comment_rate": "98.0",
-      "good_comment_rate_new": {
-        "good_comment_rate": "98.0",
-        "has_quality_comment": 1,
-        "total_num": 1516,
-        "count_with_content": 419
-      },
-      "id": 6219270,
-      "image": "http://s3.mogucdn.com/p2/170629/upload_3c3fhcj3efld58i3cgckg191j2070_1600x2250.jpg_320x999.webp",
-      "is_baoyou": 1,
-      "is_fanjifen": 1,
-      "is_haitao": 0,
-      "is_hot": 0,
-      "is_hyper_market": 0,
-      "is_oos": 0,
-      "is_promotion": 0,
-      "list_price": 120,
-      "major_brand_id": 12323,
-      "new_platform_manjian": [
-        {
-          "logo_link": "//www.zhe800.com/n/pcxindacu/jdrx0310PC",
-          "activity_type": 1,
-          "end_time": 1489334340000,
-          "begin_time": 1489075200000,
-          "rules": "99-20",
-          "id": 8925,
-          "from_channel": 0
-        }
-      ],
-      "origin_images": {
-        "image": "imagev2/trade/800x800.15810958e54ea4605df6f28417ab7501.720x480+1-1.jpg",
-        "wireless_image": "imagev2/trade/800x800.15810958e54ea4605df6f28417ab7501.640x700+1-1.jpg",
-        "square_image": "imagev2/trade/800x800.15810958e54ea4605df6f28417ab7501.jpg"
-      },
-      "pinpai": {
-        "id": 101083,
-        "brand_id": 101083,
-        "url_name": "feike",
-        "name": "�ɿƸ��˻���ר��",
-        "link": "//brand.zhe800.com/feike?brandid=101083",
-        "deals_lowest_price": 26.9,
-        "deals_count": 12,
-        "on_sale_deals_count": 12,
-        "seller_id": 0,
-        "publish_status": 0,
-        "title": "�ɿƸ��˻���ר��",
-        "begin_time": 1488801600000,
-        "end_time": 1489193940000,
-        "logo_image": "//z4.tuanimg.com/imagev2/zhaoshang/120x60.cd31521a698d4b1796b43a3ab5a74350.120x60.jpg",
-        "hot_brand_mark": 1,
-        "discount_rule_desc": "",
-        "minimal_discount": 1.6,
-        "platform_discount_tag": "",
-        "zc_discount_tag": "",
-        "lowest_price_without_miaosha": 0,
-        "discounts": [],
-        "updated_at": "2017-07-01 02:10:31"
-      },
-      "price": 59,
-      "price_performance_score": {
-        "score": 0,
-        "degree": 1,
-        "content": "�ϲ�"
-      },
-      "priority": 839,
-      "publish_status": 4,
-      "qrcode_url": "//z2.tuanimg.com/imagev2/site/300x300.525100a2f86e6c58334e831f54a2359f.100x100.png",
-      "sale_stock": {
-        "total_kucun": 3120,
-        "lock_kucun": 0,
-        "kucun": 3097
-      },
-      "seckill": 0,
-      "seller_id": 306981,
-      "shop_coupons": [
-        {
-          "amount": 1000,
-          "limitCount": 0,
-          "releaseCount": 0,
-          "count": 1000,
-          "rule": "99-10",
-          "sessionId": "00000000",
-          "source": 0,
-          "type": 1,
-          "startTimeStamp": 1494896400000,
-          "quato": 9900,
-          "scope": 0,
-          "endTimeStamp": 1495382399000,
-          "startTime": "2017-05-16 09:00:00.0",
-          "endTime": "2017-05-21 23:59:59.0",
-          "id": 76087
-        },
-        {
-          "amount": 2000,
-          "limitCount": 0,
-          "releaseCount": 0,
-          "count": 1000,
-          "rule": "199-20",
-          "sessionId": "00000000",
-          "source": 0,
-          "type": 1,
-          "startTimeStamp": 1494896400000,
-          "quato": 19900,
-          "scope": 0,
-          "endTimeStamp": 1495382399000,
-          "startTime": "2017-05-16 09:00:00.0",
-          "endTime": "2017-05-21 23:59:59.0",
-          "id": 76093
-        },
-        {
-          "amount": 3000,
-          "limitCount": 0,
-          "releaseCount": 0,
-          "count": 1000,
-          "rule": "299-30",
-          "sessionId": "00000000",
-          "source": 0,
-          "type": 1,
-          "startTimeStamp": 1494896400000,
-          "quato": 29900,
-          "scope": 0,
-          "endTimeStamp": 1495382399000,
-          "startTime": "2017-05-16 09:00:00.0",
-          "endTime": "2017-05-21 23:59:59.0",
-          "id": 76105
-        }
-      ],
-      "shop_discounts": [],
-      "show_on_ju_home": 1,
-      "sold": 1655,
-      "special_deal_type": 0,
-      "square_image_url": "//z2.tuanimg.com/imagev2/trade/800x800.15810958e54ea4605df6f28417ab7501.310x310.jpg",
-      "taobao_id": "",
-      "taobao_url": "",
-      "title": "�ɿƵ綯3��ͷ���뵶��ʿ",
-      "type": 1,
-      "url_name": "feikenansh",
-      "wireless_info_share": "{\"lastUpdateTimeStamp\":1491908355129,\"dealShowInfoId\":-1,\"show_default_label\":1,\"discountType\":-1,\"lastUpdateTime\":\"2017-04-11 18:59:15\",\"beginTime\":\"2017-04-01 00:00:00\",\"endTimeStamp\":1491613199000,\"endTime\":\"2017-04-08 08:59:59\",\"dealId\":6219270,\"beginTimeStamp\":1490976000000,\"promotionText\":\"10Ԫ����ȯ\"}",
-      "wuxian_price": 59,
-      "youpinhui": {
-        "standard": "59Ԫ/��",
-        "character_1": "��ͷ����������������ͷ���������к���",
-        "is_youpin_plus": 0,
-        "character_3": "�Զ���ĥ������8Сʱ��磬��ʹ��60����",
-        "character_2": "˫�����浶��������ʽ�޵������벻����",
-        "image_url": "//z2.tuanimg.com/imagev2/site/720x300.a2e1e564b527c7bba7a11afee4595a70.jpg",
-        "specification": "��",
-        "comment_rate": {
-          "good_rate": "98.0",
-          "total": 1516
-        },
-        "priority": 0,
-        "recommend_reason": "��ͷ�������� ˫�����浶�� ���벻����",
-        "fromId": 6219270,
-        "long_title": "����Ʒ�㡿�ɿƵ綯3��ͷ���뵶",
-        "short_title": "�ɿ���ʿ���ʽ�綯���뵶",
-        "is_star": 0
-      },
-      "zid": "ze151120012059000726",
-      "xianshi": null
-    },
-    {
-      "after_sale_type": 0,
-      "begin_time": 1490144400000,
-      "bg_tag_id": 1381,
-      "brand_id": -1,
-      "deal_coupon": {
-        "wap_url": "//out.zhe800.com/m/deal/14309715?source=tao800_app&tbshop_jump_type=1&dealId=14309715&url=",
-        "price": 0,
-        "name": "",
-        "end_time": -28800000,
-        "description": "",
-        "begin_time": -28800000,
-        "url": "//out.zhe800.com/ju/deal/daocaorenn_14309715?dealId=14309715&tbshop_jump_type=1&url="
-      },
-      "deal_promotion": "{\"text\":\"2��8��\",\"type\":1,\"platform\":1,\"begin_time\":\"2017-06-21 09:00:00\",\"end_time\":\"2017-06-23 08:59:00\",\"last_update_time\":\"2017-06-23 08:35:14\",\"begin_timestamp\":1498006800000,\"end_timestamp\":1498179540000,\"last_update_timestamp\":1498178114000}",
-      "discount": 0.9,
-      "end_time": 1577840340000,
-      "fanjifen": {
-        "Z0": 20,
-        "Z1": 40,
-        "Z2": 60,
-        "Z3": 60,
-        "Z4": 60,
-        "Z5": 60
-      },
-      "good_comment_rate": "96.9",
-      "good_comment_rate_new": {
-        "good_comment_rate": "96.9",
-        "has_quality_comment": 1,
-        "total_num": 230,
-        "count_with_content": 166
-      },
-      "id": 14309715,
-      "image": "http://s3.mogucdn.com/p2/170627/upload_4lajdcl3je18hchebd1l09kij16cg_640x900.jpg_320x999.webp",
-      "is_baoyou": 1,
-      "is_fanjifen": 1,
-      "is_haitao": 0,
-      "is_hot": 0,
-      "is_hyper_market": 0,
-      "is_oos": 0,
-      "is_promotion": 0,
-      "list_price": 598,
-      "major_brand_id": 11739,
-      "new_platform_manjian": [
-        {
-          "logo_link": "//www.zhe800.com/n/pcxindacu/lfgzhu0621PC",
-          "activity_type": 4,
-          "end_time": 1498179540000,
-          "begin_time": 1498006800000,
-          "rules": "2-8,3-7.5",
-          "id": 19721,
-          "from_channel": 0
-        }
-      ],
-      "origin_images": {
-        "image": "imagev2/trade/1800x1800.2605bb5194dd69f93eb9f0f20c913612.720x480+1-1.jpg",
-        "wireless_image": "imagev2/trade/1800x1800.2605bb5194dd69f93eb9f0f20c913612.640x700+1-1.jpg",
-        "square_image": "imagev2/trade/1800x1800.2605bb5194dd69f93eb9f0f20c913612.jpg"
-      },
-      "price": 49.9,
-      "price_performance_score": {
-        "score": 0,
-        "degree": 1,
-        "content": "�ϲ�"
-      },
-      "priority": 881,
-      "publish_status": 4,
-      "qrcode_url": "//z2.tuanimg.com/imagev2/site/300x300.8997769d04b609bfd5d5e68d0188ce74.100x100.png",
-      "sale_stock": {
-        "total_kucun": 7238,
-        "lock_kucun": 0,
-        "kucun": 7217
-      },
-      "seckill": 0,
-      "seller_id": 1252172,
-      "shop_discounts": [],
-      "show_on_ju_home": 1,
-      "sold": 251,
-      "special_deal_type": 0,
-      "square_image_url": "//z2.tuanimg.com/imagev2/trade/1800x1800.2605bb5194dd69f93eb9f0f20c913612.310x310.jpg",
-      "taobao_id": "",
-      "taobao_url": "",
-      "title": "��������ʿ���ж���POLO��",
-      "type": 1,
-      "url_name": "daocaorenn",
-      "wuxian_price": 49.9,
-      "zid": "ze170315225934967272",
-      "xianshi": null
-    },
-    {
-      "after_sale_type": 0,
-      "begin_time": 1489547049000,
-      "bg_tag_id": 1358,
-      "brand_id": -1,
-      "discount": 2.1,
-      "end_time": 1577840340000,
-      "fanjifen": {
-        "Z0": 32,
-        "Z1": 64,
-        "Z2": 95,
-        "Z3": 95,
-        "Z4": 95,
-        "Z5": 95
-      },
-      "good_comment_rate": "100.0",
-      "good_comment_rate_new": {
-        "good_comment_rate": "100.0",
-        "has_quality_comment": 1,
-        "total_num": 21,
-        "count_with_content": 8
-      },
-      "id": 13914345,
-      "image": "http://s3.mogucdn.com/p2/170629/upload_6bl9c14c73g11bfjid9j7jfd71b82_640x900.jpg_320x999.webp",
-      "is_baoyou": 1,
-      "is_fanjifen": 1,
-      "is_haitao": 0,
-      "is_hot": 0,
-      "is_hyper_market": 0,
-      "is_oos": 0,
-      "is_promotion": 0,
-      "list_price": 389,
-      "major_brand_id": 14531,
-      "new_platform_manjian": [
-        {
-          "logo_link": "//www.zhe800.com/n/pcxindacu/zhc0419pc",
-          "activity_type": 5,
-          "end_time": 1492703940000,
-          "begin_time": 1492430400000,
-          "rules": "3-1",
-          "id": 12299,
-          "from_channel": 0
-        },
-        {
-          "logo_link": "//www.zhe800.com/n/pcxindacu/zhc0419pc",
-          "activity_type": 5,
-          "end_time": 1492747140000,
-          "begin_time": 1492704000000,
-          "rules": "3-1",
-          "id": 12883,
-          "from_channel": 0
-        },
-        {
-          "logo_link": "//www.zhe800.com/n/pcxindacu/xrgnj0513pc",
-          "activity_type": 5,
-          "end_time": 1494809940000,
-          "begin_time": 1494637200000,
-          "rules": "3-1",
-          "id": 15409,
-          "from_channel": 0
-        },
-        {
-          "logo_link": "//shop.zhe800.com/zhe800_act/16045",
-          "activity_type": 1,
-          "end_time": 1495382340000,
-          "begin_time": 1495108800000,
-          "rules": "188-100",
-          "id": 16045,
-          "from_channel": 0
-        },
-        {
-          "logo_link": "//www.zhe800.com/n/pcxindacu/aml0524PC",
-          "activity_type": 5,
-          "end_time": 1495760340000,
-          "begin_time": 1495587600000,
-          "rules": "3-1",
-          "id": 16713,
-          "from_channel": 0
-        }
-      ],
-      "origin_images": {
-        "image": "imagev2/trade/800x800.bc2551f06f4eb8db0345fe19393dda0b.720x480+1-1.jpg",
-        "wireless_image": "imagev2/trade/800x800.bc2551f06f4eb8db0345fe19393dda0b.640x700+1-1.jpg",
-        "square_image": "imagev2/trade/800x800.bc2551f06f4eb8db0345fe19393dda0b.jpg"
-      },
-      "price": 79,
-      "price_performance_score": {
-        "score": 0,
-        "degree": 1,
-        "content": "�ϲ�"
-      },
-      "priority": 190,
-      "publish_status": 4,
-      "qrcode_url": "//z2.tuanimg.com/imagev2/site/300x300.2271b08925fad22f6f36fa4e7bff82e6.100x100.png",
-      "sale_stock": {
-        "total_kucun": 1139,
-        "lock_kucun": 0,
-        "kucun": 1139
-      },
-      "seckill": 0,
-      "seller_id": 985731,
-      "shop_coupons": [],
-      "shop_discounts": [],
-      "show_on_ju_home": 1,
-      "sold": 23,
-      "special_deal_type": 0,
-      "square_image_url": "//z2.tuanimg.com/imagev2/trade/800x800.bc2551f06f4eb8db0345fe19393dda0b.310x310.jpg",
-      "taobao_id": "",
-      "taobao_url": "",
-      "title": "������������ʿ�������Ʊ���",
-      "type": 1,
-      "url_name": "qiadileeyu",
-      "wireless_info_share": "{\"lastUpdateTimeStamp\":1491958257069,\"weight\":38,\"thirdRightSwitch\":0,\"lastUpdateTime\":\"2017-04-12 08:50:57\",\"activityIds\":\"11477\",\"endTime\":\"2017-04-12 08:50:00\",\"promotionColor\":\"247,36,61,1\",\"footAlign\":0,\"beginTimeStamp\":1491785400000,\"promotionBorderColor\":\"255,255,255,1\",\"discountType\":14,\"footSwitch\":0,\"firstSwitch\":0,\"label_weight\":0,\"promotionBgColor\":\"255,255,255,1\",\"promotionText\":\"���ǿ񻶵�2�����\",\"show_default_label\":1,\"beginTime\":\"2017-04-10 08:50:00\",\"thirdSwitch\":0,\"dealId\":13914345,\"endTimeStamp\":1491958200000,\"point\":0,\"thirdLeftSwitch\":0,\"dealShowInfoId\":14912,\"secondSwitch\":0}",
-      "wuxian_price": 79,
-      "zid": "ze170307130253907955",
-      "xianshi": null
-    },
-    {
-      "after_sale_type": 0,
-      "begin_time": 1488589200000,
-      "bg_tag_id": 8232,
-      "brand_id": 0,
-      "discount": 3.7,
-      "end_time": 1577894340000,
-      "fanjifen": {
-        "Z0": 15,
-        "Z1": 29,
-        "Z2": 44,
-        "Z3": 44,
-        "Z4": 44,
-        "Z5": 44
-      },
-      "good_comment_rate": "98.2",
-      "good_comment_rate_new": {
-        "good_comment_rate": "98.2",
-        "has_quality_comment": 1,
-        "total_num": 391,
-        "count_with_content": 109
-      },
-      "id": 13070785,
-      "image": "http://s3.mogucdn.com/mlcdn/c45406/170602_64k540i5316lc4e4i94g42c276gl0_640x832.png_320x999.jpg",
-      "is_baoyou": 1,
-      "is_fanjifen": 1,
-      "is_haitao": 0,
-      "is_hot": 0,
-      "is_hyper_market": 0,
-      "is_oos": 0,
-      "is_promotion": 0,
-      "list_price": 98,
-      "major_brand_id": 7105,
-      "new_platform_manjian": [
-        {
-          "logo_link": "//www.zhe800.com/n/pcxindacu/lszxcs211PC",
-          "activity_type": 4,
-          "end_time": 1487033940000,
-          "begin_time": 1486774800000,
-          "rules": "2-8.8",
-          "id": 6931,
-          "from_channel": 0
-        },
-        {
-          "logo_link": "//www.zhe800.com/n/pcxindacu/lszxcs311PC",
-          "activity_type": 4,
-          "end_time": 1489453140000,
-          "begin_time": 1489194000000,
-          "rules": "2-8.8",
-          "id": 8873,
-          "from_channel": 0
-        }
-      ],
-      "origin_images": {
-        "image": "imagev2/trade/800x800.12320936bd4c225b9afa02ea853e9455.720x480+1-1.jpg",
-        "wireless_image": "imagev2/trade/800x800.12320936bd4c225b9afa02ea853e9455.640x700+1-1.jpg",
-        "square_image": "imagev2/trade/800x800.12320936bd4c225b9afa02ea853e9455.jpg"
-      },
-      "price": 36,
-      "price_performance_score": {
-        "score": 0,
-        "degree": 1,
-        "content": "�ϲ�"
-      },
-      "priority": 120,
-      "publish_status": 4,
-      "qrcode_url": "//z3.tuanimg.com/imagev2/site/300x300.ed4318be7a6fdcf472ffd70ca04a8417.100x100.png",
-      "sale_stock": {
-        "total_kucun": 3602,
-        "lock_kucun": 0,
-        "kucun": 2956
-      },
-      "seckill": 0,
-      "seller_id": 72362,
-      "shop_discounts": [],
-      "show_on_ju_home": 1,
-      "sold": 380,
-      "special_deal_type": 0,
-      "square_image_url": "//z3.tuanimg.com/imagev2/trade/800x800.12320936bd4c225b9afa02ea853e9455.310x310.jpg",
-      "taobao_id": "",
-      "taobao_url": "",
-      "title": "�㹽500g",
-      "type": 1,
-      "url_name": "gutianganh",
-      "wuxian_price": 36,
-      "zid": "ze161203203708563187",
-      "xianshi": null
-    },
-    {
-      "after_sale_type": 0,
-      "begin_time": 1485133200000,
-      "bg_tag_id": 4580,
-      "brand_id": 91567,
-      "deal_promotion": "{\"text\":\"��99Ԫ��10Ԫ\",\"type\":0,\"platform\":1,\"begin_time\":\"2017-01-23 09:00:00\",\"end_time\":\"2020-01-01 08:59:00\",\"last_update_time\":\"2017-07-01 22:03:55\",\"begin_timestamp\":1485133200000,\"end_timestamp\":1577840340000,\"last_update_timestamp\":1498917835000}",
-      "discount": 3.3,
-      "end_time": 1577840340000,
-      "fanjifen": {
-        "Z0": 26,
-        "Z1": 52,
-        "Z2": 78,
-        "Z3": 78,
-        "Z4": 78,
-        "Z5": 78
-      },
-      "good_comment_rate": "98.9",
-      "good_comment_rate_new": {
-        "good_comment_rate": "98.9",
-        "has_quality_comment": 1,
-        "total_num": 456,
-        "count_with_content": 112
-      },
-      "id": 12026885,
-      "image": "http://s3.mogucdn.com/p2/170312/986597686_461j8ckh23k637f60kf2cid6f9033_640x832.png_320x999.jpg",
-      "is_baoyou": 1,
-      "is_fanjifen": 1,
-      "is_haitao": 0,
-      "is_hot": 0,
-      "is_hyper_market": 0,
-      "is_oos": 0,
-      "is_promotion": 0,
-      "list_price": 202,
-      "major_brand_id": 12323,
-      "new_platform_manjian": [
-        {
-          "logo_link": "//shop.zhe800.com/zhe800_act/6421",
-          "activity_type": 1,
-          "end_time": 1577840340000,
-          "begin_time": 1485133200000,
-          "rules": "99-10",
-          "id": 6421,
-          "from_channel": 0
-        }
-      ],
-      "origin_images": {
-        "image": "imagev2/trade/800x800.5477a2472884bb3d1f76c262ab9cfcf6.720x480+1-1.jpg",
-        "wireless_image": "imagev2/trade/800x800.5477a2472884bb3d1f76c262ab9cfcf6.640x700+1-1.jpg",
-        "square_image": "imagev2/trade/800x800.5477a2472884bb3d1f76c262ab9cfcf6.jpg"
-      },
-      "pinpai": {
-        "id": 91567,
-        "brand_id": 91567,
-        "url_name": "feike",
-        "name": "�ɿƸ��˻���ר��",
-        "link": "//brand.zhe800.com/feike?brandid=91567",
-        "deals_lowest_price": 26.9,
-        "deals_count": 62,
-        "on_sale_deals_count": 62,
-        "seller_id": 0,
-        "publish_status": 4,
-        "title": "�ɿƸ��˻���ר��",
-        "begin_time": 1485133200000,
-        "end_time": 1577840340000,
-        "logo_image": "//z4.tuanimg.com/imagev2/zhaoshang/120x60.77707b3c7baf70f39c6fd3a2d0f6864e.120x60.jpg",
-        "hot_brand_mark": 1,
-        "discount_rule_desc": "��99Ԫ��10Ԫ",
-        "minimal_discount": 1.6,
-        "platform_discount_tag": "",
-        "zc_discount_tag": "����",
-        "lowest_price_without_miaosha": 26.9,
-        "discounts": [
-          {
-            "begin_time": 1485133200000,
-            "end_time": 1577840340000,
-            "rule": "99-10",
-            "rule_name": "�ɿ�",
-            "rule_type": 1001,
-            "rule_desc": "��99Ԫ��10Ԫ",
-            "rule_tag": "����",
-            "rule_range": 3
-          }
+        "leftbottom_taglist": [
+
         ],
-        "updated_at": "2017-07-01 22:22:48"
+        "props": [
+          "休闲连衣裙女2017夏新款韩版修身线束灰色气质褶皱直筒T恤裙"
+        ]
       },
-      "price": 65,
-      "price_performance_score": {
-        "score": 0,
-        "degree": 1,
-        "content": "�ϲ�"
+      {
+        "orgPrice": "￥127.15",
+        "acm": "3.ms.2_4_1keufp8.0.13386-25176.gcxrYqoe9ljI6.t_0-lc_16",
+        "iid": "1keufp8",
+        "link": "http://item.meilishuo.com/h5/detail/1keufp8?acm=3.ms.2_4_1keufp8.0.13386-25176.gcxrYqoe9ljI6.t_0-lc_16",
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1keufp8?acm=3.ms.2_4_1keufp8.0.13386-25176.gcxrYqoe9ljI6.t_0-lc_16",
+        "itemType": 5,
+        "popularStar": null,
+        "cparam": null,
+        "itemMarks": "",
+        "show": {
+          "w": 320,
+          "img": "http://s3.mogucdn.com/mlcdn/c45406/170702_55ah33eaaab28b2e8d0a4hj06b890_640x960.jpg_320x999.jpg",
+          "h": 416
+        },
+        "type": 2,
+        "sale": 0,
+        "title": "【小格调】新款甜美小清新流苏时尚宽松短袖雪纺连衣裙女",
+        "cfav": 0,
+        "price": "￥127.15",
+        "ptpC": "_mb_mls_10057922_wap-index_noab-noab",
+        "lefttop_taglist": [
+
+        ],
+        "shopId": 1101598777,
+        "titleTags": null,
+        "showLarge": {
+          "img": "http://s11.mogucdn.com/mlcdn/c45406/170702_55ah33eaaab28b2e8d0a4hj06b890_640x960.jpg_560x999.jpg",
+          "w": 560,
+          "h": 840
+        },
+        "leftbottom_taglist": [
+
+        ],
+        "props": [
+          "【小格调】新款甜美小清新流苏时尚宽松短袖雪纺连衣裙女"
+        ]
       },
-      "priority": 300,
-      "publish_status": 4,
-      "qrcode_url": "//z8.tuanimg.com/imagev2/site/300x300.c700b7d2f52c10163def821d5c2f2702.100x100.png",
-      "sale_stock": {
-        "total_kucun": 14203,
-        "lock_kucun": 0,
-        "kucun": 13536
+      {
+        "orgPrice": "￥112.86",
+        "acm": "3.ms.2_4_1keufp4.0.13386-25176.gcxrYqoe9ljI6.t_0-lc_16",
+        "iid": "1keufp4",
+        "link": "http://item.meilishuo.com/h5/detail/1keufp4?acm=3.ms.2_4_1keufp4.0.13386-25176.gcxrYqoe9ljI6.t_0-lc_16",
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1keufp4?acm=3.ms.2_4_1keufp4.0.13386-25176.gcxrYqoe9ljI6.t_0-lc_16",
+        "itemType": 5,
+        "popularStar": null,
+        "cparam": null,
+        "itemMarks": "",
+        "show": {
+          "w": 320,
+          "img": "http://s3.mogucdn.com/mlcdn/c45406/170702_4hg3g3i5bj5cb85dh4fd56gjl2j1k_640x960.jpg_320x999.jpg",
+          "h": 416
+        },
+        "type": 2,
+        "sale": 0,
+        "title": "新款夏季韩版气质修身A字裙短裙子女夏显瘦高腰大红色褶皱连衣裙",
+        "cfav": 0,
+        "price": "￥112.86",
+        "ptpC": "_mb_mls_10057922_wap-index_noab-noab",
+        "lefttop_taglist": [
+
+        ],
+        "shopId": 11072212,
+        "titleTags": null,
+        "showLarge": {
+          "img": "http://s3.mogucdn.com/mlcdn/c45406/170702_4hg3g3i5bj5cb85dh4fd56gjl2j1k_640x960.jpg_560x999.jpg",
+          "w": 560,
+          "h": 840
+        },
+        "leftbottom_taglist": [
+
+        ],
+        "props": [
+          "新款夏季韩版气质修身A字裙短裙子女夏显瘦高腰大红色褶皱连衣裙"
+        ]
       },
-      "seckill": 0,
-      "seller_id": 141132,
-      "shop_coupons": [],
-      "shop_discounts": [],
-      "show_on_ju_home": 1,
-      "sku": {
-        "1001": {
-          "image": "//z8.tuanimg.com/imagev2/trade/800x800.5477a2472884bb3d1f76c262ab9cfcf6.310x340+1-1.310x340.jpg",
-          "oos": 0,
-          "leaded": 1,
-          "color": "��ɫ",
-          "square_image": "//z8.tuanimg.com/imagev2/trade/800x800.5477a2472884bb3d1f76c262ab9cfcf6.640x640+1-1.jpg",
-          "id": "1001"
-        }
+      {
+        "orgPrice": "￥113.00",
+        "acm": "3.ms.2_4_1keufli.0.13386-25176.gcxrYqoe9ljI6.t_0-lc_16",
+        "iid": "1keufli",
+        "link": "http://item.meilishuo.com/h5/detail/1keufli?acm=3.ms.2_4_1keufli.0.13386-25176.gcxrYqoe9ljI6.t_0-lc_16",
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1keufli?acm=3.ms.2_4_1keufli.0.13386-25176.gcxrYqoe9ljI6.t_0-lc_16",
+        "itemType": 5,
+        "popularStar": null,
+        "cparam": null,
+        "itemMarks": "",
+        "show": {
+          "w": 320,
+          "img": "http://s3.mogucdn.com/mlcdn/c45406/170702_8589hej3clhga502hd1ii3269af37_640x832.jpg_320x999.jpg",
+          "h": 416
+        },
+        "type": 2,
+        "sale": 0,
+        "title": "2017夏季新款时尚一字领露肩显瘦格子连衣裙（送腰带）",
+        "cfav": 0,
+        "price": "￥79.10",
+        "ptpC": "_mb_mls_10057922_wap-index_noab-noab",
+        "lefttop_taglist": [
+
+        ],
+        "shopId": 1201692742,
+        "titleTags": null,
+        "showLarge": {
+          "img": "http://s11.mogucdn.com/mlcdn/c45406/170702_8589hej3clhga502hd1ii3269af37_640x832.jpg_560x999.jpg",
+          "w": 560,
+          "h": 728
+        },
+        "leftbottom_taglist": [
+
+        ],
+        "props": [
+          "2017夏季新款时尚一字领露肩显瘦格子连衣裙（送腰带）"
+        ]
       },
-      "sold": 572,
-      "special_deal_type": 0,
-      "square_image_url": "//z8.tuanimg.com/imagev2/trade/800x800.5477a2472884bb3d1f76c262ab9cfcf6.310x310.jpg",
-      "taobao_id": "",
-      "taobao_url": "",
-      "title": "�ɿƵ紵������ô��ʵ紵��",
-      "type": 1,
-      "url_name": "feikedianc",
-      "wireless_info_share": "{\"lastUpdateTimeStamp\":1493070753033,\"dealShowInfoId\":-1,\"show_default_label\":1,\"discountType\":-1,\"lastUpdateTime\":\"2017-04-25 05:52:33\",\"beginTime\":\"2017-01-23 09:00:00\",\"endTimeStamp\":1577840340000,\"endTime\":\"2020-01-01 08:59:00\",\"dealId\":12026885,\"beginTimeStamp\":1485133200000,\"promotionText\":\"��99Ԫ��10Ԫ\"}",
-      "wuxian_price": 65,
-      "zid": "ze170120090555726400",
-      "xianshi": null,
-      "promotion": {
-        "promotionText": "��99Ԫ��10Ԫ"
+      {
+        "orgPrice": "￥50.00",
+        "acm": "3.ms.2_1_1h64wbg.1.5865-25176.gcxrYqoe9ljI6.t_0-lc_16-c_1_16_191123565_0_1_0-c1_",
+        "iid": "1h64wbg",
+        "link": "http://item.meilishuo.com/h5/detail/1h64wbg?acm=3.ms.2_1_1h64wbg.1.5865-25176.gcxrYqoe9ljI6.t_0-lc_16-c_1_16_191123565_0_1_0-c1_&cparam=MTQ5OTAwMjQwOF8xN2M5Z3FnXzkyYTUzMWUzYmE1ZGMxMzIyZDhiOGU0M2MzNGM1ZWNmXzE2XzBfMTkxMTIzNTY1XzAuNDQ2NF8wXzFfMV85Ml8wXzA=",
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1h64wbg?acm=3.ms.2_1_1h64wbg.1.5865-25176.gcxrYqoe9ljI6.t_0-lc_16-c_1_16_191123565_0_1_0-c1_&cparam=MTQ5OTAwMjQwOF8xN2M5Z3FnXzkyYTUzMWUzYmE1ZGMxMzIyZDhiOGU0M2MzNGM1ZWNmXzE2XzBfMTkxMTIzNTY1XzAuNDQ2NF8wXzFfMV85Ml8wXzA=",
+        "itemType": 3,
+        "popularStar": "0",
+        "cparam": "MTQ5OTAwMjQwOF8xN2M5Z3FnXzkyYTUzMWUzYmE1ZGMxMzIyZDhiOGU0M2MzNGM1ZWNmXzE2XzBfMTkxMTIzNTY1XzAuNDQ2NF8wXzFfMV85Ml8wXzA=",
+        "itemMarks": "82",
+        "show": {
+          "w": 320,
+          "img": "http://s3.mogucdn.com/p2/170309/980363356_7c17i09ak23bj8ec2f08fh683l9l9_640x832.jpg_320x999.jpg",
+          "h": 416
+        },
+        "type": 2,
+        "sale": "157",
+        "title": "【两件减5元】春夏新款性感百搭修身外穿打底内搭吊带背心女短款",
+        "cfav": "1215",
+        "price": "￥35.00",
+        "ptpC": "_mb_mls_10057922_wap-index_noab-noab",
+        "lefttop_taglist": [
+
+        ],
+        "shopId": "101003678",
+        "titleTags": null,
+        "showLarge": {
+          "img": "http://s3.mogucdn.com/p2/170309/980363356_7c17i09ak23bj8ec2f08fh683l9l9_640x832.jpg_560x999.jpg",
+          "w": 560,
+          "h": 728
+        },
+        "leftbottom_taglist": [
+          "http://s2.mogucdn.com/p2/170307/1_53je1gbj88bjheidae4al1le4h94i_60x28.png"
+        ],
+        "props": [
+          "【两件减5元】春夏新款性感百搭修身外穿打底内搭吊带背心女短款"
+        ]
+      },
+      {
+        "orgPrice": "￥58.00",
+        "acm": "3.ms.2_1_1kd7udu.1.5865-25176.gcxrYqoe9ljI6.t_0-lc_16-c_1_16_221930080_0_2_0-c1_",
+        "iid": "1kd7udu",
+        "link": "http://item.meilishuo.com/h5/detail/1kd7udu?acm=3.ms.2_1_1kd7udu.1.5865-25176.gcxrYqoe9ljI6.t_0-lc_16-c_1_16_221930080_0_2_0-c1_&cparam=MTQ5OTAwMjQwOF8xNmZ1N2dhXzQ0ZGM4ZjZmMWExMTA2NzhiMmU5MzM1ZTQxM2VkMzFjXzE2XzFfMjIxOTMwMDgwXzAuOTE4M18wXzJfMV8zMTBfMF8w",
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1kd7udu?acm=3.ms.2_1_1kd7udu.1.5865-25176.gcxrYqoe9ljI6.t_0-lc_16-c_1_16_221930080_0_2_0-c1_&cparam=MTQ5OTAwMjQwOF8xNmZ1N2dhXzQ0ZGM4ZjZmMWExMTA2NzhiMmU5MzM1ZTQxM2VkMzFjXzE2XzFfMjIxOTMwMDgwXzAuOTE4M18wXzJfMV8zMTBfMF8w",
+        "itemType": 3,
+        "popularStar": "5",
+        "cparam": "MTQ5OTAwMjQwOF8xNmZ1N2dhXzQ0ZGM4ZjZmMWExMTA2NzhiMmU5MzM1ZTQxM2VkMzFjXzE2XzFfMjIxOTMwMDgwXzAuOTE4M18wXzJfMV8zMTBfMF8w",
+        "itemMarks": "",
+        "show": {
+          "w": 320,
+          "img": "http://s3.mogucdn.com/mlcdn/c45406/170602_64k540i5316lc4e4i94g42c276gl0_640x832.png_320x999.jpg",
+          "h": 416
+        },
+        "type": 2,
+        "sale": "229",
+        "title": "夏季新款韩版亮片T恤女短袖夏五角星圆领上衣修身显瘦百搭打底衫",
+        "cfav": "121",
+        "price": "￥58.00",
+        "ptpC": "_mb_mls_10057922_wap-index_noab-noab",
+        "lefttop_taglist": [
+
+        ],
+        "shopId": "101006844",
+        "titleTags": null,
+        "showLarge": {
+          "img": "http://s3.mogucdn.com/mlcdn/c45406/170602_64k540i5316lc4e4i94g42c276gl0_640x832.png_560x999.jpg",
+          "w": 560,
+          "h": 728
+        },
+        "leftbottom_taglist": [
+          "http://s2.mogucdn.com/p2/170307/1_53je1gbj88bjheidae4al1le4h94i_60x28.png"
+        ],
+        "props": [
+          "夏季新款韩版亮片T恤女短袖夏五角星圆领上衣修身显瘦百搭打底衫"
+        ]
+      },
+      {
+        "orgPrice": "￥70.00",
+        "acm": "3.ms.2_4_1keufje.0.13386-25176.gcxrYqoe9ljI6.t_0-lc_16",
+        "iid": "1keufje",
+        "link": "http://item.meilishuo.com/h5/detail/1keufje?acm=3.ms.2_4_1keufje.0.13386-25176.gcxrYqoe9ljI6.t_0-lc_16",
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1keufje?acm=3.ms.2_4_1keufje.0.13386-25176.gcxrYqoe9ljI6.t_0-lc_16",
+        "itemType": 5,
+        "popularStar": null,
+        "cparam": null,
+        "itemMarks": "",
+        "show": {
+          "w": 320,
+          "img": "http://s3.mogucdn.com/mlcdn/c45406/170702_36l57k1ad928a77hk73eh4ll2kcl0_640x960.jpg_320x999.jpg",
+          "h": 416
+        },
+        "type": 2,
+        "sale": 0,
+        "title": "2017夏秋新款女韩版条纹打底衫百搭时尚修身大码中袖休闲衬衫",
+        "cfav": 0,
+        "price": "￥49.00",
+        "ptpC": "_mb_mls_10057922_wap-index_noab-noab",
+        "lefttop_taglist": [
+
+        ],
+        "shopId": 107997,
+        "titleTags": null,
+        "showLarge": {
+          "img": "http://s3.mogucdn.com/mlcdn/c45406/170702_36l57k1ad928a77hk73eh4ll2kcl0_640x960.jpg_560x999.jpg",
+          "w": 560,
+          "h": 840
+        },
+        "leftbottom_taglist": [
+
+        ],
+        "props": [
+          "2017夏秋新款女韩版条纹打底衫百搭时尚修身大码中袖休闲衬衫"
+        ]
+      },
+      {
+        "orgPrice": "￥70.95",
+        "acm": "3.ms.2_4_1keufj8.0.13386-25176.gcxrYqoe9ljI6.t_0-lc_16",
+        "iid": "1keufj8",
+        "link": "http://item.meilishuo.com/h5/detail/1keufj8?acm=3.ms.2_4_1keufj8.0.13386-25176.gcxrYqoe9ljI6.t_0-lc_16",
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1keufj8?acm=3.ms.2_4_1keufj8.0.13386-25176.gcxrYqoe9ljI6.t_0-lc_16",
+        "itemType": 5,
+        "popularStar": null,
+        "cparam": null,
+        "itemMarks": "",
+        "show": {
+          "w": 320,
+          "img": "http://s3.mogucdn.com/mlcdn/c45406/170702_47jcce62261333di9j1i9b6iicf55_640x960.jpg_320x999.jpg",
+          "h": 416
+        },
+        "type": 2,
+        "sale": 0,
+        "title": "夏季新款女装时尚软妹蝴蝶结袖露肩条纹短裙气质百搭女学生连衣裙",
+        "cfav": 0,
+        "price": "￥49.66",
+        "ptpC": "_mb_mls_10057922_wap-index_noab-noab",
+        "lefttop_taglist": [
+
+        ],
+        "shopId": 1101602995,
+        "titleTags": null,
+        "showLarge": {
+          "img": "http://s3.mogucdn.com/mlcdn/c45406/170702_47jcce62261333di9j1i9b6iicf55_640x960.jpg_560x999.jpg",
+          "w": 560,
+          "h": 840
+        },
+        "leftbottom_taglist": [
+
+        ],
+        "props": [
+          "夏季新款女装时尚软妹蝴蝶结袖露肩条纹短裙气质百搭女学生连衣裙"
+        ]
+      },
+      {
+        "orgPrice": "￥113.00",
+        "acm": "3.ms.2_4_1keufi8.0.13386-25176.gcxrYqoe9ljI6.t_0-lc_16",
+        "iid": "1keufi8",
+        "link": "http://item.meilishuo.com/h5/detail/1keufi8?acm=3.ms.2_4_1keufi8.0.13386-25176.gcxrYqoe9ljI6.t_0-lc_16",
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1keufi8?acm=3.ms.2_4_1keufi8.0.13386-25176.gcxrYqoe9ljI6.t_0-lc_16",
+        "itemType": 5,
+        "popularStar": null,
+        "cparam": null,
+        "itemMarks": "",
+        "show": {
+          "w": 320,
+          "img": "http://s3.mogucdn.com/mlcdn/c45406/170702_764gg1e2d2f8gi58c2f5492178c29_640x960.jpg_320x999.jpg",
+          "h": 416
+        },
+        "type": 2,
+        "sale": 0,
+        "title": "2017夏季新款韩版蝙蝠袖上衣羽毛印花雪纺衫女防晒衣",
+        "cfav": 0,
+        "price": "￥113.00",
+        "ptpC": "_mb_mls_10057922_wap-index_noab-noab",
+        "lefttop_taglist": [
+
+        ],
+        "shopId": 22465679,
+        "titleTags": null,
+        "showLarge": {
+          "img": "http://s3.mogucdn.com/mlcdn/c45406/170702_764gg1e2d2f8gi58c2f5492178c29_640x960.jpg_560x999.jpg",
+          "w": 560,
+          "h": 840
+        },
+        "leftbottom_taglist": [
+
+        ],
+        "props": [
+          "2017夏季新款韩版蝙蝠袖上衣羽毛印花雪纺衫女防晒衣"
+        ]
+      },
+      {
+        "orgPrice": "￥84.29",
+        "acm": "3.ms.2_4_1keufh0.0.13386-25176.gcxrYqoe9ljI6.t_0-lc_16",
+        "iid": "1keufh0",
+        "link": "http://item.meilishuo.com/h5/detail/1keufh0?acm=3.ms.2_4_1keufh0.0.13386-25176.gcxrYqoe9ljI6.t_0-lc_16",
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1keufh0?acm=3.ms.2_4_1keufh0.0.13386-25176.gcxrYqoe9ljI6.t_0-lc_16",
+        "itemType": 5,
+        "popularStar": null,
+        "cparam": null,
+        "itemMarks": "",
+        "show": {
+          "w": 320,
+          "img": "http://s3.mogucdn.com/mlcdn/c45406/170702_765780e8fk4d0j63f7g9lbch14bed_640x960.jpg_320x999.jpg",
+          "h": 416
+        },
+        "type": 2,
+        "sale": 0,
+        "title": "2017夏装新款韩版修身显瘦时尚包臀气质中长款包臀裙冰丝料",
+        "cfav": 0,
+        "price": "￥84.29",
+        "ptpC": "_mb_mls_10057922_wap-index_noab-noab",
+        "lefttop_taglist": [
+
+        ],
+        "shopId": 20655309,
+        "titleTags": null,
+        "showLarge": {
+          "img": "http://s3.mogucdn.com/mlcdn/c45406/170702_765780e8fk4d0j63f7g9lbch14bed_640x960.jpg_560x999.jpg",
+          "w": 560,
+          "h": 840
+        },
+        "leftbottom_taglist": [
+
+        ],
+        "props": [
+          "2017夏装新款韩版修身显瘦时尚包臀气质中长款包臀裙冰丝料"
+        ]
+      },
+      {
+        "orgPrice": "￥80.00",
+        "acm": "3.ms.2_4_1keuffo.0.13386-25176.gcxrYqoe9ljI6.t_0-lc_16",
+        "iid": "1keuffo",
+        "link": "http://item.meilishuo.com/h5/detail/1keuffo?acm=3.ms.2_4_1keuffo.0.13386-25176.gcxrYqoe9ljI6.t_0-lc_16",
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1keuffo?acm=3.ms.2_4_1keuffo.0.13386-25176.gcxrYqoe9ljI6.t_0-lc_16",
+        "itemType": 5,
+        "popularStar": null,
+        "cparam": null,
+        "itemMarks": "",
+        "show": {
+          "w": 320,
+          "img": "http://s3.mogucdn.com/mlcdn/c45406/170702_0c4eed718bkge82h521k8b6igl01k_640x960.jpg_320x999.jpg",
+          "h": 416
+        },
+        "type": 2,
+        "sale": 0,
+        "title": "夏季新款韩版学院风甜美显瘦百搭简约短袖针织撞色拼色连衣裙子",
+        "cfav": 0,
+        "price": "￥80.00",
+        "ptpC": "_mb_mls_10057922_wap-index_noab-noab",
+        "lefttop_taglist": [
+
+        ],
+        "shopId": 22786315,
+        "titleTags": null,
+        "showLarge": {
+          "img": "http://s3.mogucdn.com/mlcdn/c45406/170702_0c4eed718bkge82h521k8b6igl01k_640x960.jpg_560x999.jpg",
+          "w": 560,
+          "h": 840
+        },
+        "leftbottom_taglist": [
+
+        ],
+        "props": [
+          "夏季新款韩版学院风甜美显瘦百搭简约短袖针织撞色拼色连衣裙子"
+        ]
+      },
+      {
+        "orgPrice": "￥57.00",
+        "acm": "3.ms.2_4_1keufew.0.13386-25176.gcxrYqoe9ljI6.t_0-lc_16",
+        "iid": "1keufew",
+        "link": "http://item.meilishuo.com/h5/detail/1keufew?acm=3.ms.2_4_1keufew.0.13386-25176.gcxrYqoe9ljI6.t_0-lc_16",
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1keufew?acm=3.ms.2_4_1keufew.0.13386-25176.gcxrYqoe9ljI6.t_0-lc_16",
+        "itemType": 5,
+        "popularStar": null,
+        "cparam": null,
+        "itemMarks": "",
+        "show": {
+          "w": 320,
+          "img": "http://s3.mogucdn.com/mlcdn/c45406/170702_6c0lkig96gfi1aag12116lh2e8l0d_640x960.jpg_320x999.jpg",
+          "h": 416
+        },
+        "type": 2,
+        "sale": 0,
+        "title": "夏季新款韩版条纹宽松时尚百搭半袖T恤上衣女",
+        "cfav": 0,
+        "price": "￥57.00",
+        "ptpC": "_mb_mls_10057922_wap-index_noab-noab",
+        "lefttop_taglist": [
+
+        ],
+        "shopId": 20338757,
+        "titleTags": null,
+        "showLarge": {
+          "img": "http://s17.mogucdn.com/mlcdn/c45406/170702_6c0lkig96gfi1aag12116lh2e8l0d_640x960.jpg_560x999.jpg",
+          "w": 560,
+          "h": 840
+        },
+        "leftbottom_taglist": [
+
+        ],
+        "props": [
+          "夏季新款韩版条纹宽松时尚百搭半袖T恤上衣女"
+        ]
+      },
+      {
+        "orgPrice": "￥71.15",
+        "acm": "3.ms.2_4_1keufes.0.13386-25176.gcxrYqoe9ljI6.t_0-lc_16",
+        "iid": "1keufes",
+        "link": "http://item.meilishuo.com/h5/detail/1keufes?acm=3.ms.2_4_1keufes.0.13386-25176.gcxrYqoe9ljI6.t_0-lc_16",
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1keufes?acm=3.ms.2_4_1keufes.0.13386-25176.gcxrYqoe9ljI6.t_0-lc_16",
+        "itemType": 5,
+        "popularStar": null,
+        "cparam": null,
+        "itemMarks": "",
+        "show": {
+          "w": 320,
+          "img": "http://s3.mogucdn.com/mlcdn/c45406/170702_205a199836hk29281b22kc0bac63a_640x960.jpg_320x999.jpg",
+          "h": 416
+        },
+        "type": 2,
+        "sale": 0,
+        "title": "【 小格调 】新款韩版气质甜美露肩荷叶边宽松条纹雪纺衫衬衫女",
+        "cfav": 0,
+        "price": "￥71.15",
+        "ptpC": "_mb_mls_10057922_wap-index_noab-noab",
+        "lefttop_taglist": [
+
+        ],
+        "shopId": 1101598777,
+        "titleTags": null,
+        "showLarge": {
+          "img": "http://s3.mogucdn.com/mlcdn/c45406/170702_205a199836hk29281b22kc0bac63a_640x960.jpg_560x999.jpg",
+          "w": 560,
+          "h": 840
+        },
+        "leftbottom_taglist": [
+
+        ],
+        "props": [
+          "【 小格调 】新款韩版气质甜美露肩荷叶边宽松条纹雪纺衫衬衫女"
+        ]
+      },
+      {
+        "orgPrice": "￥185.00",
+        "acm": "3.ms.2_4_1keufb0.0.13386-25176.gcxrYqoe9ljI6.t_0-lc_16",
+        "iid": "1keufb0",
+        "link": "http://item.meilishuo.com/h5/detail/1keufb0?acm=3.ms.2_4_1keufb0.0.13386-25176.gcxrYqoe9ljI6.t_0-lc_16",
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1keufb0?acm=3.ms.2_4_1keufb0.0.13386-25176.gcxrYqoe9ljI6.t_0-lc_16",
+        "itemType": 5,
+        "popularStar": null,
+        "cparam": null,
+        "itemMarks": "",
+        "show": {
+          "w": 320,
+          "img": "http://s3.mogucdn.com/mlcdn/c45406/170702_5ekjca0iee27e9kfjfdjk8hj8l03j_640x960.jpg_320x999.jpg",
+          "h": 416
+        },
+        "type": 2,
+        "sale": 0,
+        "title": "秋冬款女装新款邓紫棋同款毛毛女装长毛仿皮草外套灰色白色粉色",
+        "cfav": 0,
+        "price": "￥185.00",
+        "ptpC": "_mb_mls_10057922_wap-index_noab-noab",
+        "lefttop_taglist": [
+
+        ],
+        "shopId": 110258,
+        "titleTags": null,
+        "showLarge": {
+          "img": "http://s11.mogucdn.com/mlcdn/c45406/170702_5ekjca0iee27e9kfjfdjk8hj8l03j_640x960.jpg_560x999.jpg",
+          "w": 560,
+          "h": 840
+        },
+        "leftbottom_taglist": [
+
+        ],
+        "props": [
+          "秋冬款女装新款邓紫棋同款毛毛女装长毛仿皮草外套灰色白色粉色"
+        ]
+      },
+      {
+        "orgPrice": "￥85.00",
+        "acm": "3.ms.2_1_1ka92k4.1.5865-25176.gcxrYqoe9ljI6.t_0-lc_16-c_1_16_194700289_0_3_0-c1_",
+        "iid": "1ka92k4",
+        "link": "http://item.meilishuo.com/h5/detail/1ka92k4?acm=3.ms.2_1_1ka92k4.1.5865-25176.gcxrYqoe9ljI6.t_0-lc_16-c_1_16_194700289_0_3_0-c1_&cparam=MTQ5OTAwMjQwOF8xNmR0ajJ3XzViZWNmNTRhMWVlZmRhNjY1MzU1N2EwZDkzZmE2NTAzXzE2XzJfMTk0NzAwMjg5XzAuOTIwMl8wXzNfMV85NzNfMF8w",
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1ka92k4?acm=3.ms.2_1_1ka92k4.1.5865-25176.gcxrYqoe9ljI6.t_0-lc_16-c_1_16_194700289_0_3_0-c1_&cparam=MTQ5OTAwMjQwOF8xNmR0ajJ3XzViZWNmNTRhMWVlZmRhNjY1MzU1N2EwZDkzZmE2NTAzXzE2XzJfMTk0NzAwMjg5XzAuOTIwMl8wXzNfMV85NzNfMF8w",
+        "itemType": 3,
+        "popularStar": "0",
+        "cparam": "MTQ5OTAwMjQwOF8xNmR0ajJ3XzViZWNmNTRhMWVlZmRhNjY1MzU1N2EwZDkzZmE2NTAzXzE2XzJfMTk0NzAwMjg5XzAuOTIwMl8wXzNfMV85NzNfMF8w",
+        "itemMarks": "82",
+        "show": {
+          "w": 320,
+          "img": "http://s3.mogucdn.com/mlcdn/c45406/170414_693691k7l746ha5b38k6ej27lf948_640x832.jpg_320x999.jpg",
+          "h": 416
+        },
+        "type": 2,
+        "sale": "79",
+        "title": "【面料棉】夏季新品修身显瘦纯色打底衫长＼短袖V领单件T恤",
+        "cfav": "221",
+        "price": "￥59.50",
+        "ptpC": "_mb_mls_10057922_wap-index_noab-noab",
+        "lefttop_taglist": [
+
+        ],
+        "shopId": "200707620",
+        "titleTags": null,
+        "showLarge": {
+          "img": "http://s3.mogucdn.com/mlcdn/c45406/170414_693691k7l746ha5b38k6ej27lf948_640x832.jpg_560x999.jpg",
+          "w": 560,
+          "h": 728
+        },
+        "leftbottom_taglist": [
+          "http://s2.mogucdn.com/p2/170307/1_5k6k8eiffl43633479294a49f8gci_60x28.png"
+        ],
+        "props": [
+          "【面料棉】夏季新品修身显瘦纯色打底衫长＼短袖V领单件T恤"
+        ]
+      },
+      {
+        "orgPrice": "￥55.00",
+        "acm": "3.ms.2_1_1h66dss.1.5865-25176.gcxrYqoe9ljI6.t_0-lc_16-c_1_16_193004880_0_4_0-c1_",
+        "iid": "1h66dss",
+        "link": "http://item.meilishuo.com/h5/detail/1h66dss?acm=3.ms.2_1_1h66dss.1.5865-25176.gcxrYqoe9ljI6.t_0-lc_16-c_1_16_193004880_0_4_0-c1_&cparam=MTQ5OTAwMjQwOF8xNmZtNWp1X2VkMGNmODAzNzlhZGZlZTczNWE3NjkyYjc1YzY0MjE4XzE2XzNfMTkzMDA0ODgwXzAuOTI4N18wXzRfMV8zMTBfMF8w",
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1h66dss?acm=3.ms.2_1_1h66dss.1.5865-25176.gcxrYqoe9ljI6.t_0-lc_16-c_1_16_193004880_0_4_0-c1_&cparam=MTQ5OTAwMjQwOF8xNmZtNWp1X2VkMGNmODAzNzlhZGZlZTczNWE3NjkyYjc1YzY0MjE4XzE2XzNfMTkzMDA0ODgwXzAuOTI4N18wXzRfMV8zMTBfMF8w",
+        "itemType": 3,
+        "popularStar": "5",
+        "cparam": "MTQ5OTAwMjQwOF8xNmZtNWp1X2VkMGNmODAzNzlhZGZlZTczNWE3NjkyYjc1YzY0MjE4XzE2XzNfMTkzMDA0ODgwXzAuOTI4N18wXzRfMV8zMTBfMF8w",
+        "itemMarks": "",
+        "show": {
+          "w": 320,
+          "img": "http://s3.mogucdn.com/p2/170312/986597686_461j8ckh23k637f60kf2cid6f9033_640x832.png_320x999.jpg",
+          "h": 416
+        },
+        "type": 2,
+        "sale": "164",
+        "title": "17春季新款打底衫刺绣T恤镶钻修身印花短袖上衣",
+        "cfav": "1070",
+        "price": "￥55.00",
+        "ptpC": "_mb_mls_10057922_wap-index_noab-noab",
+        "lefttop_taglist": [
+
+        ],
+        "shopId": "101006844",
+        "titleTags": null,
+        "showLarge": {
+          "img": "http://s3.mogucdn.com/p2/170312/986597686_461j8ckh23k637f60kf2cid6f9033_640x832.png_560x999.jpg",
+          "w": 560,
+          "h": 728
+        },
+        "leftbottom_taglist": [
+          "http://s2.mogucdn.com/p2/170307/1_5k6k8eiffl43633479294a49f8gci_60x28.png"
+        ],
+        "props": [
+          "17春季新款打底衫刺绣T恤镶钻修身印花短袖上衣"
+        ]
+      },
+      {
+        "orgPrice": "￥70.00",
+        "acm": "3.ms.2_4_1keuf20.0.13386-25176.gcxrYqoe9ljI6.t_0-lc_16",
+        "iid": "1keuf20",
+        "link": "http://item.meilishuo.com/h5/detail/1keuf20?acm=3.ms.2_4_1keuf20.0.13386-25176.gcxrYqoe9ljI6.t_0-lc_16",
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1keuf20?acm=3.ms.2_4_1keuf20.0.13386-25176.gcxrYqoe9ljI6.t_0-lc_16",
+        "itemType": 5,
+        "popularStar": null,
+        "cparam": null,
+        "itemMarks": "",
+        "show": {
+          "w": 320,
+          "img": "http://s3.mogucdn.com/mlcdn/55cf19/170702_6gah9jb25hjjle6jd94084g60g3ge_640x960.jpg_320x999.jpg",
+          "h": 416
+        },
+        "type": 2,
+        "sale": 0,
+        "title": "2017韩系chic褶皱露肩一字领微透薄款防晒衣宽松长袖上衣",
+        "cfav": 0,
+        "price": "￥70.00",
+        "ptpC": "_mb_mls_10057922_wap-index_noab-noab",
+        "lefttop_taglist": [
+
+        ],
+        "shopId": 109332,
+        "titleTags": null,
+        "showLarge": {
+          "img": "http://s3.mogucdn.com/mlcdn/55cf19/170702_6gah9jb25hjjle6jd94084g60g3ge_640x960.jpg_560x999.jpg",
+          "w": 560,
+          "h": 840
+        },
+        "leftbottom_taglist": [
+
+        ],
+        "props": [
+          "2017韩系chic褶皱露肩一字领微透薄款防晒衣宽松长袖上衣"
+        ]
+      },
+      {
+        "orgPrice": "￥98.60",
+        "acm": "3.ms.2_4_1keuf0k.0.13386-25176.gcxrYqoe9ljI6.t_0-lc_16",
+        "iid": "1keuf0k",
+        "link": "http://item.meilishuo.com/h5/detail/1keuf0k?acm=3.ms.2_4_1keuf0k.0.13386-25176.gcxrYqoe9ljI6.t_0-lc_16",
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1keuf0k?acm=3.ms.2_4_1keuf0k.0.13386-25176.gcxrYqoe9ljI6.t_0-lc_16",
+        "itemType": 5,
+        "popularStar": null,
+        "cparam": null,
+        "itemMarks": "",
+        "show": {
+          "w": 320,
+          "img": "http://s11.mogucdn.com/mlcdn/c45406/170702_8e7af0627670igk7b6449jh274jf7_640x960.jpg_320x999.jpg",
+          "h": 416
+        },
+        "type": 2,
+        "sale": 0,
+        "title": "2017夏季新款韩版宽松白色七分袖中长款樱桃刺绣袖口拼接T恤",
+        "cfav": 0,
+        "price": "￥69.02",
+        "ptpC": "_mb_mls_10057922_wap-index_noab-noab",
+        "lefttop_taglist": [
+
+        ],
+        "shopId": 1201720342,
+        "titleTags": null,
+        "showLarge": {
+          "img": "http://s3.mogucdn.com/mlcdn/c45406/170702_8e7af0627670igk7b6449jh274jf7_640x960.jpg_560x999.jpg",
+          "w": 560,
+          "h": 840
+        },
+        "leftbottom_taglist": [
+
+        ],
+        "props": [
+          "2017夏季新款韩版宽松白色七分袖中长款樱桃刺绣袖口拼接T恤"
+        ]
+      },
+      {
+        "orgPrice": "￥168.58",
+        "acm": "3.ms.2_4_1keuexs.0.13386-25176.gcxrYqoe9ljI6.t_0-lc_16",
+        "iid": "1keuexs",
+        "link": "http://item.meilishuo.com/h5/detail/1keuexs?acm=3.ms.2_4_1keuexs.0.13386-25176.gcxrYqoe9ljI6.t_0-lc_16",
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1keuexs?acm=3.ms.2_4_1keuexs.0.13386-25176.gcxrYqoe9ljI6.t_0-lc_16",
+        "itemType": 5,
+        "popularStar": null,
+        "cparam": null,
+        "itemMarks": "",
+        "show": {
+          "w": 320,
+          "img": "http://s3.mogucdn.com/mlcdn/c45406/170702_0h553jalkf20a2c2fk897f1969b20_640x960.jpg_320x999.jpg",
+          "h": 416
+        },
+        "type": 2,
+        "sale": 0,
+        "title": "【 小格调 】新品韩版甜美小清新高腰宽松显瘦镂空蕾丝连衣裙女",
+        "cfav": 0,
+        "price": "￥168.58",
+        "ptpC": "_mb_mls_10057922_wap-index_noab-noab",
+        "lefttop_taglist": [
+
+        ],
+        "shopId": 1101598777,
+        "titleTags": null,
+        "showLarge": {
+          "img": "http://s3.mogucdn.com/mlcdn/c45406/170702_0h553jalkf20a2c2fk897f1969b20_640x960.jpg_560x999.jpg",
+          "w": 560,
+          "h": 840
+        },
+        "leftbottom_taglist": [
+
+        ],
+        "props": [
+          "【 小格调 】新品韩版甜美小清新高腰宽松显瘦镂空蕾丝连衣裙女"
+        ]
+      },
+      {
+        "orgPrice": "￥112.85",
+        "acm": "3.ms.2_4_1keueuq.0.13386-25176.gcxrYqoe9ljI6.t_0-lc_16",
+        "iid": "1keueuq",
+        "link": "http://item.meilishuo.com/h5/detail/1keueuq?acm=3.ms.2_4_1keueuq.0.13386-25176.gcxrYqoe9ljI6.t_0-lc_16",
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1keueuq?acm=3.ms.2_4_1keueuq.0.13386-25176.gcxrYqoe9ljI6.t_0-lc_16",
+        "itemType": 5,
+        "popularStar": null,
+        "cparam": null,
+        "itemMarks": "",
+        "show": {
+          "w": 320,
+          "img": "http://s3.mogucdn.com/mlcdn/c45406/170702_0k2ace4308g6839ce89l20e940kg3_640x960.jpg_320x999.jpg",
+          "h": 416
+        },
+        "type": 2,
+        "sale": 0,
+        "title": "V领白色气质连衣裙女夏2017新款抽绳学生宽松A字裙送吊带",
+        "cfav": 0,
+        "price": "￥78.99",
+        "ptpC": "_mb_mls_10057922_wap-index_noab-noab",
+        "lefttop_taglist": [
+
+        ],
+        "shopId": 21005478,
+        "titleTags": null,
+        "showLarge": {
+          "img": "http://s3.mogucdn.com/mlcdn/c45406/170702_0k2ace4308g6839ce89l20e940kg3_640x960.jpg_560x999.jpg",
+          "w": 560,
+          "h": 840
+        },
+        "leftbottom_taglist": [
+
+        ],
+        "props": [
+          "V领白色气质连衣裙女夏2017新款抽绳学生宽松A字裙送吊带"
+        ]
+      },
+      {
+        "orgPrice": "￥185.00",
+        "acm": "3.ms.2_4_1keuet0.0.13386-25176.gcxrYqoe9ljI6.t_0-lc_16",
+        "iid": "1keuet0",
+        "link": "http://item.meilishuo.com/h5/detail/1keuet0?acm=3.ms.2_4_1keuet0.0.13386-25176.gcxrYqoe9ljI6.t_0-lc_16",
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1keuet0?acm=3.ms.2_4_1keuet0.0.13386-25176.gcxrYqoe9ljI6.t_0-lc_16",
+        "itemType": 5,
+        "popularStar": null,
+        "cparam": null,
+        "itemMarks": "",
+        "show": {
+          "w": 320,
+          "img": "http://s3.mogucdn.com/mlcdn/c45406/170702_18996dbcj805clb1kelfhc13h3j1g_640x960.jpg_320x999.jpg",
+          "h": 416
+        },
+        "type": 2,
+        "sale": 0,
+        "title": "微胖妹妹雪纺裙子2017新款大码女装夏装藏肉显瘦遮肚子连衣裙",
+        "cfav": 0,
+        "price": "￥185.00",
+        "ptpC": "_mb_mls_10057922_wap-index_noab-noab",
+        "lefttop_taglist": [
+
+        ],
+        "shopId": 103787,
+        "titleTags": null,
+        "showLarge": {
+          "img": "http://s3.mogucdn.com/mlcdn/c45406/170702_18996dbcj805clb1kelfhc13h3j1g_640x960.jpg_560x999.jpg",
+          "w": 560,
+          "h": 840
+        },
+        "leftbottom_taglist": [
+
+        ],
+        "props": [
+          "微胖妹妹雪纺裙子2017新款大码女装夏装藏肉显瘦遮肚子连衣裙"
+        ]
+      },
+      {
+        "orgPrice": "￥84.29",
+        "acm": "3.ms.2_4_1keuequ.0.13386-25176.gcxrYqoe9ljI6.t_0-lc_16",
+        "iid": "1keuequ",
+        "link": "http://item.meilishuo.com/h5/detail/1keuequ?acm=3.ms.2_4_1keuequ.0.13386-25176.gcxrYqoe9ljI6.t_0-lc_16",
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1keuequ?acm=3.ms.2_4_1keuequ.0.13386-25176.gcxrYqoe9ljI6.t_0-lc_16",
+        "itemType": 5,
+        "popularStar": null,
+        "cparam": null,
+        "itemMarks": "",
+        "show": {
+          "w": 320,
+          "img": "http://s3.mogucdn.com/mlcdn/c45406/170702_62bhl9k9bi0egcibb8hcg7ga38e9b_640x960.jpg_320x999.jpg",
+          "h": 416
+        },
+        "type": 2,
+        "sale": 0,
+        "title": "夏季新品大V领针织衫精致刺绣鸟套头款宽松打底衫潮流破洞女上衣",
+        "cfav": 0,
+        "price": "￥59.00",
+        "ptpC": "_mb_mls_10057922_wap-index_noab-noab",
+        "lefttop_taglist": [
+
+        ],
+        "shopId": 20655309,
+        "titleTags": null,
+        "showLarge": {
+          "img": "http://s3.mogucdn.com/mlcdn/c45406/170702_62bhl9k9bi0egcibb8hcg7ga38e9b_640x960.jpg_560x999.jpg",
+          "w": 560,
+          "h": 840
+        },
+        "leftbottom_taglist": [
+
+        ],
+        "props": [
+          "夏季新品大V领针织衫精致刺绣鸟套头款宽松打底衫潮流破洞女上衣"
+        ]
+      },
+      {
+        "orgPrice": "￥84.29",
+        "acm": "3.ms.2_4_1keuemi.0.13386-25176.gcxrYqoe9ljI6.t_0-lc_16",
+        "iid": "1keuemi",
+        "link": "http://item.meilishuo.com/h5/detail/1keuemi?acm=3.ms.2_4_1keuemi.0.13386-25176.gcxrYqoe9ljI6.t_0-lc_16",
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1keuemi?acm=3.ms.2_4_1keuemi.0.13386-25176.gcxrYqoe9ljI6.t_0-lc_16",
+        "itemType": 5,
+        "popularStar": null,
+        "cparam": null,
+        "itemMarks": "",
+        "show": {
+          "w": 320,
+          "img": "http://s3.mogucdn.com/mlcdn/c45406/170702_0753cag54i0h48f2k2l4j438l6ebf_640x960.jpg_320x999.jpg",
+          "h": 416
+        },
+        "type": 2,
+        "sale": 0,
+        "title": "【 小格调 】新款韩版时尚文艺百搭宽松显瘦人物印花短袖T恤女",
+        "cfav": 0,
+        "price": "￥84.29",
+        "ptpC": "_mb_mls_10057922_wap-index_noab-noab",
+        "lefttop_taglist": [
+
+        ],
+        "shopId": 1101598777,
+        "titleTags": null,
+        "showLarge": {
+          "img": "http://s3.mogucdn.com/mlcdn/c45406/170702_0753cag54i0h48f2k2l4j438l6ebf_640x960.jpg_560x999.jpg",
+          "w": 560,
+          "h": 840
+        },
+        "leftbottom_taglist": [
+
+        ],
+        "props": [
+          "【 小格调 】新款韩版时尚文艺百搭宽松显瘦人物印花短袖T恤女"
+        ]
+      },
+      {
+        "orgPrice": "￥60.95",
+        "acm": "3.ms.2_4_1keuelu.0.13386-25176.gcxrYqoe9ljI6.t_0-lc_16",
+        "iid": "1keuelu",
+        "link": "http://item.meilishuo.com/h5/detail/1keuelu?acm=3.ms.2_4_1keuelu.0.13386-25176.gcxrYqoe9ljI6.t_0-lc_16",
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1keuelu?acm=3.ms.2_4_1keuelu.0.13386-25176.gcxrYqoe9ljI6.t_0-lc_16",
+        "itemType": 5,
+        "popularStar": null,
+        "cparam": null,
+        "itemMarks": "",
+        "show": {
+          "w": 320,
+          "img": "http://s3.mogucdn.com/mlcdn/c45406/170702_1k088jf8521af7646iej3afi7j5l0_640x960.jpg_320x999.jpg",
+          "h": 416
+        },
+        "type": 2,
+        "sale": 0,
+        "title": "夏季新款女装韩版宽松时尚印花短袖T恤拼接长款网纱防晒透视罩衫",
+        "cfav": 0,
+        "price": "￥42.66",
+        "ptpC": "_mb_mls_10057922_wap-index_noab-noab",
+        "lefttop_taglist": [
+
+        ],
+        "shopId": 1101602995,
+        "titleTags": null,
+        "showLarge": {
+          "img": "http://s3.mogucdn.com/mlcdn/c45406/170702_1k088jf8521af7646iej3afi7j5l0_640x960.jpg_560x999.jpg",
+          "w": 560,
+          "h": 840
+        },
+        "leftbottom_taglist": [
+
+        ],
+        "props": [
+          "夏季新款女装韩版宽松时尚印花短袖T恤拼接长款网纱防晒透视罩衫"
+        ]
+      },
+      {
+        "orgPrice": "￥56.00",
+        "acm": "3.ms.2_1_1k9ypbs.1.5865-25176.gcxrYqoe9ljI6.t_0-lc_16-c_1_16_194512433_0_5_0-c1_",
+        "iid": "1k9ypbs",
+        "link": "http://item.meilishuo.com/h5/detail/1k9ypbs?acm=3.ms.2_1_1k9ypbs.1.5865-25176.gcxrYqoe9ljI6.t_0-lc_16-c_1_16_194512433_0_5_0-c1_&cparam=MTQ5OTAwMjQwOF8xNjh1Y2dzX2U1MTU4ZGYyNmUzZTAxZDA1YzVlZmQ1OGIwYzE1OWIwXzE2XzRfMTk0NTEyNDMzXzAuNzcxNl8wXzVfMV83MjlfMF8w",
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1k9ypbs?acm=3.ms.2_1_1k9ypbs.1.5865-25176.gcxrYqoe9ljI6.t_0-lc_16-c_1_16_194512433_0_5_0-c1_&cparam=MTQ5OTAwMjQwOF8xNjh1Y2dzX2U1MTU4ZGYyNmUzZTAxZDA1YzVlZmQ1OGIwYzE1OWIwXzE2XzRfMTk0NTEyNDMzXzAuNzcxNl8wXzVfMV83MjlfMF8w",
+        "itemType": 3,
+        "popularStar": "0",
+        "cparam": "MTQ5OTAwMjQwOF8xNjh1Y2dzX2U1MTU4ZGYyNmUzZTAxZDA1YzVlZmQ1OGIwYzE1OWIwXzE2XzRfMTk0NTEyNDMzXzAuNzcxNl8wXzVfMV83MjlfMF8w",
+        "itemMarks": "82 62",
+        "show": {
+          "w": 320,
+          "img": "http://s3.mogucdn.com/p2/170410/upload_6l71ceh551a1hbk2djg6lhc1543bk_640x960.jpg_320x999.jpg",
+          "h": 416
+        },
+        "type": 2,
+        "sale": "52",
+        "title": "短袖T恤女士字母印花V领上衣大码紧身体恤",
+        "cfav": "144",
+        "price": "￥56.00",
+        "ptpC": "_mb_mls_10057922_wap-index_noab-noab",
+        "lefttop_taglist": [
+
+        ],
+        "shopId": "1300350508",
+        "titleTags": null,
+        "showLarge": {
+          "img": "http://s3.mogucdn.com/p2/170410/upload_6l71ceh551a1hbk2djg6lhc1543bk_640x960.jpg_560x999.jpg",
+          "w": 560,
+          "h": 840
+        },
+        "leftbottom_taglist": [
+          "http://s2.mogucdn.com/p2/170307/1_5k6k8eiffl43633479294a49f8gci_60x28.png"
+        ],
+        "props": [
+          "短袖T恤女士字母印花V领上衣大码紧身体恤"
+        ]
+      },
+      {
+        "orgPrice": "￥59.00",
+        "acm": "3.ms.2_1_1h48rmq.1.5865-25176.gcxrYqoe9ljI6.t_0-lc_16-c_1_16_188824882_0_6_0-c1_",
+        "iid": "1h48rmq",
+        "link": "http://item.meilishuo.com/h5/detail/1h48rmq?acm=3.ms.2_1_1h48rmq.1.5865-25176.gcxrYqoe9ljI6.t_0-lc_16-c_1_16_188824882_0_6_0-c1_&cparam=MTQ5OTAwMjQwOF8xMWtfZGJjZGNjZDNlMjE3YmQ4ZTEyNDUwZjM1OTE5ZmExYzhfMTZfNV8xODg4MjQ4ODJfMF8wXzZfMV81MTlfMF8w",
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1h48rmq?acm=3.ms.2_1_1h48rmq.1.5865-25176.gcxrYqoe9ljI6.t_0-lc_16-c_1_16_188824882_0_6_0-c1_&cparam=MTQ5OTAwMjQwOF8xMWtfZGJjZGNjZDNlMjE3YmQ4ZTEyNDUwZjM1OTE5ZmExYzhfMTZfNV8xODg4MjQ4ODJfMF8wXzZfMV81MTlfMF8w",
+        "itemType": 3,
+        "popularStar": "5",
+        "cparam": "MTQ5OTAwMjQwOF8xMWtfZGJjZGNjZDNlMjE3YmQ4ZTEyNDUwZjM1OTE5ZmExYzhfMTZfNV8xODg4MjQ4ODJfMF8wXzZfMV81MTlfMF8w",
+        "itemMarks": "98",
+        "show": {
+          "w": 320,
+          "img": "http://s3.mogucdn.com/p2/170206/1336089095_0g71j9i9119db4jj21bc584i981h1_640x842.jpg_320x999.jpg",
+          "h": 416
+        },
+        "type": 2,
+        "sale": "36",
+        "title": "宋慧乔同款衬衫女夏七分蝙蝠袖学院中长款大码宽松韩版雪纺白衬衣",
+        "cfav": "533",
+        "price": "￥59.00",
+        "ptpC": "_mb_mls_10057922_wap-index_noab-noab",
+        "lefttop_taglist": [
+
+        ],
+        "shopId": "1201720082",
+        "titleTags": null,
+        "showLarge": {
+          "img": "http://s3.mogucdn.com/p2/170206/1336089095_0g71j9i9119db4jj21bc584i981h1_640x842.jpg_560x999.jpg",
+          "w": 560,
+          "h": 737
+        },
+        "leftbottom_taglist": [
+          "http://s2.mogucdn.com/p2/170307/1_5k6k8eiffl43633479294a49f8gci_60x28.png"
+        ],
+        "props": [
+          "宋慧乔同款衬衫女夏七分蝙蝠袖学院中长款大码宽松韩版雪纺白衬衣"
+        ]
+      },
+      {
+        "orgPrice": "￥7.15",
+        "acm": "3.ms.2_4_1keuelo.0.13386-25176.gcxrYqoe9ljI6.t_0-lc_16",
+        "iid": "1keuelo",
+        "link": "http://item.meilishuo.com/h5/detail/1keuelo?acm=3.ms.2_4_1keuelo.0.13386-25176.gcxrYqoe9ljI6.t_0-lc_16",
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1keuelo?acm=3.ms.2_4_1keuelo.0.13386-25176.gcxrYqoe9ljI6.t_0-lc_16",
+        "itemType": 5,
+        "popularStar": null,
+        "cparam": null,
+        "itemMarks": "",
+        "show": {
+          "w": 320,
+          "img": "http://s3.mogucdn.com/mlcdn/55cf19/170702_4j91g4f5eg453k3be8kh814kfec0b_640x960.jpg_320x999.jpg",
+          "h": 416
+        },
+        "type": 2,
+        "sale": 0,
+        "title": "2017夏装新韩版条纹破洞修身包臀针织连衣裙",
+        "cfav": 0,
+        "price": "￥5.00",
+        "ptpC": "_mb_mls_10057922_wap-index_noab-noab",
+        "lefttop_taglist": [
+
+        ],
+        "shopId": 110024763,
+        "titleTags": null,
+        "showLarge": {
+          "img": "http://s3.mogucdn.com/mlcdn/55cf19/170702_4j91g4f5eg453k3be8kh814kfec0b_640x960.jpg_560x999.jpg",
+          "w": 560,
+          "h": 840
+        },
+        "leftbottom_taglist": [
+
+        ],
+        "props": [
+          "2017夏装新韩版条纹破洞修身包臀针织连衣裙"
+        ]
+      },
+      {
+        "orgPrice": "￥127.15",
+        "acm": "3.ms.2_4_1keuejg.0.13386-25176.gcxrYqoe9ljI6.t_0-lc_16",
+        "iid": "1keuejg",
+        "link": "http://item.meilishuo.com/h5/detail/1keuejg?acm=3.ms.2_4_1keuejg.0.13386-25176.gcxrYqoe9ljI6.t_0-lc_16",
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1keuejg?acm=3.ms.2_4_1keuejg.0.13386-25176.gcxrYqoe9ljI6.t_0-lc_16",
+        "itemType": 5,
+        "popularStar": null,
+        "cparam": null,
+        "itemMarks": "",
+        "show": {
+          "w": 320,
+          "img": "http://s11.mogucdn.com/mlcdn/c45406/170702_71e6a1bl03kb50i694idg21hj61gg_640x960.jpg_320x999.jpg",
+          "h": 416
+        },
+        "type": 2,
+        "sale": 0,
+        "title": "【 小格调 】新款气质宽松显瘦蝴蝶结假两件镂空雪纺连衣裙女",
+        "cfav": 0,
+        "price": "￥127.15",
+        "ptpC": "_mb_mls_10057922_wap-index_noab-noab",
+        "lefttop_taglist": [
+
+        ],
+        "shopId": 1101598777,
+        "titleTags": null,
+        "showLarge": {
+          "img": "http://s3.mogucdn.com/mlcdn/c45406/170702_71e6a1bl03kb50i694idg21hj61gg_640x960.jpg_560x999.jpg",
+          "w": 560,
+          "h": 840
+        },
+        "leftbottom_taglist": [
+
+        ],
+        "props": [
+          "【 小格调 】新款气质宽松显瘦蝴蝶结假两件镂空雪纺连衣裙女"
+        ]
+      },
+      {
+        "orgPrice": "￥55.80",
+        "acm": "3.ms.2_4_1keuehy.0.13386-25176.gcxrYqoe9ljI6.t_0-lc_16",
+        "iid": "1keuehy",
+        "link": "http://item.meilishuo.com/h5/detail/1keuehy?acm=3.ms.2_4_1keuehy.0.13386-25176.gcxrYqoe9ljI6.t_0-lc_16",
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1keuehy?acm=3.ms.2_4_1keuehy.0.13386-25176.gcxrYqoe9ljI6.t_0-lc_16",
+        "itemType": 5,
+        "popularStar": null,
+        "cparam": null,
+        "itemMarks": "",
+        "show": {
+          "w": 320,
+          "img": "http://s11.mogucdn.com/mlcdn/c45406/170702_0cl2che7098ej71hegj0lkkkc621h_640x841.jpg_320x999.jpg",
+          "h": 416
+        },
+        "type": 2,
+        "sale": 0,
+        "title": "网红同款衣服女快手2017夏装新款性感一字领百搭上衣女夏天女",
+        "cfav": 0,
+        "price": "￥55.80",
+        "ptpC": "_mb_mls_10057922_wap-index_noab-noab",
+        "lefttop_taglist": [
+
+        ],
+        "shopId": 1201723496,
+        "titleTags": null,
+        "showLarge": {
+          "img": "http://s3.mogucdn.com/mlcdn/c45406/170702_0cl2che7098ej71hegj0lkkkc621h_640x841.jpg_560x999.jpg",
+          "w": 560,
+          "h": 736
+        },
+        "leftbottom_taglist": [
+
+        ],
+        "props": [
+          "网红同款衣服女快手2017夏装新款性感一字领百搭上衣女夏天女"
+        ]
+      },
+      {
+        "orgPrice": "￥56.00",
+        "acm": "3.ms.2_4_1keuefu.0.13386-25176.gcxrYqoe9ljI6.t_0-lc_16",
+        "iid": "1keuefu",
+        "link": "http://item.meilishuo.com/h5/detail/1keuefu?acm=3.ms.2_4_1keuefu.0.13386-25176.gcxrYqoe9ljI6.t_0-lc_16",
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1keuefu?acm=3.ms.2_4_1keuefu.0.13386-25176.gcxrYqoe9ljI6.t_0-lc_16",
+        "itemType": 5,
+        "popularStar": null,
+        "cparam": null,
+        "itemMarks": "",
+        "show": {
+          "w": 320,
+          "img": "http://s3.mogucdn.com/mlcdn/c45406/170702_1kic73c66dbb7131f9k7e9ebgf135_640x960.jpg_320x999.jpg",
+          "h": 416
+        },
+        "type": 2,
+        "sale": 0,
+        "title": "夏季新款韩版百搭卡通刺绣圆领短袖T恤宽松显瘦套头上衣女学生夏",
+        "cfav": 0,
+        "price": "￥39.20",
+        "ptpC": "_mb_mls_10057922_wap-index_noab-noab",
+        "lefttop_taglist": [
+
+        ],
+        "shopId": 106055,
+        "titleTags": null,
+        "showLarge": {
+          "img": "http://s3.mogucdn.com/mlcdn/c45406/170702_1kic73c66dbb7131f9k7e9ebgf135_640x960.jpg_560x999.jpg",
+          "w": 560,
+          "h": 840
+        },
+        "leftbottom_taglist": [
+
+        ],
+        "props": [
+          "夏季新款韩版百搭卡通刺绣圆领短袖T恤宽松显瘦套头上衣女学生夏"
+        ]
       }
-    },
-    {
-      "after_sale_type": 0,
-      "begin_time": 1465174800000,
-      "bg_tag_id": 4955,
-      "brand_id": -1,
-      "deal_coupon": {
-        "wap_url": "//out.zhe800.com/m/deal/4760011?source=tao800_app&tbshop_jump_type=1&dealId=4760011&url=",
-        "price": 0,
-        "name": "",
-        "end_time": -28800000,
-        "description": "",
-        "begin_time": -28800000,
-        "url": "//out.zhe800.com/ju/deal/meiduzuans_4760011?dealId=4760011&tbshop_jump_type=1&url="
-      },
-      "discount": 0.3,
-      "end_time": 1577894340000,
-      "fanjifen": {
-        "Z0": 3,
-        "Z1": 5,
-        "Z2": 8,
-        "Z3": 8,
-        "Z4": 8,
-        "Z5": 8
-      },
-      "good_comment_rate": "96.9",
-      "good_comment_rate_new": {
-        "good_comment_rate": "96.9",
-        "has_quality_comment": 0,
-        "total_num": 365,
-        "count_with_content": 235
-      },
-      "id": 4760011,
-      "image": "http://s3.mogucdn.com/p2/170629/upload_5h38g8f080lf27di9544aaf67bkh5_1600x2250.jpg_320x999.webp",
-      "is_baoyou": 1,
-      "is_fanjifen": 1,
-      "is_haitao": 0,
-      "is_hot": 0,
-      "is_hyper_market": 0,
-      "is_oos": 0,
-      "is_promotion": 0,
-      "list_price": 199,
-      "major_brand_id": 16427,
-      "new_platform_manjian": [
+    ],
+    "ptpPartC": "_mb_mls_10057922_wap-index_noab-noab",
+    "filter": {
+      "title": "美丽说wap首页",
+      "list": [
         {
-          "logo_link": "//www.zhe800.com/n/pcxindacu/rrctttjpc0129",
-          "activity_type": 4,
-          "end_time": 1485824340000,
-          "begin_time": 1485651600000,
-          "rules": "2-8",
-          "id": 6115,
-          "from_channel": 0
+          "title": "流行",
+          "sort": "pop",
+          "style": null,
+          "fcid": "10057922",
+          "type": "sort"
         },
         {
-          "logo_link": "//www.zhe800.com/n/pcxindacu/rrctttjpc0205",
-          "activity_type": 4,
-          "end_time": 1486342740000,
-          "begin_time": 1486256400000,
-          "rules": "2-8",
-          "id": 6393,
-          "from_channel": 0
+          "title": "热销",
+          "sort": "sell",
+          "style": null,
+          "fcid": "10057922",
+          "type": "sort"
         },
         {
-          "logo_link": "//www.zhe800.com/n/pcxindacu/rrctttjpc0208",
-          "activity_type": 4,
-          "end_time": 1486601940000,
-          "begin_time": 1486515600000,
-          "rules": "2-8",
-          "id": 6473,
-          "from_channel": 0
-        },
-        {
-          "logo_link": "//www.zhe800.com/n/pcxindacu/rrctttjpc0212",
-          "activity_type": 4,
-          "end_time": 1486947540000,
-          "begin_time": 1486861200000,
-          "rules": "2-8",
-          "id": 6691,
-          "from_channel": 0
-        },
-        {
-          "logo_link": "//www.zhe800.com/n/pcxindacu/rrctttjpc0214",
-          "activity_type": 4,
-          "end_time": 1487120340000,
-          "begin_time": 1487034000000,
-          "rules": "2-8",
-          "id": 6819,
-          "from_channel": 0
-        },
-        {
-          "logo_link": "//www.zhe800.com/n/pcxindacu/rrctttjpc0228",
-          "activity_type": 4,
-          "end_time": 1488329940000,
-          "begin_time": 1488243600000,
-          "rules": "2-8",
-          "id": 7847,
-          "from_channel": 0
-        },
-        {
-          "logo_link": "//www.zhe800.com/n/pcxindacu/rrctttjpc0305",
-          "activity_type": 4,
-          "end_time": 1488761940000,
-          "begin_time": 1488675600000,
-          "rules": "2-8",
-          "id": 8379,
-          "from_channel": 0
-        },
-        {
-          "activity_type": 4,
-          "end_time": 1489366740000,
-          "begin_time": 1489280400000,
-          "rules": "2-8",
-          "id": 8657,
-          "from_channel": 0
-        },
-        {
-          "logo_link": "//www.zhe800.com/n/pcxindacu/rrctttjpc0315",
-          "activity_type": 4,
-          "end_time": 1489625940000,
-          "begin_time": 1489539600000,
-          "rules": "2-8",
-          "id": 8887,
-          "from_channel": 0
-        },
-        {
-          "logo_link": "//www.zhe800.com/n/pcxindacu/rrctttjpc0319",
-          "activity_type": 4,
-          "end_time": 1489971540000,
-          "begin_time": 1489885200000,
-          "rules": "2-8",
-          "id": 9287,
-          "from_channel": 0
+          "title": "上新",
+          "sort": "new",
+          "style": null,
+          "fcid": "10057922",
+          "type": "sort"
         }
-      ],
-      "origin_images": {
-        "image": "imagev2/trade/800x800.eb38760bde5041579a12cfb3429646ef.720x480+1-1.jpg",
-        "wireless_image": "imagev2/trade/800x800.eb38760bde5041579a12cfb3429646ef.640x700+1-1.jpg",
-        "square_image": "imagev2/trade/800x800.eb38760bde5041579a12cfb3429646ef.jpg"
-      },
-      "price": 5.9,
-      "price_performance_score": {
-        "score": 4.1,
-        "degree": 4,
-        "content": "��ֵ"
-      },
-      "priority": 140,
-      "publish_status": 4,
-      "qrcode_url": "//z3.tuanimg.com/imagev2/site/300x300.9da7d08c5b265ced8bb3d07d4aa8737d.100x100.png",
-      "sale_stock": {
-        "total_kucun": 67996,
-        "lock_kucun": 1,
-        "kucun": 67461
-      },
-      "seckill": 0,
-      "seller_id": 1542919,
-      "shop_coupons": [
-        {
-          "amount": 300,
-          "limitCount": 0,
-          "releaseCount": 0,
-          "count": 500,
-          "rule": "100-3",
-          "sessionId": "00000000",
-          "source": 0,
-          "type": 1,
-          "startTimeStamp": 1478534400000,
-          "quato": 10000,
-          "scope": 0,
-          "endTimeStamp": 1478537999000,
-          "startTime": "2016-11-08 00:00:00.0",
-          "endTime": "2016-11-08 00:59:59.0",
-          "id": 29799
-        },
-        {
-          "amount": 300,
-          "limitCount": 0,
-          "releaseCount": 0,
-          "count": 500,
-          "rule": "100-3",
-          "sessionId": "00000000",
-          "source": 0,
-          "type": 1,
-          "startTimeStamp": 1478620800000,
-          "quato": 10000,
-          "scope": 0,
-          "endTimeStamp": 1478624399000,
-          "startTime": "2016-11-09 00:00:00.0",
-          "endTime": "2016-11-09 00:59:59.0",
-          "id": 29811
-        },
-        {
-          "amount": 300,
-          "limitCount": 0,
-          "releaseCount": 0,
-          "count": 300,
-          "rule": "100-3",
-          "sessionId": "00000000",
-          "source": 0,
-          "type": 1,
-          "startTimeStamp": 1478707200000,
-          "quato": 10000,
-          "scope": 0,
-          "endTimeStamp": 1478710799000,
-          "startTime": "2016-11-10 00:00:00.0",
-          "endTime": "2016-11-10 00:59:59.0",
-          "id": 29825
-        },
-        {
-          "amount": 300,
-          "limitCount": 0,
-          "releaseCount": 0,
-          "count": 300,
-          "rule": "100-3",
-          "sessionId": "00000000",
-          "source": 0,
-          "type": 1,
-          "startTimeStamp": 1478793600000,
-          "quato": 10000,
-          "scope": 0,
-          "endTimeStamp": 1478797199000,
-          "startTime": "2016-11-11 00:00:00.0",
-          "endTime": "2016-11-11 00:59:59.0",
-          "id": 29837
-        },
-        {
-          "amount": 300,
-          "limitCount": 0,
-          "releaseCount": 0,
-          "count": 300,
-          "rule": "100-3",
-          "sessionId": "00000000",
-          "source": 0,
-          "type": 1,
-          "startTimeStamp": 1478880000000,
-          "quato": 10000,
-          "scope": 0,
-          "endTimeStamp": 1478883599000,
-          "startTime": "2016-11-12 00:00:00.0",
-          "endTime": "2016-11-12 00:59:59.0",
-          "id": 29843
-        },
-        {
-          "amount": 300,
-          "limitCount": 0,
-          "releaseCount": 0,
-          "count": 300,
-          "rule": "100-3",
-          "sessionId": "00000000",
-          "source": 0,
-          "type": 1,
-          "startTimeStamp": 1478966400000,
-          "quato": 10000,
-          "scope": 0,
-          "endTimeStamp": 1478969999000,
-          "startTime": "2016-11-13 00:00:00.0",
-          "endTime": "2016-11-13 00:59:59.0",
-          "id": 29865
-        },
-        {
-          "amount": 300,
-          "limitCount": 0,
-          "releaseCount": 0,
-          "count": 300,
-          "rule": "100-3",
-          "sessionId": "00000000",
-          "source": 0,
-          "type": 1,
-          "startTimeStamp": 1479052800000,
-          "quato": 10000,
-          "scope": 0,
-          "endTimeStamp": 1479056399000,
-          "startTime": "2016-11-14 00:00:00.0",
-          "endTime": "2016-11-14 00:59:59.0",
-          "id": 29877
-        }
-      ],
-      "shop_discounts": [],
-      "show_on_ju_home": 1,
-      "sold": 522,
-      "special_deal_type": 0,
-      "square_image_url": "//z3.tuanimg.com/imagev2/trade/800x800.eb38760bde5041579a12cfb3429646ef.310x310.jpg",
-      "taobao_id": "",
-      "taobao_url": "",
-      "title": "�ȶ���ʯ��ɳ���������",
-      "type": 1,
-      "url_name": "meiduzuans",
-      "wireless_info_share": "{\"lastUpdateTimeStamp\":1489969041485,\"show_default_label\":1,\"weight\":35,\"thirdRightSwitch\":0,\"lastUpdateTime\":\"2017-03-20 08:17:21\",\"beginTime\":\"2017-03-19 08:40:00\",\"thirdSwitch\":0,\"endTimeStamp\":1489970400000,\"endTime\":\"2017-03-20 08:40:00\",\"dealId\":4760011,\"promotionColor\":\"247,36,61,1\",\"beginTimeStamp\":1489884000000,\"footAlign\":0,\"point\":0,\"promotionBorderColor\":\"255,255,255,1\",\"dealShowInfoId\":14621,\"thirdLeftSwitch\":0,\"discountType\":14,\"footSwitch\":0,\"firstSwitch\":0,\"secondSwitch\":0,\"promotionBgColor\":\"255,255,255,1\",\"promotionText\":\"���2��8��\"}",
-      "wuxian_price": 5.9,
-      "zid": "ze160311125154260689",
-      "xianshi": null
-    },
-    {
-      "after_sale_type": 0,
-      "begin_time": 1490835600000,
-      "bg_tag_id": 4669,
-      "brand_id": 0,
-      "deal_coupon": {
-        "wap_url": "//out.zhe800.com/m/deal/14816081?source=tao800_app&tbshop_jump_type=1&dealId=14816081&url=",
-        "price": 0,
-        "name": "",
-        "end_time": -28800000,
-        "description": "",
-        "begin_time": -28800000,
-        "url": "//out.zhe800.com/ju/deal/diantangji_14816081?dealId=14816081&tbshop_jump_type=1&url="
-      },
-      "deal_promotion": "{\"text\":\"2��8��\",\"type\":1,\"platform\":1,\"begin_time\":\"2017-04-29 09:00:00\",\"end_time\":\"2017-04-30 08:59:00\",\"last_update_time\":\"2017-04-30 08:32:33\",\"begin_timestamp\":1493427600000,\"end_timestamp\":1493513940000,\"last_update_timestamp\":1493512353000}",
-      "discount": 6.6,
-      "end_time": 1577840399000,
-      "fanjifen": {
-        "Z0": 10,
-        "Z1": 20,
-        "Z2": 30,
-        "Z3": 30,
-        "Z4": 30,
-        "Z5": 30
-      },
-      "good_comment_rate": "94.9",
-      "good_comment_rate_new": {
-        "good_comment_rate": "94.9",
-        "has_quality_comment": 1,
-        "total_num": 259,
-        "count_with_content": 84
-      },
-      "id": 14816081,
-      "image": "http://s3.mogucdn.com/p2/170628/upload_1ldh203ecglaik275f07hiib3j7cb_640x900.jpg_320x999.webp",
-      "is_baoyou": 1,
-      "is_fanjifen": 1,
-      "is_haitao": 0,
-      "is_hot": 0,
-      "is_hyper_market": 0,
-      "is_oos": 0,
-      "is_promotion": 0,
-      "list_price": 38,
-      "major_brand_id": 0,
-      "new_platform_manjian": [
-        {
-          "logo_link": "//www.zhe800.com/n/pcxindacu/cxyyh0429pc",
-          "activity_type": 4,
-          "end_time": 1493513940000,
-          "begin_time": 1493427600000,
-          "rules": "2-8,3-7.5",
-          "id": 14123,
-          "from_channel": 0
-        },
-        {
-          "logo_link": "//shop.zhe800.com/zhe800_act/16043",
-          "activity_type": 4,
-          "end_time": 1495382340000,
-          "begin_time": 1495108800000,
-          "rules": "3-7",
-          "id": 16043,
-          "from_channel": 0
-        }
-      ],
-      "origin_images": {
-        "image": "imagev2/trade/800x800.165434a6f22ef57aadf53e5661db4384.720x480+1-1.jpg",
-        "wireless_image": "imagev2/trade/800x800.165434a6f22ef57aadf53e5661db4384.640x700+1-1.jpg",
-        "square_image": "imagev2/trade/800x800.165434a6f22ef57aadf53e5661db4384.jpg"
-      },
-      "price": 25,
-      "price_performance_score": {
-        "score": 0,
-        "degree": 1,
-        "content": "�ϲ�"
-      },
-      "priority": 100,
-      "publish_status": 4,
-      "qrcode_url": "//z8.tuanimg.com/imagev2/site/360x360.c280b3281cbe089844bf939baa726977.100x100.png",
-      "sale_stock": {
-        "total_kucun": 962,
-        "lock_kucun": 0,
-        "kucun": 947
-      },
-      "seckill": 0,
-      "seller_id": 1924439,
-      "shop_coupons": [
-        {
-          "amount": 500,
-          "limitCount": 0,
-          "releaseCount": 0,
-          "count": 1000,
-          "rule": "50-5",
-          "sessionId": "00000000",
-          "source": 0,
-          "type": 1,
-          "startTimeStamp": 1492358400000,
-          "quato": 5000,
-          "scope": 0,
-          "endTimeStamp": 1492909199000,
-          "startTime": "2017-04-17 00:00:00.0",
-          "endTime": "2017-04-23 08:59:59.0",
-          "id": 67843
-        }
-      ],
-      "shop_discounts": [],
-      "show_on_ju_home": 1,
-      "sold": 265,
-      "special_deal_type": 0,
-      "square_image_url": "//z8.tuanimg.com/imagev2/trade/800x800.165434a6f22ef57aadf53e5661db4384.310x310.jpg",
-      "taobao_id": "",
-      "taobao_url": "",
-      "title": "���̽�ë���������ݹ���",
-      "type": 1,
-      "url_name": "diantangji",
-      "wuxian_price": 25,
-      "zid": "ze170322163442007186",
-      "xianshi": null
-    },
-    {
-      "after_sale_type": 0,
-      "begin_time": 1486515600000,
-      "bg_tag_id": 8180,
-      "brand_id": -1,
-      "deal_coupon": {
-        "wap_url": "//out.zhe800.com/m/deal/12191401?source=tao800_app&tbshop_jump_type=1&dealId=12191401&url=",
-        "price": 0,
-        "name": "",
-        "end_time": -28800000,
-        "description": "",
-        "begin_time": -28800000,
-        "url": "//out.zhe800.com/ju/deal/baifenguor_12191401?dealId=12191401&tbshop_jump_type=1&url="
-      },
-      "discount": 3.1,
-      "end_time": 1577840340000,
-      "fanjifen": {
-        "Z0": 11,
-        "Z1": 22,
-        "Z2": 33,
-        "Z3": 33,
-        "Z4": 33,
-        "Z5": 33
-      },
-      "good_comment_rate": "97.9",
-      "good_comment_rate_new": {
-        "good_comment_rate": "97.9",
-        "has_quality_comment": 1,
-        "total_num": 199,
-        "count_with_content": 71
-      },
-      "id": 12191401,
-      "image": "http://s3.mogucdn.com/p2/170628/upload_7971jf3h6eb4bc6gdb71d5ejj6lb7_640x900.jpg_320x999.webp",
-      "is_baoyou": 1,
-      "is_fanjifen": 1,
-      "is_haitao": 0,
-      "is_hot": 0,
-      "is_hyper_market": 0,
-      "is_oos": 0,
-      "is_promotion": 0,
-      "list_price": 88,
-      "major_brand_id": 30575,
-      "new_platform_manjian": [
-        {
-          "logo_link": "//www.zhe800.com/n/pcxindacu/mskh217PC",
-          "activity_type": 4,
-          "end_time": 1487552340000,
-          "begin_time": 1487293200000,
-          "rules": "2-8.8",
-          "id": 7283,
-          "from_channel": 0
-        },
-        {
-          "logo_link": "//www.zhe800.com/n/pcxindacu/nsayy38PC",
-          "activity_type": 4,
-          "end_time": 1489075140000,
-          "begin_time": 1488801600000,
-          "rules": "2-8.5,3-8",
-          "id": 8435,
-          "from_channel": 0
-        },
-        {
-          "logo_link": "//www.zhe800.com/n/pcxindacu/jg315PC",
-          "activity_type": 4,
-          "end_time": 1489802340000,
-          "begin_time": 1489539600000,
-          "rules": "2-8.8",
-          "id": 9137,
-          "from_channel": 0
-        }
-      ],
-      "origin_images": {
-        "image": "imagev2/trade/800x800.ab6b7739e35777973027929808e75f18.720x480+1-1.jpg",
-        "wireless_image": "imagev2/trade/800x800.ab6b7739e35777973027929808e75f18.640x700+1-1.jpg",
-        "square_image": "imagev2/trade/800x800.ab6b7739e35777973027929808e75f18.jpg"
-      },
-      "price": 26.9,
-      "price_performance_score": {
-        "score": 0,
-        "degree": 1,
-        "content": "�ϲ�"
-      },
-      "priority": 120,
-      "publish_status": 4,
-      "qrcode_url": "//z3.tuanimg.com/imagev2/site/300x300.826dc9e9f69310c482a8773c09c06ce1.100x100.png",
-      "sale_stock": {
-        "total_kucun": 0,
-        "lock_kucun": 0,
-        "kucun": 2894
-      },
-      "seckill": 0,
-      "seller_id": 1096326,
-      "shop_discounts": [],
-      "show_on_ju_home": 1,
-      "sold": 170,
-      "special_deal_type": 0,
-      "square_image_url": "//z3.tuanimg.com/imagev2/trade/800x800.ab6b7739e35777973027929808e75f18.310x310.jpg",
-      "taobao_id": "",
-      "taobao_url": "",
-      "title": "��Ǽ��Ƭ���500g*2",
-      "type": 1,
-      "url_name": "baifenguor",
-      "wireless_info_share": "{\"lastUpdateTimeStamp\":1478653147610,\"show_default_label\":1,\"weight\":62,\"thirdRightSwitch\":0,\"lastUpdateTime\":\"2016-11-09 08:59:07\",\"beginTime\":\"2016-11-09 08:59:07\",\"thirdSwitch\":0,\"endTimeStamp\":1478653147610,\"endTime\":\"2016-11-09 08:59:07\",\"dealId\":12191401,\"beginTimeStamp\":1478653147610,\"thirdLeftSwitch\":0,\"dealShowInfoId\":12249,\"discountType\":31,\"footSwitch\":0,\"firstSwitch\":0,\"secondSwitch\":0,\"promotionText\":\"�����ָ���%price%Ԫ\"}",
-      "wuxian_price": 26.9,
-      "zid": "ze161104103257437959",
-      "xianshi": null
-    },
-    {
-      "after_sale_type": 0,
-      "begin_time": 1482973200000,
-      "bg_tag_id": 5710,
-      "brand_id": -1,
-      "discount": 4.3,
-      "end_time": 1577840340000,
-      "fanjifen": {
-        "Z0": 7,
-        "Z1": 14,
-        "Z2": 21,
-        "Z3": 21,
-        "Z4": 21,
-        "Z5": 21
-      },
-      "good_comment_rate": "97.8",
-      "good_comment_rate_new": {
-        "good_comment_rate": "97.8",
-        "has_quality_comment": 1,
-        "total_num": 1680,
-        "count_with_content": 508
-      },
-      "id": 11058459,
-      "image": "http://s3.mogucdn.com/p2/170626/upload_4c91405hli1dhe2jkkafd61ecl85l_640x900.jpg_320x999.webp",
-      "is_baoyou": 1,
-      "is_fanjifen": 1,
-      "is_haitao": 0,
-      "is_hot": 0,
-      "is_hyper_market": 0,
-      "is_oos": 0,
-      "is_promotion": 0,
-      "list_price": 39.9,
-      "major_brand_id": 0,
-      "origin_images": {
-        "image": "imagev2/trade/800x800.ca4963d279df10db95dac10afe8a7702.720x480+1-1.jpg",
-        "wireless_image": "imagev2/trade/800x800.ca4963d279df10db95dac10afe8a7702.640x700+1-1.jpg",
-        "square_image": "imagev2/trade/800x800.ca4963d279df10db95dac10afe8a7702.jpg"
-      },
-      "price": 16.9,
-      "price_performance_score": {
-        "score": 0,
-        "degree": 1,
-        "content": "�ϲ�"
-      },
-      "priority": 120,
-      "publish_status": 4,
-      "qrcode_url": "//z2.tuanimg.com/imagev2/site/300x300.1f6d8435001558841e51f864992dbe0f.100x100.png",
-      "sale_stock": {
-        "total_kucun": 0,
-        "lock_kucun": 2,
-        "kucun": 6291
-      },
-      "seckill": 0,
-      "seller_id": 875122,
-      "shop_discounts": [],
-      "show_on_ju_home": 1,
-      "sold": 1751,
-      "special_deal_type": 0,
-      "square_image_url": "//z2.tuanimg.com/imagev2/trade/800x800.ca4963d279df10db95dac10afe8a7702.310x310.jpg",
-      "taobao_id": "",
-      "taobao_url": "",
-      "title": "����",
-      "type": 1,
-      "url_name": "nongjiadao",
-      "wuxian_price": 16.9,
-      "zid": "ze160922094821238081",
-      "xianshi": null
+      ]
     }
-  ]
+  }
 }

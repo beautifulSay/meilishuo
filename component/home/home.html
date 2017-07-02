@@ -84,21 +84,15 @@
 <!--新款 流行 精选-->
     <div id="nav">
         <ul>
-            <li><a href="">流行</a></li>
-            <li><a href="">新款</a></li>
-            <li><a href="">精选</a></li>
+            <li ui-sref="home.popular" ui-sref-opts='{reload: true}'><a href="">流行</a></li>
+            <li ui-sref="home.newStyle" ui-sref-opts='{reload: true}'><a href="">新款</a></li>
+            <li ui-sref="home.handpick" ui-sref-opts='{reload: true}'><a href="">精选</a></li>
         </ul>
     </div>
+<div class="def" ui-view></div>
 
-<!--新款图片-->
-    <div class="newStyle" ng-repeat="item in initDatas">
-        <ul>
-            <img src="{{item.showLarge.img}}" alt=""/>
-            <li>{{item.title}}</li>
-            <li>{{item.price}}</li>
-        </ul>
+<!--流行图片-->
 
-    </div>
 
 <!--回到顶部-->
   <div id="backTop"></div>
