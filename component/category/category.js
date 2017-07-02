@@ -11,7 +11,7 @@ angular.module('categoryModule',['ui.router'])
              $http.get("json/category/catelist.json").then(function (res) {
 
                // $scope.arr = res.value;
-                  console.log(res);
+
                   $scope.init = res.data.value;
 
              })

@@ -8,14 +8,30 @@ angular.module("skirtModule",["ui.router"])
                 url: '/skirt',
                 templateUrl: 'component/category/skirt/skirt.html',
                 controller:'skirtCtrl',
-                css:['component/category/skirt/skirt.css','component/category/category.css']
+                css:'component/category/skirt/skirt.css'
             })
     })
     .controller('skirtCtrl',['$scope','$http',function($scope,$http){
                 $http.get("json/category/cateacm.json").then(function (res) {
-                    console.log(res);
+
                     $scope.arr1 = res.data.value.category_1.list;
                     $scope.arr2 = res.data.value.category_2.list;
+                    $scope.mean = {show:true};
+                    $scope.pop ={show:false};
+                    $scope.knock = function () {
+                              $scope.mean = {show:false};
+                        $scope.pop ={show:true};
+                    }
+                    $http.get("json/category/tsconfig.json").then(function (sos) {
+                        console.log(sos.data.data.list);
+                        $scope.arr3 = sos.data.data.list;
+
+                    })
+                    $scope.opo = function () {
+
+                    }
+                        
+                    
                  })
 
 
