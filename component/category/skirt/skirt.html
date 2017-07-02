@@ -1,0 +1,41 @@
+<div class="fashion">
+    <div class="fashion-list1"ng-show="mean.show">
+<div class="cate_warp"></div>
+    <div class="title">
+    <h3>正在流行</h3>
+</div>
+    <ul class="invogue">
+        <li ng-repeat="item1 in arr1"ng-click="knock()">
+            <img src="{{item1.image}}">
+            <p>{{item1.title}}</p>
+        </li>
+    </ul>
+    <div class="cate_warp"></div>
+    <div class="title">
+        <h3>正在流行</h3>
+    </div>
+    <ul class="invogue2">
+        <li ng-repeat="item1 in arr2">
+            <img src="{{item1.image}}">
+            <p>{{item1.title}}</p>
+        </li>
+    </ul>
+    </div>
+    <div class="popular"ng-show="pop.show">
+        <ul class="popular-list">
+            <li ng-click="opo(da.isfilled)"ng-class="{true:'lis',false:'lis2'}[da.isfilled]">流行</li>
+            <li ng-click="hsale()">热销</li>
+            <li ng-click="toggles()">价格</li>
+        </ul>
+        <ul class="item_warp">
+            <li ng-repeat="item1 in arr3">
+                <img src="{{item1.showLarge.img}}">
+                <p class="title2">{{item1.title}}</p>
+                <p class="price">{{item1.price}}</p>
+                <p class="sale_num">{{item1.sale+"人已购买"}}</p>
+                <span class="img-tag"><img src="{{item2}}"ng-repeat="item2 in item1.leftbottom_taglist"></span>
+            </li>
+        </ul>
+    </div>
+
+</div>
