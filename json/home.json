@@ -95,41 +95,48 @@
                 {
                     "is_red": "1",
                     "words": "连衣裙",
-                    "acm": "3.mce.2_10_185r2.5868.0.3oWTQqnTGcb2R.m_190323-pos_0"
+                    "image": "http://z3.tuanimg.com/imagev2/wxyy/187x222.da47e145d1e851b5c1999c12739ed005.jpg"
                 },
                 {
                     "is_red": "0",
                     "words": "小白鞋",
-                    "acm": "3.mce.2_10_185r4.5868.0.3oWTQqnTGcb2R.m_190324-pos_1"
+                    "acm": "3.mce.2_10_185r4.5868.0.3oWTQqnTGcb2R.m_190324-pos_1",
+                    "image": "http://z3.tuanimg.com/imagev2/wxyy/188x222.46335983acb5abcd95d546d24cae2849.jpg"
                 },
                 {
                     "is_red": "1",
                     "words": "省心套装",
-                    "acm": "3.mce.2_10_185r6.5868.0.3oWTQqnTGcb2R.m_190325-pos_2"
+                    "image": "http://z3.tuanimg.com/imagev2/wxyy/188x222.9ba9f32d5f0c5b401ac4189a20b9721f.jpg",
+                     "acm": "3.mce.2_10_185r6.5868.0.3oWTQqnTGcb2R.m_190325-pos_2"
                 },
                 {
                     "is_red": "0",
                     "words": "碎花连衣裙",
+                    "image": "http://z3.tuanimg.com/imagev2/wxyy/187x222.da47e145d1e851b5c1999c12739ed005.jpg",
                     "acm": "3.mce.2_10_185r8.5868.0.3oWTQqnTGcb2R.m_190326-pos_3"
                 },
                 {
                     "is_red": "1",
                     "words": "明星同款",
+                    "image":  "http://z3.tuanimg.com/imagev2/wxyy/188x222.9ba9f32d5f0c5b401ac4189a20b9721f.jpg",
                     "acm": "3.mce.2_10_185ra.5868.0.3oWTQqnTGcb2R.m_190327-pos_4"
                 },
                 {
                     "is_red": "1",
                     "words": "高跟鞋",
+                    "image": "http://z3.tuanimg.com/imagev2/wxyy/188x222.9ba9f32d5f0c5b401ac4189a20b9721f.jpg",
                     "acm": "3.mce.2_10_185rc.5868.0.3oWTQqnTGcb2R.m_190328-pos_5"
                 },
                 {
                     "is_red": "0",
                     "words": "美妆",
+                    "image": "http://z3.tuanimg.com/imagev2/wxyy/188x222.46335983acb5abcd95d546d24cae2849.jpg",
                     "acm": "3.mce.2_10_185re.5868.0.3oWTQqnTGcb2R.m_190329-pos_6"
                 },
                 {
                     "is_red": "1",
                     "words": "墨镜",
+                    "image": "http://z3.tuanimg.com/imagev2/wxyy/187x222.da47e145d1e851b5c1999c12739ed005.jpg",
                     "acm": "3.mce.2_10_185rg.5868.0.3oWTQqnTGcb2R.m_190330-pos_7"
                 }
             ],

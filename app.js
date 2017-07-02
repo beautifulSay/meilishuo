@@ -3,15 +3,9 @@ angular.module('mls',['ui.router','angularCSS','me-lazyload','homeModule','categ
   .config(function($stateProvider, $urlRouterProvider){
 	$urlRouterProvider.otherwise('/home');
   })
-  
-// .directive('myDirective', function () {
-//          return {
-//              restrict: 'E',
-//              replace: true,
-//              templateUrl: 'component/home/home.html',
-//          }
-//      });
-//      
+
+
+
   
       	
       

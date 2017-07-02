@@ -1,1 +1,102 @@
+<div id="head">
+    <div class="icon">
+            <img src="img/logo.png"/>
+            <i class="fa fa-search"></i>
+            <input type="text" placeholder="套装"ui-sref=".search">
+            <i class="fa fa-commenting-o"></i>
+    </div>
+</div>
+
+<!--轮播图-->
+<div class="swiper-container">
+    <div class="swiper-wrapper">
+        <div class="swiper-slide" ng-repeat="item in swiperData" >
+            <img src="{{item.image}}" alt="" >
+        </div>
+    </div>
+         <!-- 如果需要分页器 -->
+            <div class="swiper-pagination"></div>
+        <!-- 如果需要滚动条 -->
+           <div class="swiper-scrollbar"></div>
+</div>
+<!--4张产品图片-->
+<div id="picture">
+    <ul>
+        <li ng-repeat="item in initData"><img src="{{item.image}}" alt=""><p>{{item.title}}</p></li>
+    </ul>
+    <div class="clearfix"></div>
+</div>
+
+<!--限时特惠结束-->
+   <div id="limit">
+        <div class="preferential">
+             <p>-限时特惠距活动结束仅剩-</p>
+            <div class="clock">
+                <span>0</span>
+                <span>{{hours}}</span>
+                <span>时</span>
+                <span>0</span>
+                <span>{{mintues}}</span>
+                <span>分</span>
+                <span>0</span>
+                <span>{{seconds}}</span>
+                <span>秒</span>
+            </div>
+        </div>
+   </div>
+
+<!--限时特惠下面的产品图片-->
+<div id="produceList">
+    <ul>
+        <li ng-repeat="item in initData2"><img src="{{item.image}}"><p>{{'￥'+ 72.6}}</p></li>
+    </ul>
+ </div>
+
+<!--本周流行-->
+   <div class="popular">
+          <p>本周流行</p>
+       <ul>
+         <li ng-repeat="item in initData3"><img src="{{item.image}}"></li>
+       </ul>
+   </div>
+
+<!--好物组货-->
+    <div class="goods">
+         <h3>好物组货</h3>
+         <p>最新潮好物 每日更新</p>
+       <ul>
+          <li ng-repeat="item in initData4"><img src="{{item.image}}">
+             <ul class="secondList">
+                 <li ng-repeat="item in initData5"><img src="{{item.image}}"><p>￥{{item.price}}</p></li>
+             </ul>
+          </li>
+       </ul>
+    </div>
+
+     <div class="clearfix"></div>
+<!--查看更多-->
+     <div id="check">
+         <p>查看更多&nbsp;&gt</p>
+     </div>
+
+<div id="gray"></div>
+
+<!--新款 流行 精选-->
+    <div id="nav">
+        <ul>
+            <li><a href="">流行</a></li>
+            <li><a href="">新款</a></li>
+            <li><a href="">精选</a></li>
+        </ul>
+    </div>
+
+<!--新款图片-->
+    <div class="newStyle" ng-repeat="item in initDatas">
+        <img src="{{item.image}}" alt=""/>
+     <!--   <p>{{item.title}}</p>-->
+        <p>{{item.list_price}}</p>
+    </div>
+
+<!--回到顶部-->
+  <div id="backTop"></div>
 
