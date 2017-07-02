@@ -36,7 +36,7 @@ angular.module('homeModule',['ui.router'])
         });
 
         /*倒计时特效*/
-      /*  $scope.time = 1498699935;
+ /*     $scope.time = 1498699935;
         /!*实现倒计时的效果*!/
         setInterval(function(){
             $scope.hours = parseInt($scope.time/3600%24);
@@ -46,7 +46,7 @@ angular.module('homeModule',['ui.router'])
             $scope.time -= 1000;
         },1000);*/
 
-
+/*好物组货*/
        $http.get("json/home2.json").then(function(res){
              console.log(res);
              $scope.initData4 = res.data.data;
@@ -59,7 +59,8 @@ angular.module('homeModule',['ui.router'])
        /*新款*/
         $http.get("json/popular.json").then(function(res){
                console.log(res);
-              /* $scope.initDatas = res.data.dealJson;*/
+               $scope.initDatas = res.data.data.list;
+
           });
 
     /*回到顶部功能*/

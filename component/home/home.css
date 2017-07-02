@@ -63,8 +63,9 @@
    #nav ul li:first-child a{color:hotpink;border-bottom:5px solid hotpink;text-align: center}
    /*图片*/
   .newStyle{width:100%;}
-  .newStyle img{width:100%;}
-  .newStyle p{text-align:center}
+  .newStyle ul{width:50%;float: left}
+  .newStyle img{width:100%;height:270px;}
+  .newStyle ul li{width:100%;font-size:18px;height: 48px;overflow: hidden}
 
   #backTop{position:fixed;
             right:0.5rem;

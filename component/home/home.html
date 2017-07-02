@@ -92,9 +92,12 @@
 
 <!--新款图片-->
     <div class="newStyle" ng-repeat="item in initDatas">
-        <img src="{{item.image}}" alt=""/>
-     <!--   <p>{{item.title}}</p>-->
-        <p>{{item.list_price}}</p>
+        <ul>
+            <img src="{{item.showLarge.img}}" alt=""/>
+            <li>{{item.title}}</li>
+            <li>{{item.price}}</li>
+        </ul>
+
     </div>
 
 <!--回到顶部-->

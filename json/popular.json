@@ -1699,7 +1699,50 @@
           "时尚",
           "韩版"
         ]
+      },
+      {
+        "orgPrice": "￥72.50",
+        "acm": "3.ms.2_4_1kemk2s.0.24489-25176.05NOQqocTP1K4.t_0-lc_16",
+        "iid": "1kemk2s",
+        "link": "http://item.meilishuo.com/h5/detail/1kemk2s?acm=3.ms.2_4_1kemk2s.0.24489-25176.05NOQqocTP1K4.t_0-lc_16",
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1kemk2s?acm=3.ms.2_4_1kemk2s.0.24489-25176.05NOQqocTP1K4.t_0-lc_16",
+        "itemType": 10,
+        "popularStar": null,
+        "cparam": null,
+        "itemMarks": "135",
+        "show": {
+          "w": 320,
+          "img": "http://s3.mogucdn.com/p2/170609/upload_61a8cfd3a2392854e5d3ij9chii34_640x900.jpg_320x999.jpg",
+          "h": 416
+        },
+        "type": 2,
+        "sale": 29,
+        "title": "雪纺连衣裙 收腰 露肩 气质 新款",
+        "cfav": 488,
+        "price": "￥72.50",
+        "ptpC": "_mb_mls_10062014_wap-cate_noab-noab",
+        "lefttop_taglist": [
+
+        ],
+        "shopId": 1302161088,
+        "titleTags": "雪纺连衣裙;收腰;露肩;气质;新款",
+        "showLarge": {
+          "img": "http://s3.mogucdn.com/p2/170609/upload_61a8cfd3a2392854e5d3ij9chii34_640x900.jpg_560x999.jpg",
+          "w": 560,
+          "h": 788
+        },
+        "leftbottom_taglist": [
+          "http://s2.mogucdn.com/p2/170307/1_1h8e97a4ed6giciglgjae69g9a269_60x28.png"
+        ],
+        "props": [
+          "雪纺连衣裙",
+          "收腰",
+          "露肩",
+          "气质",
+          "新款"
+        ]
       }
+
     ],
     "ptpPartC": "_mb_mls_10062014_wap-cate_noab-noab",
     "filter": {
