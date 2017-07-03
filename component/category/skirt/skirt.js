@@ -25,7 +25,7 @@ angular.module("skirtModule",["ui.router"])
             $scope.arr2 = res.data.value.category_2.list;
 
             $http.get("json/category/tsconfig.json").then(function (sos) {
-                console.log(sos.data.data.list);
+
                 $scope.arr3 = sos.data.data.list;
 
             })
