@@ -6,9 +6,9 @@ angular.module("popularModule",["ui.router"])
         $stateProvider
             .state('category.skirt.popular', {
                 url: '/popular',
-                templateUrl: 'component/skirt/popular/popular.html',
+                templateUrl: 'component/category/skirt/popular/popular.html',
                 controller:'popularCtrl',
-                css:'component/skirt/popular/popular.html'
+                css:'component/category/skirt/popular/popular.css'
             })
     })
     .controller('popularCtrl',['$scope','$http',function($scope,$http){
