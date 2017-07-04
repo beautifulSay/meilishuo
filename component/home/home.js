@@ -23,10 +23,9 @@ angular.module('homeModule',['ui.router'])
                 templateUrl:'component/home/handpick/handpick.html',
                 css:'component/home/home.css'
             })
-
-        $urlRouterProvider.otherwise('/home/popular');
-    })
-    .controller('homeCtrl',['$scope','$state','$http','$timeout',function($scope,$state,$http,$timeout){
+            $urlRouterProvider.otherwise('/home/popular');
+        })
+    .controller('homeCtrl',['$scope','$state','$http','$timeout','$interval',function($scope,$state,$http,$timeout,$interval){
         $http.get("json/home.json").then(function(res){
             console.log(res);
             $scope.swiperData = res.data.data[20114].list;
@@ -47,23 +46,26 @@ angular.module('homeModule',['ui.router'])
             $scope.initData2 = res.data.data[42287].list;
             console.log($scope.initData2);
 
-
          /*本周流行*/
            $scope.initData3 = res.data.data[5868].list;
 
         });
 
-   /*        /!*倒计时特效*!/
-        $scope.time = 1498699935;
-        /!*实现倒计时的效果*!/
-        setInterval(function(){
-            $scope.hours = parseInt($scope.time/3600%24);
-            $scope.mintues = parseInt(($scope.time%3600000)/3600%24);
-            $scope.seconds = parseInt(($scope.time%3600000)/1000%60);
-            console.log("还剩"+ $scope.hours + "时" +  $scope.mintues + "分" +  $scope.seconds + "秒");
-            $scope.time -= 1000;
+        /*当点击查看更多的时候跳转是否需要下载客户端*/
+        $scope.checkMore = function(){
+                                   confirm("亲，请先下载美丽说客户端~");
+                                }
+
+         /*倒计时特效*/
+    $scope.time = 1498699935;
+        $interval(function(){
+            $scope.hours = parseInt($scope.time/60/60%24);
+            $scope.mintues = parseInt(($scope.time/60)%60);
+            $scope.seconds = parseInt($scope.time%60);
+            $scope.time -= 1;
         },1000);
-*/
+
+
 /*好物组货*/
        $http.get("json/home2.json").then(function(res){
              console.log(res);

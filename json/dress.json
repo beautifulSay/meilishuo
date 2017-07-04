@@ -1,0 +1,1630 @@
+{
+  "success": true,
+  "returnCode": "1001",
+  "returnMessage": null,
+  "data": {
+    "total": 191561,
+    "title": "wap图墙",
+    "sort": "pop",
+    "isEnd": false,
+    "cpc_offset": 0,
+    "param": {
+      "ptpWallDoc": "_wall_docs",
+      "_mgjuuid": "3e066687-2dd3-4c71-a98f-9a349cf479a8",
+      "sort": "pop",
+      "eventId": 70003,
+      "cpc_offset": 0,
+      "page": "1",
+      "cKey": "wap-search",
+      "cpcEventId": 70005,
+      "ptpWallCpc": "_wall_cpc",
+      "ptpPartC": "_mb_mls_0_wap-search_noab-noab",
+      "section": "0",
+      "minPrice": "5"
+    },
+    "page": 1,
+    "list": [
+      {
+        "orgPrice": "￥75.00",
+        "acm": "3.ms.2_4_1keohrq.0.24472-25176.94mObqoiXSNcI.t_0-lc_17",
+        "iid": "1keohrq",
+        "link": "http://item.meilishuo.com/h5/detail/1keohrq?acm=3.ms.2_4_1keohrq.0.24472-25176.94mObqoiXSNcI.t_0-lc_17",
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1keohrq?acm=3.ms.2_4_1keohrq.0.24472-25176.94mObqoiXSNcI.t_0-lc_17",
+        "itemType": 10,
+        "popularStar": null,
+        "cparam": null,
+        "itemMarks": "135",
+        "show": {
+          "w": 320,
+          "img": "http://s3.mogucdn.com/p2/170627/upload_4ice5ie355hg8fejba119kb907c0a_640x900.jpg_320x999.jpg",
+          "h": 416
+        },
+        "type": 2,
+        "sale": 52,
+        "title": "连衣裙 雪纺娃娃裙 拼接 中长款 黑白 宽松显瘦 新款 韩版",
+        "cfav": 517,
+        "price": "￥75.00",
+        "ptpC": "_mb_mls_0_wap-search_noab-noab",
+        "lefttop_taglist": [],
+        "titleTags": "连衣裙;雪纺娃娃裙;拼接;中长款;黑白;宽松显瘦;新款;韩版",
+        "showLarge": {
+          "img": "http://s3.mogucdn.com/p2/170627/upload_4ice5ie355hg8fejba119kb907c0a_640x900.jpg_560x999.jpg",
+          "w": 560,
+          "h": 788
+        },
+        "leftbottom_taglist": [
+          "http://s2.mogucdn.com/p2/170307/1_1h8e97a4ed6giciglgjae69g9a269_60x28.png"
+        ],
+        "props": [
+          "连衣裙",
+          "雪纺娃娃裙",
+          "拼接",
+          "中长款",
+          "黑白",
+          "宽松显瘦",
+          "新款",
+          "韩版"
+        ]
+      },
+      {
+        "orgPrice": "￥72.50",
+        "acm": "3.ms.2_4_1kemziw.0.24472-25176.94mObqoiXSNcI.t_0-lc_17",
+        "iid": "1kemziw",
+        "link": "http://item.meilishuo.com/h5/detail/1kemziw?acm=3.ms.2_4_1kemziw.0.24472-25176.94mObqoiXSNcI.t_0-lc_17",
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1kemziw?acm=3.ms.2_4_1kemziw.0.24472-25176.94mObqoiXSNcI.t_0-lc_17",
+        "itemType": 10,
+        "popularStar": null,
+        "cparam": null,
+        "itemMarks": "135",
+        "show": {
+          "w": 320,
+          "img": "http://s3.mogucdn.com/mlcdn/c45406/170410_85fj9elkeh00cjl89cidg8c762fgj_640x900.jpg_320x999.jpg",
+          "h": 416
+        },
+        "type": 2,
+        "sale": 55,
+        "title": "无袖连衣裙 气质 小清新 宽松显瘦 大蝴蝶结 韩版",
+        "cfav": 560,
+        "price": "￥72.50",
+        "ptpC": "_mb_mls_0_wap-search_noab-noab",
+        "lefttop_taglist": [],
+        "titleTags": "无袖连衣裙;气质;小清新;宽松显瘦;大蝴蝶结;韩版",
+        "showLarge": {
+          "img": "http://s3.mogucdn.com/mlcdn/c45406/170410_85fj9elkeh00cjl89cidg8c762fgj_640x900.jpg_560x999.jpg",
+          "w": 560,
+          "h": 788
+        },
+        "leftbottom_taglist": [
+          "http://s2.mogucdn.com/p2/170307/1_1h8e97a4ed6giciglgjae69g9a269_60x28.png"
+        ],
+        "props": [
+          "无袖连衣裙",
+          "气质",
+          "小清新",
+          "宽松显瘦",
+          "大蝴蝶结",
+          "韩版"
+        ]
+      },
+      {
+        "orgPrice": "￥127.15",
+        "acm": "3.ms.2_1_1k9br36.1.37636-25176.94mObqoiXSNcI.t_0-lc_33-c_2_33_204430428_1792881_1_0-c1_59389_nil_nil_0_1792881_56",
+        "iid": "1k9br36",
+        "link": "http://item.meilishuo.com/h5/detail/1k9br36?acm=3.ms.2_1_1k9br36.1.37636-25176.94mObqoiXSNcI.t_0-lc_33-c_2_33_204430428_1792881_1_0-c1_59389_nil_nil_0_1792881_56&cparam=MTQ5OTA3MzU1OV8xNnJmYjNrXzk4M2EzNDhmMjRhZjEyZjFlY2I4NGVhOGNmYTAyZjI5XzMzXzBfMjA0NDMwNDI4XzBfMTc5Mjg4MV8xXzBfOTY1XzBfMA==",
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1k9br36?acm=3.ms.2_1_1k9br36.1.37636-25176.94mObqoiXSNcI.t_0-lc_33-c_2_33_204430428_1792881_1_0-c1_59389_nil_nil_0_1792881_56&cparam=MTQ5OTA3MzU1OV8xNnJmYjNrXzk4M2EzNDhmMjRhZjEyZjFlY2I4NGVhOGNmYTAyZjI5XzMzXzBfMjA0NDMwNDI4XzBfMTc5Mjg4MV8xXzBfOTY1XzBfMA==",
+        "itemType": 7,
+        "popularStar": null,
+        "cparam": "MTQ5OTA3MzU1OV8xNnJmYjNrXzk4M2EzNDhmMjRhZjEyZjFlY2I4NGVhOGNmYTAyZjI5XzMzXzBfMjA0NDMwNDI4XzBfMTc5Mjg4MV8xXzBfOTY1XzBfMA==",
+        "itemMarks": "147 148 140",
+        "show": {
+          "w": 320,
+          "img": "http://s3.mogucdn.com/mlcdn/17f85e/170517_74kd5k35h68kk388hdlbj6lhdi077_640x960.jpg_320x999.jpg",
+          "h": 416
+        },
+        "type": 2,
+        "sale": "4196",
+        "title": "SHFANNY/夏梵尼 修身中裙 v领 蓝色 系带",
+        "cfav": "19008",
+        "price": "￥89.00",
+        "ptpC": "_mb_mls_0_wap-search_noab-noab",
+        "lefttop_taglist": [],
+        "titleTags": "SHFANNY/夏梵尼;修身中裙;v领;蓝色;系带",
+        "showLarge": {
+          "img": "http://s3.mogucdn.com/mlcdn/17f85e/170517_74kd5k35h68kk388hdlbj6lhdi077_640x960.jpg_560x999.jpg",
+          "w": 560,
+          "h": 840
+        },
+        "leftbottom_taglist": [],
+        "props": [
+          "SHFANNY/夏梵尼",
+          "修身中裙",
+          "v领",
+          "蓝色",
+          "系带"
+        ]
+      },
+      {
+        "orgPrice": "￥112.86",
+        "acm": "3.ms.2_1_1kd3dv8.1.37636-25176.94mObqoiXSNcI.t_0-lc_33-c_2_33_223988443_1811990_2_0-c1_59389_nil_nil_0_1811990_36",
+        "iid": "1kd3dv8",
+        "link": "http://item.meilishuo.com/h5/detail/1kd3dv8?acm=3.ms.2_1_1kd3dv8.1.37636-25176.94mObqoiXSNcI.t_0-lc_33-c_2_33_223988443_1811990_2_0-c1_59389_nil_nil_0_1811990_36&cparam=MTQ5OTA3MzU1OV8xN2VwcDd5XzZmYmM5ODE5YWY3OGEyNjUyYjU5OTZjZjg3ZGFkMmFkXzMzXzFfMjIzOTg4NDQzXzBfMTgxMTk5MF8yXzBfOTY1XzBfMA==",
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1kd3dv8?acm=3.ms.2_1_1kd3dv8.1.37636-25176.94mObqoiXSNcI.t_0-lc_33-c_2_33_223988443_1811990_2_0-c1_59389_nil_nil_0_1811990_36&cparam=MTQ5OTA3MzU1OV8xN2VwcDd5XzZmYmM5ODE5YWY3OGEyNjUyYjU5OTZjZjg3ZGFkMmFkXzMzXzFfMjIzOTg4NDQzXzBfMTgxMTk5MF8yXzBfOTY1XzBfMA==",
+        "itemType": 7,
+        "popularStar": null,
+        "cparam": "MTQ5OTA3MzU1OV8xN2VwcDd5XzZmYmM5ODE5YWY3OGEyNjUyYjU5OTZjZjg3ZGFkMmFkXzMzXzFfMjIzOTg4NDQzXzBfMTgxMTk5MF8yXzBfOTY1XzBfMA==",
+        "itemMarks": "2 148 116 149 93 95",
+        "show": {
+          "w": 320,
+          "img": "http://s3.mogucdn.com/mlcdn/17f85e/170609_1fg4926k36jj83ih1l1920l9559ll_640x960.jpg_320x999.jpg",
+          "h": 416
+        },
+        "type": 2,
+        "sale": "370",
+        "title": "SHFANNY/夏梵尼 格子连衣裙 收腰 喇叭短袖 气质 修身显瘦 中长款 高腰 夏季",
+        "cfav": "1827",
+        "price": "￥73.35",
+        "ptpC": "_mb_mls_0_wap-search_noab-noab",
+        "lefttop_taglist": [],
+        "titleTags": "SHFANNY/夏梵尼;格子连衣裙;收腰;喇叭短袖;气质;修身显瘦;中长款;高腰;夏季",
+        "showLarge": {
+          "img": "http://s17.mogucdn.com/mlcdn/17f85e/170609_1fg4926k36jj83ih1l1920l9559ll_640x960.jpg_560x999.jpg",
+          "w": 560,
+          "h": 840
+        },
+        "leftbottom_taglist": [],
+        "props": [
+          "SHFANNY/夏梵尼",
+          "格子连衣裙",
+          "收腰",
+          "喇叭短袖",
+          "气质",
+          "修身显瘦",
+          "中长款",
+          "高腰",
+          "夏季"
+        ]
+      },
+      {
+        "orgPrice": "￥75.00",
+        "acm": "3.ms.2_4_1keohda.0.24472-25176.94mObqoiXSNcI.t_0-lc_17",
+        "iid": "1keohda",
+        "link": "http://item.meilishuo.com/h5/detail/1keohda?acm=3.ms.2_4_1keohda.0.24472-25176.94mObqoiXSNcI.t_0-lc_17",
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1keohda?acm=3.ms.2_4_1keohda.0.24472-25176.94mObqoiXSNcI.t_0-lc_17",
+        "itemType": 10,
+        "popularStar": null,
+        "cparam": null,
+        "itemMarks": "135",
+        "show": {
+          "w": 320,
+          "img": "http://s3.mogucdn.com/p2/170627/upload_24lfidkk88a23d6ee71ijeek38kfd_640x900.jpg_320x999.jpg",
+          "h": 416
+        },
+        "type": 2,
+        "sale": 56,
+        "title": "雪纺连衣裙 拼接 小清新 中长款 高腰 韩版",
+        "cfav": 661,
+        "price": "￥75.00",
+        "ptpC": "_mb_mls_0_wap-search_noab-noab",
+        "lefttop_taglist": [],
+        "titleTags": "雪纺连衣裙;拼接;小清新;中长款;高腰;韩版",
+        "showLarge": {
+          "img": "http://s3.mogucdn.com/p2/170627/upload_24lfidkk88a23d6ee71ijeek38kfd_640x900.jpg_560x999.jpg",
+          "w": 560,
+          "h": 788
+        },
+        "leftbottom_taglist": [
+          "http://s2.mogucdn.com/p2/170307/1_1h8e97a4ed6giciglgjae69g9a269_60x28.png"
+        ],
+        "props": [
+          "雪纺连衣裙",
+          "拼接",
+          "小清新",
+          "中长款",
+          "高腰",
+          "韩版"
+        ]
+      },
+      {
+        "orgPrice": "￥73.75",
+        "acm": "3.ms.2_4_1keom5i.0.24472-25176.94mObqoiXSNcI.t_0-lc_17",
+        "iid": "1keom5i",
+        "link": "http://item.meilishuo.com/h5/detail/1keom5i?acm=3.ms.2_4_1keom5i.0.24472-25176.94mObqoiXSNcI.t_0-lc_17",
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1keom5i?acm=3.ms.2_4_1keom5i.0.24472-25176.94mObqoiXSNcI.t_0-lc_17",
+        "itemType": 10,
+        "popularStar": null,
+        "cparam": null,
+        "itemMarks": "135",
+        "show": {
+          "w": 320,
+          "img": "http://s11.mogucdn.com/p2/170627/upload_19igi4ig96k7b7i4fh7a24ld430jd_640x900.jpg_320x999.jpg",
+          "h": 416
+        },
+        "type": 2,
+        "sale": 50,
+        "title": "露肩连衣裙 小性感 气质 显瘦 大牌",
+        "cfav": 394,
+        "price": "￥73.75",
+        "ptpC": "_mb_mls_0_wap-search_noab-noab",
+        "lefttop_taglist": [],
+        "titleTags": "露肩连衣裙;小性感;气质;显瘦;大牌",
+        "showLarge": {
+          "img": "http://s3.mogucdn.com/p2/170627/upload_19igi4ig96k7b7i4fh7a24ld430jd_640x900.jpg_560x999.jpg",
+          "w": 560,
+          "h": 788
+        },
+        "leftbottom_taglist": [
+          "http://s2.mogucdn.com/p2/170307/1_1h8e97a4ed6giciglgjae69g9a269_60x28.png"
+        ],
+        "props": [
+          "露肩连衣裙",
+          "小性感",
+          "气质",
+          "显瘦",
+          "大牌"
+        ]
+      },
+      {
+        "orgPrice": "￥58.00",
+        "acm": "3.ms.2_1_1h3vtsy.1.5865-25176.94mObqoiXSNcI.t_0-lc_17-c_1_17_186358464_0_1_0-c1_",
+        "iid": "1h3vtsy",
+        "link": "http://item.meilishuo.com/h5/detail/1h3vtsy?acm=3.ms.2_1_1h3vtsy.1.5865-25176.94mObqoiXSNcI.t_0-lc_17-c_1_17_186358464_0_1_0-c1_&cparam=MTQ5OTA3MzU1OV8xNnp1eHlxXzllODQwNTdkZjY1Y2ZlYTYyYzQ2MWE5ZThjOWFlZjhkXzE3XzBfMTg2MzU4NDY0XzAuOTIzXzBfMV8xXzI1N18wXzA=",
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1h3vtsy?acm=3.ms.2_1_1h3vtsy.1.5865-25176.94mObqoiXSNcI.t_0-lc_17-c_1_17_186358464_0_1_0-c1_&cparam=MTQ5OTA3MzU1OV8xNnp1eHlxXzllODQwNTdkZjY1Y2ZlYTYyYzQ2MWE5ZThjOWFlZjhkXzE3XzBfMTg2MzU4NDY0XzAuOTIzXzBfMV8xXzI1N18wXzA=",
+        "itemType": 3,
+        "popularStar": null,
+        "cparam": "MTQ5OTA3MzU1OV8xNnp1eHlxXzllODQwNTdkZjY1Y2ZlYTYyYzQ2MWE5ZThjOWFlZjhkXzE3XzBfMTg2MzU4NDY0XzAuOTIzXzBfMV8xXzI1N18wXzA=",
+        "itemMarks": "98",
+        "show": {
+          "w": 320,
+          "img": "http://s3.mogucdn.com/p2/170108/1311817985_7i51g8cjfd9gbh6f1h33hhj9bd9i4_640x832.jpg_320x999.jpg",
+          "h": 416
+        },
+        "type": 2,
+        "sale": "253",
+        "title": "连衣裙 裙子 中长款 宽松显瘦",
+        "cfav": "3979",
+        "price": "￥40.60",
+        "ptpC": "_mb_mls_0_wap-search_noab-noab",
+        "lefttop_taglist": [],
+        "titleTags": "连衣裙;裙子;中长款;宽松显瘦",
+        "showLarge": {
+          "img": "http://s3.mogucdn.com/p2/170108/1311817985_7i51g8cjfd9gbh6f1h33hhj9bd9i4_640x832.jpg_560x999.jpg",
+          "w": 560,
+          "h": 728
+        },
+        "leftbottom_taglist": [
+          "http://s2.mogucdn.com/p2/170307/1_53je1gbj88bjheidae4al1le4h94i_60x28.png"
+        ],
+        "props": [
+          "连衣裙",
+          "裙子",
+          "中长款",
+          "宽松显瘦"
+        ]
+      },
+      {
+        "orgPrice": "￥113.00",
+        "acm": "3.ms.2_1_1kbd8ro.1.5865-25176.94mObqoiXSNcI.t_0-lc_17-c_1_17_211513629_0_2_0-c1_",
+        "iid": "1kbd8ro",
+        "link": "http://item.meilishuo.com/h5/detail/1kbd8ro?acm=3.ms.2_1_1kbd8ro.1.5865-25176.94mObqoiXSNcI.t_0-lc_17-c_1_17_211513629_0_2_0-c1_&cparam=MTQ5OTA3MzU1OV8xNnp1eHlxXzllODQwNTdkZjY1Y2ZlYTYyYzQ2MWE5ZThjOWFlZjhkXzE3XzFfMjExNTEzNjI5XzEuMF8wXzJfMV8yOTdfMF8w",
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1kbd8ro?acm=3.ms.2_1_1kbd8ro.1.5865-25176.94mObqoiXSNcI.t_0-lc_17-c_1_17_211513629_0_2_0-c1_&cparam=MTQ5OTA3MzU1OV8xNnp1eHlxXzllODQwNTdkZjY1Y2ZlYTYyYzQ2MWE5ZThjOWFlZjhkXzE3XzFfMjExNTEzNjI5XzEuMF8wXzJfMV8yOTdfMF8w",
+        "itemType": 3,
+        "popularStar": null,
+        "cparam": "MTQ5OTA3MzU1OV8xNnp1eHlxXzllODQwNTdkZjY1Y2ZlYTYyYzQ2MWE5ZThjOWFlZjhkXzE3XzFfMjExNTEzNjI5XzEuMF8wXzJfMV8yOTdfMF8w",
+        "itemMarks": "",
+        "show": {
+          "w": 320,
+          "img": "http://s3.mogucdn.com/mlcdn/c45406/170502_07h7i6k73d2jlih9c7h1gj4ladaff_640x960.jpg_320x999.jpg",
+          "h": 416
+        },
+        "type": 2,
+        "sale": "687",
+        "title": "连衣裙 短袖t恤裙 中长款 红色 原宿bf风 字母宽松 个性 新款 韩版",
+        "cfav": "666",
+        "price": "￥79.10",
+        "ptpC": "_mb_mls_0_wap-search_noab-noab",
+        "lefttop_taglist": [],
+        "titleTags": "连衣裙;短袖t恤裙;中长款;红色;原宿bf风;字母宽松;个性;新款;韩版",
+        "showLarge": {
+          "img": "http://s3.mogucdn.com/mlcdn/c45406/170502_07h7i6k73d2jlih9c7h1gj4ladaff_640x960.jpg_560x999.jpg",
+          "w": 560,
+          "h": 840
+        },
+        "leftbottom_taglist": [
+          "http://s2.mogucdn.com/p2/170307/1_53je1gbj88bjheidae4al1le4h94i_60x28.png"
+        ],
+        "props": [
+          "连衣裙",
+          "短袖t恤裙",
+          "中长款",
+          "红色",
+          "原宿bf风",
+          "字母宽松",
+          "个性",
+          "新款",
+          "韩版"
+        ]
+      },
+      {
+        "orgPrice": "￥77.34",
+        "acm": "3.ms.2_4_1kekl0i.0.24472-25176.94mObqoiXSNcI.t_0-lc_17",
+        "iid": "1kekl0i",
+        "link": "http://item.meilishuo.com/h5/detail/1kekl0i?acm=3.ms.2_4_1kekl0i.0.24472-25176.94mObqoiXSNcI.t_0-lc_17",
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1kekl0i?acm=3.ms.2_4_1kekl0i.0.24472-25176.94mObqoiXSNcI.t_0-lc_17",
+        "itemType": 11,
+        "popularStar": null,
+        "cparam": null,
+        "itemMarks": "135 158",
+        "show": {
+          "w": 320,
+          "img": "http://s3.mogucdn.com/p2/170627/upload_87cbf7ej4111a03617ej3ae68kekb_1600x2250.jpg_320x999.jpg",
+          "h": 416
+        },
+        "type": 2,
+        "sale": 98,
+        "title": "显瘦连衣裙 露肩 短袖 宽松 拼色 韩版",
+        "cfav": 721,
+        "price": "￥77.34",
+        "ptpC": "_mb_mls_0_wap-search_noab-noab",
+        "lefttop_taglist": [],
+        "titleTags": "显瘦连衣裙;露肩;短袖;宽松;拼色;韩版",
+        "showLarge": {
+          "img": "http://s3.mogucdn.com/p2/170627/upload_87cbf7ej4111a03617ej3ae68kekb_1600x2250.jpg_560x999.jpg",
+          "w": 560,
+          "h": 788
+        },
+        "leftbottom_taglist": [
+          "http://s2.mogucdn.com/p2/170307/1_5k6k8eiffl43633479294a49f8gci_60x28.png"
+        ],
+        "props": [
+          "显瘦连衣裙",
+          "露肩",
+          "短袖",
+          "宽松",
+          "拼色",
+          "韩版"
+        ]
+      },
+      {
+        "orgPrice": "￥68.75",
+        "acm": "3.ms.2_4_1kedspm.0.24472-25176.94mObqoiXSNcI.t_0-lc_17",
+        "iid": "1kedspm",
+        "link": "http://item.meilishuo.com/h5/detail/1kedspm?acm=3.ms.2_4_1kedspm.0.24472-25176.94mObqoiXSNcI.t_0-lc_17",
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1kedspm?acm=3.ms.2_4_1kedspm.0.24472-25176.94mObqoiXSNcI.t_0-lc_17",
+        "itemType": 12,
+        "popularStar": null,
+        "cparam": null,
+        "itemMarks": "135 168 159",
+        "show": {
+          "w": 320,
+          "img": "http://s3.mogucdn.com/p2/170621/upload_3bke8kj3h4aj413j78k76i5kfca63_640x900.jpg_320x999.jpg",
+          "h": 416
+        },
+        "type": 2,
+        "sale": 53,
+        "title": "连衣裙 娃娃裙 后背蝴蝶结 宽松显瘦 学生风 时尚 百搭 韩版",
+        "cfav": 503,
+        "price": "￥68.75",
+        "ptpC": "_mb_mls_0_wap-search_noab-noab",
+        "lefttop_taglist": [],
+        "titleTags": "连衣裙;娃娃裙;后背蝴蝶结;宽松显瘦;学生风;时尚;百搭;韩版",
+        "showLarge": {
+          "img": "http://s3.mogucdn.com/p2/170621/upload_3bke8kj3h4aj413j78k76i5kfca63_640x900.jpg_560x999.jpg",
+          "w": 560,
+          "h": 788
+        },
+        "leftbottom_taglist": [
+          "http://s2.mogucdn.com/p2/170307/1_5k6k8eiffl43633479294a49f8gci_60x28.png"
+        ],
+        "props": [
+          "连衣裙",
+          "娃娃裙",
+          "后背蝴蝶结",
+          "宽松显瘦",
+          "学生风",
+          "时尚",
+          "百搭",
+          "韩版"
+        ]
+      },
+      {
+        "orgPrice": "￥78.75",
+        "acm": "3.ms.2_4_1kdhj6o.0.24472-25176.94mObqoiXSNcI.t_0-lc_17",
+        "iid": "1kdhj6o",
+        "link": "http://item.meilishuo.com/h5/detail/1kdhj6o?acm=3.ms.2_4_1kdhj6o.0.24472-25176.94mObqoiXSNcI.t_0-lc_17",
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1kdhj6o?acm=3.ms.2_4_1kdhj6o.0.24472-25176.94mObqoiXSNcI.t_0-lc_17",
+        "itemType": 12,
+        "popularStar": null,
+        "cparam": null,
+        "itemMarks": "135 107 159",
+        "show": {
+          "w": 320,
+          "img": "http://s3.mogucdn.com/p2/170607/upload_1h8h5hlk5ikllhaiei5g67jfa2kei_640x900.jpg_320x999.jpg",
+          "h": 416
+        },
+        "type": 2,
+        "sale": 562,
+        "title": "露肩连衣裙 一字领 春秋 新款 韩版",
+        "cfav": 2551,
+        "price": "￥78.75",
+        "ptpC": "_mb_mls_0_wap-search_noab-noab",
+        "lefttop_taglist": [],
+        "titleTags": "露肩连衣裙;一字领;春秋;新款;韩版",
+        "showLarge": {
+          "img": "http://s3.mogucdn.com/p2/170607/upload_1h8h5hlk5ikllhaiei5g67jfa2kei_640x900.jpg_560x999.jpg",
+          "w": 560,
+          "h": 788
+        },
+        "leftbottom_taglist": [
+          "http://s2.mogucdn.com/p2/170307/1_5k6k8eiffl43633479294a49f8gci_60x28.png"
+        ],
+        "props": [
+          "露肩连衣裙",
+          "一字领",
+          "春秋",
+          "新款",
+          "韩版"
+        ]
+      },
+      {
+        "orgPrice": "￥81.25",
+        "acm": "3.ms.2_4_1keluje.0.24472-25176.94mObqoiXSNcI.t_0-lc_17",
+        "iid": "1keluje",
+        "link": "http://item.meilishuo.com/h5/detail/1keluje?acm=3.ms.2_4_1keluje.0.24472-25176.94mObqoiXSNcI.t_0-lc_17",
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1keluje?acm=3.ms.2_4_1keluje.0.24472-25176.94mObqoiXSNcI.t_0-lc_17",
+        "itemType": 10,
+        "popularStar": null,
+        "cparam": null,
+        "itemMarks": "135",
+        "show": {
+          "w": 320,
+          "img": "http://s3.mogucdn.com/p2/170628/upload_7f3h1a50lgd78bk3hjlj34abdjeb4_640x900.jpg_320x999.jpg",
+          "h": 416
+        },
+        "type": 2,
+        "sale": 60,
+        "title": "休闲连衣裙 收腰 v领 气质 短袖 小清新 双排扣",
+        "cfav": 398,
+        "price": "￥81.25",
+        "ptpC": "_mb_mls_0_wap-search_noab-noab",
+        "lefttop_taglist": [],
+        "titleTags": "休闲连衣裙;收腰;v领;气质;短袖;小清新;双排扣",
+        "showLarge": {
+          "img": "http://s3.mogucdn.com/p2/170628/upload_7f3h1a50lgd78bk3hjlj34abdjeb4_640x900.jpg_560x999.jpg",
+          "w": 560,
+          "h": 788
+        },
+        "leftbottom_taglist": [
+          "http://s2.mogucdn.com/p2/170307/1_1h8e97a4ed6giciglgjae69g9a269_60x28.png"
+        ],
+        "props": [
+          "休闲连衣裙",
+          "收腰",
+          "v领",
+          "气质",
+          "短袖",
+          "小清新",
+          "双排扣"
+        ]
+      },
+      {
+        "orgPrice": "￥98.58",
+        "acm": "3.ms.2_1_1kec9ts.1.37636-25176.94mObqoiXSNcI.t_0-lc_33-c_2_33_231258759_0_3_0-c1_59389_nil_nil_0_0_31",
+        "iid": "1kec9ts",
+        "link": "http://item.meilishuo.com/h5/detail/1kec9ts?acm=3.ms.2_1_1kec9ts.1.37636-25176.94mObqoiXSNcI.t_0-lc_33-c_2_33_231258759_0_3_0-c1_59389_nil_nil_0_0_31&cparam=MTQ5OTA3MzU1OV8xN25kY3VlX2RlOGU4MWViYjBjNmM4MGI0ZDJiMWRmOTUxMmVjNjZiXzMzXzJfMjMxMjU4NzU5XzBfMF8zXzBfNzY5XzBfMA==",
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1kec9ts?acm=3.ms.2_1_1kec9ts.1.37636-25176.94mObqoiXSNcI.t_0-lc_33-c_2_33_231258759_0_3_0-c1_59389_nil_nil_0_0_31&cparam=MTQ5OTA3MzU1OV8xN25kY3VlX2RlOGU4MWViYjBjNmM4MGI0ZDJiMWRmOTUxMmVjNjZiXzMzXzJfMjMxMjU4NzU5XzBfMF8zXzBfNzY5XzBfMA==",
+        "itemType": 7,
+        "popularStar": null,
+        "cparam": "MTQ5OTA3MzU1OV8xN25kY3VlX2RlOGU4MWViYjBjNmM4MGI0ZDJiMWRmOTUxMmVjNjZiXzMzXzJfMjMxMjU4NzU5XzBfMF8zXzBfNzY5XzBfMA==",
+        "itemMarks": "155",
+        "show": {
+          "w": 320,
+          "img": "http://s11.mogucdn.com/mlcdn/c45406/170622_006i61fd0g8950310cd2e56a01hkb_640x960.jpg_320x999.jpg",
+          "h": 416
+        },
+        "type": 2,
+        "sale": "217",
+        "title": "连衣裙 荷叶袖 一字领 气质 显瘦 格子 新款",
+        "cfav": "1072",
+        "price": "￥69.00",
+        "ptpC": "_mb_mls_0_wap-search_noab-noab",
+        "lefttop_taglist": [],
+        "titleTags": "连衣裙;荷叶袖;一字领;气质;显瘦;格子;新款",
+        "showLarge": {
+          "img": "http://s3.mogucdn.com/mlcdn/c45406/170622_006i61fd0g8950310cd2e56a01hkb_640x960.jpg_560x999.jpg",
+          "w": 560,
+          "h": 840
+        },
+        "leftbottom_taglist": [],
+        "props": [
+          "连衣裙",
+          "荷叶袖",
+          "一字领",
+          "气质",
+          "显瘦",
+          "格子",
+          "新款"
+        ]
+      },
+      {
+        "orgPrice": "￥84.29",
+        "acm": "3.ms.2_1_1kd20iu.1.37636-25176.94mObqoiXSNcI.t_0-lc_33-c_2_33_232338621_840138573_4_0-c1_59389_nil_nil_2_840138573_30",
+        "iid": "1kd20iu",
+        "link": "http://item.meilishuo.com/h5/detail/1kd20iu?acm=3.ms.2_1_1kd20iu.1.37636-25176.94mObqoiXSNcI.t_0-lc_33-c_2_33_232338621_840138573_4_0-c1_59389_nil_nil_2_840138573_30&cparam=MTQ5OTA3MzU1OV8xN29ubmFxXzBlOWZhMzg4MzgxODg5ZWRmZjUzYzg4Nzc4MmNhNWVhXzMzXzNfMjMyMzM4NjIxXzBfODQwMTM4NTczXzRfMF84Ml8wXzA=",
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1kd20iu?acm=3.ms.2_1_1kd20iu.1.37636-25176.94mObqoiXSNcI.t_0-lc_33-c_2_33_232338621_840138573_4_0-c1_59389_nil_nil_2_840138573_30&cparam=MTQ5OTA3MzU1OV8xN29ubmFxXzBlOWZhMzg4MzgxODg5ZWRmZjUzYzg4Nzc4MmNhNWVhXzMzXzNfMjMyMzM4NjIxXzBfODQwMTM4NTczXzRfMF84Ml8wXzA=",
+        "itemType": 7,
+        "popularStar": null,
+        "cparam": "MTQ5OTA3MzU1OV8xN29ubmFxXzBlOWZhMzg4MzgxODg5ZWRmZjUzYzg4Nzc4MmNhNWVhXzMzXzNfMjMyMzM4NjIxXzBfODQwMTM4NTczXzRfMF84Ml8wXzA=",
+        "itemMarks": "-1",
+        "show": {
+          "w": 320,
+          "img": "http://s3.mogucdn.com/mlcdn/55cf19/170530_684g1d3949e73d6a3lich604ab0bf_640x960.jpg_320x999.jpg",
+          "h": 416
+        },
+        "type": 2,
+        "sale": "155",
+        "title": "露肩连衣裙 拼接 小清新",
+        "cfav": "380",
+        "price": "￥59.00",
+        "ptpC": "_mb_mls_0_wap-search_noab-noab",
+        "lefttop_taglist": [],
+        "titleTags": "露肩连衣裙;拼接;小清新",
+        "showLarge": {
+          "img": "http://s3.mogucdn.com/mlcdn/55cf19/170530_684g1d3949e73d6a3lich604ab0bf_640x960.jpg_560x999.jpg",
+          "w": 560,
+          "h": 840
+        },
+        "leftbottom_taglist": [],
+        "props": [
+          "露肩连衣裙",
+          "拼接",
+          "小清新"
+        ]
+      },
+      {
+        "orgPrice": "￥87.38",
+        "acm": "3.ms.2_4_1kemthy.0.24472-25176.94mObqoiXSNcI.t_0-lc_17",
+        "iid": "1kemthy",
+        "link": "http://item.meilishuo.com/h5/detail/1kemthy?acm=3.ms.2_4_1kemthy.0.24472-25176.94mObqoiXSNcI.t_0-lc_17",
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1kemthy?acm=3.ms.2_4_1kemthy.0.24472-25176.94mObqoiXSNcI.t_0-lc_17",
+        "itemType": 10,
+        "popularStar": null,
+        "cparam": null,
+        "itemMarks": "135",
+        "show": {
+          "w": 320,
+          "img": "http://s3.mogucdn.com/p2/170612/upload_5g59466l0g1i68211jbc6dgd1e6ji_640x900.jpg_320x999.jpg",
+          "h": 416
+        },
+        "type": 2,
+        "sale": 40,
+        "title": "连衣裙 显瘦针织裙 露腰 气质 心机 小清新 镂空 修身 学生风 百搭 韩版",
+        "cfav": 147,
+        "price": "￥87.38",
+        "ptpC": "_mb_mls_0_wap-search_noab-noab",
+        "lefttop_taglist": [],
+        "titleTags": "连衣裙;显瘦针织裙;露腰;气质;心机;小清新;镂空;修身;学生风;百搭;韩版",
+        "showLarge": {
+          "img": "http://s17.mogucdn.com/p2/170612/upload_5g59466l0g1i68211jbc6dgd1e6ji_640x900.jpg_560x999.jpg",
+          "w": 560,
+          "h": 788
+        },
+        "leftbottom_taglist": [
+          "http://s2.mogucdn.com/p2/170307/1_1h8e97a4ed6giciglgjae69g9a269_60x28.png"
+        ],
+        "props": [
+          "连衣裙",
+          "显瘦针织裙",
+          "露腰",
+          "气质",
+          "心机",
+          "小清新",
+          "镂空",
+          "修身",
+          "学生风",
+          "百搭",
+          "韩版"
+        ]
+      },
+      {
+        "orgPrice": "￥78.75",
+        "acm": "3.ms.2_4_1keolnc.0.24472-25176.94mObqoiXSNcI.t_0-lc_17",
+        "iid": "1keolnc",
+        "link": "http://item.meilishuo.com/h5/detail/1keolnc?acm=3.ms.2_4_1keolnc.0.24472-25176.94mObqoiXSNcI.t_0-lc_17",
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1keolnc?acm=3.ms.2_4_1keolnc.0.24472-25176.94mObqoiXSNcI.t_0-lc_17",
+        "itemType": 10,
+        "popularStar": null,
+        "cparam": null,
+        "itemMarks": "135",
+        "show": {
+          "w": 320,
+          "img": "http://s3.mogucdn.com/p2/170627/upload_0254a6f22h9ih1d9b5f9egl4ef7b3_640x900.jpg_320x999.jpg",
+          "h": 416
+        },
+        "type": 2,
+        "sale": 37,
+        "title": "吊带连衣裙 开叉 显瘦 修身 不规则 街拍 字母 黑色 春夏",
+        "cfav": 186,
+        "price": "￥78.75",
+        "ptpC": "_mb_mls_0_wap-search_noab-noab",
+        "lefttop_taglist": [],
+        "titleTags": "吊带连衣裙;开叉;显瘦;修身;不规则;街拍;字母;黑色;春夏",
+        "showLarge": {
+          "img": "http://s3.mogucdn.com/p2/170627/upload_0254a6f22h9ih1d9b5f9egl4ef7b3_640x900.jpg_560x999.jpg",
+          "w": 560,
+          "h": 788
+        },
+        "leftbottom_taglist": [
+          "http://s2.mogucdn.com/p2/170307/1_1h8e97a4ed6giciglgjae69g9a269_60x28.png"
+        ],
+        "props": [
+          "吊带连衣裙",
+          "开叉",
+          "显瘦",
+          "修身",
+          "不规则",
+          "街拍",
+          "字母",
+          "黑色",
+          "春夏"
+        ]
+      },
+      {
+        "orgPrice": "￥106.00",
+        "acm": "3.ms.2_1_1kb4ovi.1.5865-25176.94mObqoiXSNcI.t_0-lc_17-c_1_17_212449451_0_3_0-c1_",
+        "iid": "1kb4ovi",
+        "link": "http://item.meilishuo.com/h5/detail/1kb4ovi?acm=3.ms.2_1_1kb4ovi.1.5865-25176.94mObqoiXSNcI.t_0-lc_17-c_1_17_212449451_0_3_0-c1_&cparam=MTQ5OTA3MzU1OV8xNzh1MTE4XzE2OGNlOWYzMWE1MTk1NmE5MjM4OGUzYmYzZDQyN2JjXzE3XzJfMjEyNDQ5NDUxXzAuMDQ1XzBfM18xXzU0OV8wXzA=",
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1kb4ovi?acm=3.ms.2_1_1kb4ovi.1.5865-25176.94mObqoiXSNcI.t_0-lc_17-c_1_17_212449451_0_3_0-c1_&cparam=MTQ5OTA3MzU1OV8xNzh1MTE4XzE2OGNlOWYzMWE1MTk1NmE5MjM4OGUzYmYzZDQyN2JjXzE3XzJfMjEyNDQ5NDUxXzAuMDQ1XzBfM18xXzU0OV8wXzA=",
+        "itemType": 3,
+        "popularStar": null,
+        "cparam": "MTQ5OTA3MzU1OV8xNzh1MTE4XzE2OGNlOWYzMWE1MTk1NmE5MjM4OGUzYmYzZDQyN2JjXzE3XzJfMjEyNDQ5NDUxXzAuMDQ1XzBfM18xXzU0OV8wXzA=",
+        "itemMarks": "",
+        "show": {
+          "w": 320,
+          "img": "http://s3.mogucdn.com/mlcdn/c45406/170428_12bbjgel1cg8c45ca1285d589lik5_640x842.jpg_320x999.jpg",
+          "h": 416
+        },
+        "type": 2,
+        "sale": "61",
+        "title": "连衣裙 雪纺孕妇裙 碎花 宽松 时尚 新款",
+        "cfav": "220",
+        "price": "￥79.50",
+        "ptpC": "_mb_mls_0_wap-search_noab-noab",
+        "lefttop_taglist": [],
+        "titleTags": "连衣裙;雪纺孕妇裙;碎花;宽松;时尚;新款",
+        "showLarge": {
+          "img": "http://s3.mogucdn.com/mlcdn/c45406/170428_12bbjgel1cg8c45ca1285d589lik5_640x842.jpg_560x999.jpg",
+          "w": 560,
+          "h": 737
+        },
+        "leftbottom_taglist": [
+          "http://s2.mogucdn.com/p2/170307/1_5k6k8eiffl43633479294a49f8gci_60x28.png"
+        ],
+        "props": [
+          "连衣裙",
+          "雪纺孕妇裙",
+          "碎花",
+          "宽松",
+          "时尚",
+          "新款"
+        ]
+      },
+      {
+        "orgPrice": "￥39.90",
+        "acm": "3.ms.2_1_1kbwq4a.1.5865-25176.94mObqoiXSNcI.t_0-lc_17-c_1_17_219050562_0_4_0-c1_",
+        "iid": "1kbwq4a",
+        "link": "http://item.meilishuo.com/h5/detail/1kbwq4a?acm=3.ms.2_1_1kbwq4a.1.5865-25176.94mObqoiXSNcI.t_0-lc_17-c_1_17_219050562_0_4_0-c1_&cparam=MTQ5OTA3MzU1OV8xNjJ1MXVrX2FlMjYxYThlYzEyYmEwMWEwOWI2ZDZmZDYzMTg3ODI1XzE3XzNfMjE5MDUwNTYyXzAuNDM2NF8wXzRfMV8zNTFfMF8w",
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1kbwq4a?acm=3.ms.2_1_1kbwq4a.1.5865-25176.94mObqoiXSNcI.t_0-lc_17-c_1_17_219050562_0_4_0-c1_&cparam=MTQ5OTA3MzU1OV8xNjJ1MXVrX2FlMjYxYThlYzEyYmEwMWEwOWI2ZDZmZDYzMTg3ODI1XzE3XzNfMjE5MDUwNTYyXzAuNDM2NF8wXzRfMV8zNTFfMF8w",
+        "itemType": 3,
+        "popularStar": null,
+        "cparam": "MTQ5OTA3MzU1OV8xNjJ1MXVrX2FlMjYxYThlYzEyYmEwMWEwOWI2ZDZmZDYzMTg3ODI1XzE3XzNfMjE5MDUwNTYyXzAuNDM2NF8wXzRfMV8zNTFfMF8w",
+        "itemMarks": "152 153",
+        "show": {
+          "w": 320,
+          "img": "http://s11.mogucdn.com/mlcdn/c45406/170510_83fgid2l45813ffldd1g31b90ahcc_640x842.jpg_320x999.jpg",
+          "h": 416
+        },
+        "type": 2,
+        "sale": "170",
+        "title": "儿童连衣裙 大童 女童",
+        "cfav": "227",
+        "price": "￥39.90",
+        "ptpC": "_mb_mls_0_wap-search_noab-noab",
+        "lefttop_taglist": [],
+        "titleTags": "儿童连衣裙;大童;女童",
+        "showLarge": {
+          "img": "http://s3.mogucdn.com/mlcdn/c45406/170510_83fgid2l45813ffldd1g31b90ahcc_640x842.jpg_560x999.jpg",
+          "w": 560,
+          "h": 737
+        },
+        "leftbottom_taglist": [
+          "http://s2.mogucdn.com/p2/170307/1_5k6k8eiffl43633479294a49f8gci_60x28.png"
+        ],
+        "props": [
+          "儿童连衣裙",
+          "大童",
+          "女童"
+        ]
+      },
+      {
+        "orgPrice": "￥106.25",
+        "acm": "3.ms.2_4_1kemqkw.0.24472-25176.94mObqoiXSNcI.t_0-lc_17",
+        "iid": "1kemqkw",
+        "link": "http://item.meilishuo.com/h5/detail/1kemqkw?acm=3.ms.2_4_1kemqkw.0.24472-25176.94mObqoiXSNcI.t_0-lc_17",
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1kemqkw?acm=3.ms.2_4_1kemqkw.0.24472-25176.94mObqoiXSNcI.t_0-lc_17",
+        "itemType": 10,
+        "popularStar": null,
+        "cparam": null,
+        "itemMarks": "135",
+        "show": {
+          "w": 320,
+          "img": "http://s3.mogucdn.com/mlcdn/c45406/170511_52ag2f94dbfl9553a2jja1b4f2afj_640x900.png_320x999.jpg",
+          "h": 416
+        },
+        "type": 2,
+        "sale": 36,
+        "title": "长款连衣裙 收腰显瘦 蕾丝拼接 雪纺 露肩 气质 百搭 大领口 韩版",
+        "cfav": 528,
+        "price": "￥93.50",
+        "ptpC": "_mb_mls_0_wap-search_noab-noab",
+        "lefttop_taglist": [],
+        "titleTags": "长款连衣裙;收腰显瘦;蕾丝拼接;雪纺;露肩;气质;百搭;大领口;韩版",
+        "showLarge": {
+          "img": "http://s3.mogucdn.com/mlcdn/c45406/170511_52ag2f94dbfl9553a2jja1b4f2afj_640x900.png_560x999.jpg",
+          "w": 560,
+          "h": 788
+        },
+        "leftbottom_taglist": [
+          "http://s2.mogucdn.com/p2/170307/1_1h8e97a4ed6giciglgjae69g9a269_60x28.png"
+        ],
+        "props": [
+          "长款连衣裙",
+          "收腰显瘦",
+          "蕾丝拼接",
+          "雪纺",
+          "露肩",
+          "气质",
+          "百搭",
+          "大领口",
+          "韩版"
+        ]
+      },
+      {
+        "orgPrice": "￥72.50",
+        "acm": "3.ms.2_4_1kemk2s.0.24472-25176.94mObqoiXSNcI.t_0-lc_17",
+        "iid": "1kemk2s",
+        "link": "http://item.meilishuo.com/h5/detail/1kemk2s?acm=3.ms.2_4_1kemk2s.0.24472-25176.94mObqoiXSNcI.t_0-lc_17",
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1kemk2s?acm=3.ms.2_4_1kemk2s.0.24472-25176.94mObqoiXSNcI.t_0-lc_17",
+        "itemType": 10,
+        "popularStar": null,
+        "cparam": null,
+        "itemMarks": "135",
+        "show": {
+          "w": 320,
+          "img": "http://s3.mogucdn.com/p2/170609/upload_61a8cfd3a2392854e5d3ij9chii34_640x900.jpg_320x999.jpg",
+          "h": 416
+        },
+        "type": 2,
+        "sale": 36,
+        "title": "雪纺连衣裙 收腰 露肩 气质 新款",
+        "cfav": 508,
+        "price": "￥72.50",
+        "ptpC": "_mb_mls_0_wap-search_noab-noab",
+        "lefttop_taglist": [],
+        "titleTags": "雪纺连衣裙;收腰;露肩;气质;新款",
+        "showLarge": {
+          "img": "http://s3.mogucdn.com/p2/170609/upload_61a8cfd3a2392854e5d3ij9chii34_640x900.jpg_560x999.jpg",
+          "w": 560,
+          "h": 788
+        },
+        "leftbottom_taglist": [
+          "http://s2.mogucdn.com/p2/170307/1_1h8e97a4ed6giciglgjae69g9a269_60x28.png"
+        ],
+        "props": [
+          "雪纺连衣裙",
+          "收腰",
+          "露肩",
+          "气质",
+          "新款"
+        ]
+      },
+      {
+        "orgPrice": "￥81.25",
+        "acm": "3.ms.2_4_1kent54.0.24472-25176.94mObqoiXSNcI.t_0-lc_17",
+        "iid": "1kent54",
+        "link": "http://item.meilishuo.com/h5/detail/1kent54?acm=3.ms.2_4_1kent54.0.24472-25176.94mObqoiXSNcI.t_0-lc_17",
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1kent54?acm=3.ms.2_4_1kent54.0.24472-25176.94mObqoiXSNcI.t_0-lc_17",
+        "itemType": 10,
+        "popularStar": null,
+        "cparam": null,
+        "itemMarks": "135",
+        "show": {
+          "w": 320,
+          "img": "http://s3.mogucdn.com/p2/170629/upload_6b9ie4e97992g3j07k6k6chlj7h47_705x991.jpg_320x999.jpg",
+          "h": 416
+        },
+        "type": 2,
+        "sale": 40,
+        "title": "雪纺连衣裙 碎花 高腰 夏季 新款 韩版",
+        "cfav": 396,
+        "price": "￥81.25",
+        "ptpC": "_mb_mls_0_wap-search_noab-noab",
+        "lefttop_taglist": [],
+        "titleTags": "雪纺连衣裙;碎花;高腰;夏季;新款;韩版",
+        "showLarge": {
+          "img": "http://s3.mogucdn.com/p2/170629/upload_6b9ie4e97992g3j07k6k6chlj7h47_705x991.jpg_560x999.jpg",
+          "w": 560,
+          "h": 788
+        },
+        "leftbottom_taglist": [
+          "http://s2.mogucdn.com/p2/170307/1_1h8e97a4ed6giciglgjae69g9a269_60x28.png"
+        ],
+        "props": [
+          "雪纺连衣裙",
+          "碎花",
+          "高腰",
+          "夏季",
+          "新款",
+          "韩版"
+        ]
+      },
+      {
+        "orgPrice": "￥104.00",
+        "acm": "3.ms.2_4_1kduxhg.0.24472-25176.94mObqoiXSNcI.t_0-lc_17",
+        "iid": "1kduxhg",
+        "link": "http://item.meilishuo.com/h5/detail/1kduxhg?acm=3.ms.2_4_1kduxhg.0.24472-25176.94mObqoiXSNcI.t_0-lc_17",
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1kduxhg?acm=3.ms.2_4_1kduxhg.0.24472-25176.94mObqoiXSNcI.t_0-lc_17",
+        "itemType": 11,
+        "popularStar": null,
+        "cparam": null,
+        "itemMarks": "135 107 158",
+        "show": {
+          "w": 320,
+          "img": "http://s3.mogucdn.com/p2/170613/upload_638cglhfl3f0f9fkedeaeld56023f_933x1313.jpg_320x999.jpg",
+          "h": 416
+        },
+        "type": 2,
+        "sale": 70,
+        "title": "连衣裙 荷叶边 气质 棉麻",
+        "cfav": 628,
+        "price": "￥104.00",
+        "ptpC": "_mb_mls_0_wap-search_noab-noab",
+        "lefttop_taglist": [],
+        "titleTags": "连衣裙;荷叶边;气质;棉麻",
+        "showLarge": {
+          "img": "http://s3.mogucdn.com/p2/170613/upload_638cglhfl3f0f9fkedeaeld56023f_933x1313.jpg_560x999.jpg",
+          "w": 560,
+          "h": 789
+        },
+        "leftbottom_taglist": [
+          "http://s2.mogucdn.com/p2/170307/1_5k6k8eiffl43633479294a49f8gci_60x28.png"
+        ],
+        "props": [
+          "连衣裙",
+          "荷叶边",
+          "气质",
+          "棉麻"
+        ]
+      },
+      {
+        "orgPrice": "￥98.00",
+        "acm": "3.ms.2_1_1kbrujg.1.37636-25176.94mObqoiXSNcI.t_0-lc_33-c_2_33_212944724_308086185_5_0-c1_59389_nil_nil_1_308086185_21",
+        "iid": "1kbrujg",
+        "link": "http://item.meilishuo.com/h5/detail/1kbrujg?acm=3.ms.2_1_1kbrujg.1.37636-25176.94mObqoiXSNcI.t_0-lc_33-c_2_33_212944724_308086185_5_0-c1_59389_nil_nil_1_308086185_21&cparam=MTQ5OTA3MzU1OV8xNzFrYWcwX2NhZjNkMjIxMGEyMTUxNWIyOGJhNWJhMGMxZjlmZTEzXzMzXzRfMjEyOTQ0NzI0XzBfMzA4MDg2MTg1XzVfMF85NDVfMF8w",
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1kbrujg?acm=3.ms.2_1_1kbrujg.1.37636-25176.94mObqoiXSNcI.t_0-lc_33-c_2_33_212944724_308086185_5_0-c1_59389_nil_nil_1_308086185_21&cparam=MTQ5OTA3MzU1OV8xNzFrYWcwX2NhZjNkMjIxMGEyMTUxNWIyOGJhNWJhMGMxZjlmZTEzXzMzXzRfMjEyOTQ0NzI0XzBfMzA4MDg2MTg1XzVfMF85NDVfMF8w",
+        "itemType": 7,
+        "popularStar": null,
+        "cparam": "MTQ5OTA3MzU1OV8xNzFrYWcwX2NhZjNkMjIxMGEyMTUxNWIyOGJhNWJhMGMxZjlmZTEzXzMzXzRfMjEyOTQ0NzI0XzBfMzA4MDg2MTg1XzVfMF85NDVfMF8w",
+        "itemMarks": "140 61",
+        "show": {
+          "w": 320,
+          "img": "http://s3.mogucdn.com/mlcdn/c45406/170508_823j463lc38122if95caj7k9a7efh_640x960.jpg_320x999.jpg",
+          "h": 416
+        },
+        "type": 2,
+        "sale": "2860",
+        "title": "连衣裙 露背 v领 名媛风 甜美 性感 开叉 高腰",
+        "cfav": "14503",
+        "price": "￥68.60",
+        "ptpC": "_mb_mls_0_wap-search_noab-noab",
+        "lefttop_taglist": [],
+        "titleTags": "连衣裙;露背;v领;名媛风;甜美;性感;开叉;高腰",
+        "showLarge": {
+          "img": "http://s3.mogucdn.com/mlcdn/c45406/170508_823j463lc38122if95caj7k9a7efh_640x960.jpg_560x999.jpg",
+          "w": 560,
+          "h": 840
+        },
+        "leftbottom_taglist": [],
+        "props": [
+          "连衣裙",
+          "露背",
+          "v领",
+          "名媛风",
+          "甜美",
+          "性感",
+          "开叉",
+          "高腰"
+        ]
+      },
+      {
+        "orgPrice": "￥97.00",
+        "acm": "3.ms.2_1_1kdo5ow.1.37636-25176.94mObqoiXSNcI.t_0-lc_33-c_2_33_230294410_1821220_6_0-c1_59389_nil_nil_0_1821220_37",
+        "iid": "1kdo5ow",
+        "link": "http://item.meilishuo.com/h5/detail/1kdo5ow?acm=3.ms.2_1_1kdo5ow.1.37636-25176.94mObqoiXSNcI.t_0-lc_33-c_2_33_230294410_1821220_6_0-c1_59389_nil_nil_0_1821220_37&cparam=MTQ5OTA3MzU1OV8xN204MG5nXzMxN2NhMDU4Y2JjMjQ1MTNjMTgwZTdmOTMzYzY2YjQyXzMzXzVfMjMwMjk0NDEwXzBfMTgyMTIyMF82XzBfODgwXzBfMA==",
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1kdo5ow?acm=3.ms.2_1_1kdo5ow.1.37636-25176.94mObqoiXSNcI.t_0-lc_33-c_2_33_230294410_1821220_6_0-c1_59389_nil_nil_0_1821220_37&cparam=MTQ5OTA3MzU1OV8xN204MG5nXzMxN2NhMDU4Y2JjMjQ1MTNjMTgwZTdmOTMzYzY2YjQyXzMzXzVfMjMwMjk0NDEwXzBfMTgyMTIyMF82XzBfODgwXzBfMA==",
+        "itemType": 7,
+        "popularStar": null,
+        "cparam": "MTQ5OTA3MzU1OV8xN204MG5nXzMxN2NhMDU4Y2JjMjQ1MTNjMTgwZTdmOTMzYzY2YjQyXzMzXzVfMjMwMjk0NDEwXzBfMTgyMTIyMF82XzBfODgwXzBfMA==",
+        "itemMarks": "-1",
+        "show": {
+          "w": 320,
+          "img": "http://s3.mogucdn.com/mlcdn/17f85e/170622_0g88c9879a99jcgl0iff2a4j30dl3_640x960.jpg_320x999.jpg",
+          "h": 416
+        },
+        "type": 2,
+        "sale": "29",
+        "title": "背带连衣裙 侧开叉 中长款 宽松 字母印花 运动 休闲",
+        "cfav": "168",
+        "price": "￥67.90",
+        "ptpC": "_mb_mls_0_wap-search_noab-noab",
+        "lefttop_taglist": [],
+        "titleTags": "背带连衣裙;侧开叉;中长款;宽松;字母印花;运动;休闲",
+        "showLarge": {
+          "img": "http://s3.mogucdn.com/mlcdn/17f85e/170622_0g88c9879a99jcgl0iff2a4j30dl3_640x960.jpg_560x999.jpg",
+          "w": 560,
+          "h": 840
+        },
+        "leftbottom_taglist": [],
+        "props": [
+          "背带连衣裙",
+          "侧开叉",
+          "中长款",
+          "宽松",
+          "字母印花",
+          "运动",
+          "休闲"
+        ]
+      },
+      {
+        "orgPrice": "￥98.75",
+        "acm": "3.ms.2_4_1kcshue.0.24472-25176.94mObqoiXSNcI.t_0-lc_17",
+        "iid": "1kcshue",
+        "link": "http://item.meilishuo.com/h5/detail/1kcshue?acm=3.ms.2_4_1kcshue.0.24472-25176.94mObqoiXSNcI.t_0-lc_17",
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1kcshue?acm=3.ms.2_4_1kcshue.0.24472-25176.94mObqoiXSNcI.t_0-lc_17",
+        "itemType": 12,
+        "popularStar": null,
+        "cparam": null,
+        "itemMarks": "135 107 159",
+        "show": {
+          "w": 320,
+          "img": "http://s3.mogucdn.com/p2/170525/upload_4ll9k4k9gll0ih82ef92gi6hi53ak_640x900.jpg_320x999.jpg",
+          "h": 416
+        },
+        "type": 2,
+        "sale": 185,
+        "title": "雪纺连衣裙 露肩 碎花 中长款 显瘦 韩版",
+        "cfav": 2449,
+        "price": "￥98.75",
+        "ptpC": "_mb_mls_0_wap-search_noab-noab",
+        "lefttop_taglist": [],
+        "titleTags": "雪纺连衣裙;露肩;碎花;中长款;显瘦;韩版",
+        "showLarge": {
+          "img": "http://s3.mogucdn.com/p2/170525/upload_4ll9k4k9gll0ih82ef92gi6hi53ak_640x900.jpg_560x999.jpg",
+          "w": 560,
+          "h": 788
+        },
+        "leftbottom_taglist": [
+          "http://s2.mogucdn.com/p2/170307/1_5k6k8eiffl43633479294a49f8gci_60x28.png"
+        ],
+        "props": [
+          "雪纺连衣裙",
+          "露肩",
+          "碎花",
+          "中长款",
+          "显瘦",
+          "韩版"
+        ]
+      },
+      {
+        "orgPrice": "￥77.50",
+        "acm": "3.ms.2_4_1ke16rg.0.24472-25176.94mObqoiXSNcI.t_0-lc_17",
+        "iid": "1ke16rg",
+        "link": "http://item.meilishuo.com/h5/detail/1ke16rg?acm=3.ms.2_4_1ke16rg.0.24472-25176.94mObqoiXSNcI.t_0-lc_17",
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1ke16rg?acm=3.ms.2_4_1ke16rg.0.24472-25176.94mObqoiXSNcI.t_0-lc_17",
+        "itemType": 12,
+        "popularStar": null,
+        "cparam": null,
+        "itemMarks": "135 159",
+        "show": {
+          "w": 320,
+          "img": "http://s3.mogucdn.com/p2/170616/upload_29a3f1dckkikkg4ccb30g9k52418i_640x900.jpg_320x999.jpg",
+          "h": 416
+        },
+        "type": 2,
+        "sale": 118,
+        "title": "雪纺连衣裙 收腰 荷叶边 淑女 文艺 印花 花朵 圆领 田园 系带",
+        "cfav": 908,
+        "price": "￥77.50",
+        "ptpC": "_mb_mls_0_wap-search_noab-noab",
+        "lefttop_taglist": [],
+        "titleTags": "雪纺连衣裙;收腰;荷叶边;淑女;文艺;印花;花朵;圆领;田园;系带",
+        "showLarge": {
+          "img": "http://s3.mogucdn.com/p2/170616/upload_29a3f1dckkikkg4ccb30g9k52418i_640x900.jpg_560x999.jpg",
+          "w": 560,
+          "h": 788
+        },
+        "leftbottom_taglist": [
+          "http://s2.mogucdn.com/p2/170307/1_5k6k8eiffl43633479294a49f8gci_60x28.png"
+        ],
+        "props": [
+          "雪纺连衣裙",
+          "收腰",
+          "荷叶边",
+          "淑女",
+          "文艺",
+          "印花",
+          "花朵",
+          "圆领",
+          "田园",
+          "系带"
+        ]
+      },
+      {
+        "orgPrice": "￥42.72",
+        "acm": "3.ms.2_1_1h6jnvu.1.5865-25176.94mObqoiXSNcI.t_0-lc_17-c_1_17_183779154_0_5_0-c1_",
+        "iid": "1h6jnvu",
+        "link": "http://item.meilishuo.com/h5/detail/1h6jnvu?acm=3.ms.2_1_1h6jnvu.1.5865-25176.94mObqoiXSNcI.t_0-lc_17-c_1_17_183779154_0_5_0-c1_&cparam=MTQ5OTA3MzU1OV8xN2pvbHQyXzliNzcyMmZjMDQyYmE5ZDkxZGI3NTRiNDY4MmQ4ZjY3XzE3XzRfMTgzNzc5MTU0XzAuODIwM18wXzVfMV8yNzVfMF8w",
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1h6jnvu?acm=3.ms.2_1_1h6jnvu.1.5865-25176.94mObqoiXSNcI.t_0-lc_17-c_1_17_183779154_0_5_0-c1_&cparam=MTQ5OTA3MzU1OV8xN2pvbHQyXzliNzcyMmZjMDQyYmE5ZDkxZGI3NTRiNDY4MmQ4ZjY3XzE3XzRfMTgzNzc5MTU0XzAuODIwM18wXzVfMV8yNzVfMF8w",
+        "itemType": 3,
+        "popularStar": null,
+        "cparam": "MTQ5OTA3MzU1OV8xN2pvbHQyXzliNzcyMmZjMDQyYmE5ZDkxZGI3NTRiNDY4MmQ4ZjY3XzE3XzRfMTgzNzc5MTU0XzAuODIwM18wXzVfMV8yNzVfMF8w",
+        "itemMarks": "",
+        "show": {
+          "w": 320,
+          "img": "http://s3.mogucdn.com/p2/170319/1031111955_3bleck543258ba1jkc6k91h42e0cc_640x960.jpg_320x999.jpg",
+          "h": 416
+        },
+        "type": 2,
+        "sale": "56",
+        "title": "家居裙 薄款连衣裙 短袖 女孩 女童 儿童",
+        "cfav": "116",
+        "price": "￥29.90",
+        "ptpC": "_mb_mls_0_wap-search_noab-noab",
+        "lefttop_taglist": [],
+        "titleTags": "家居裙;薄款连衣裙;短袖;女孩;女童;儿童",
+        "showLarge": {
+          "img": "http://s3.mogucdn.com/p2/170319/1031111955_3bleck543258ba1jkc6k91h42e0cc_640x960.jpg_560x999.jpg",
+          "w": 560,
+          "h": 840
+        },
+        "leftbottom_taglist": [
+          "http://s2.mogucdn.com/p2/170307/1_5k6k8eiffl43633479294a49f8gci_60x28.png"
+        ],
+        "props": [
+          "家居裙",
+          "薄款连衣裙",
+          "短袖",
+          "女孩",
+          "女童",
+          "儿童"
+        ]
+      },
+      {
+        "orgPrice": "￥40.00",
+        "acm": "3.ms.2_1_1kdlah6.1.5865-25176.94mObqoiXSNcI.t_0-lc_17-c_1_17_228161943_0_6_0-c1_",
+        "iid": "1kdlah6",
+        "link": "http://item.meilishuo.com/h5/detail/1kdlah6?acm=3.ms.2_1_1kdlah6.1.5865-25176.94mObqoiXSNcI.t_0-lc_17-c_1_17_228161943_0_6_0-c1_&cparam=MTQ5OTA3MzU1OV8xMWtfMzJjOTM2ZGZkY2ZhNTM0NDMxYmQ5ZWU1NjQxNDI0N2ZfMTdfNV8yMjgxNjE5NDNfMF8wXzZfMV84MzlfMF8w",
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1kdlah6?acm=3.ms.2_1_1kdlah6.1.5865-25176.94mObqoiXSNcI.t_0-lc_17-c_1_17_228161943_0_6_0-c1_&cparam=MTQ5OTA3MzU1OV8xMWtfMzJjOTM2ZGZkY2ZhNTM0NDMxYmQ5ZWU1NjQxNDI0N2ZfMTdfNV8yMjgxNjE5NDNfMF8wXzZfMV84MzlfMF8w",
+        "itemType": 3,
+        "popularStar": null,
+        "cparam": "MTQ5OTA3MzU1OV8xMWtfMzJjOTM2ZGZkY2ZhNTM0NDMxYmQ5ZWU1NjQxNDI0N2ZfMTdfNV8yMjgxNjE5NDNfMF8wXzZfMV84MzlfMF8w",
+        "itemMarks": "",
+        "show": {
+          "w": 320,
+          "img": "http://s11.mogucdn.com/mlcdn/c45406/170609_2ifed0158a56g42k2digbjddg5j0a_640x960.jpg_320x999.jpg",
+          "h": 416
+        },
+        "type": 2,
+        "sale": "5",
+        "title": "家居裙 睡裙 多色可选 儿童 夏季",
+        "cfav": "5",
+        "price": "￥28.00",
+        "ptpC": "_mb_mls_0_wap-search_noab-noab",
+        "lefttop_taglist": [],
+        "titleTags": "家居裙;睡裙;多色可选;儿童;夏季",
+        "showLarge": {
+          "img": "http://s3.mogucdn.com/mlcdn/c45406/170609_2ifed0158a56g42k2digbjddg5j0a_640x960.jpg_560x999.jpg",
+          "w": 560,
+          "h": 840
+        },
+        "leftbottom_taglist": [
+          "http://s2.mogucdn.com/p2/170307/1_5k6k8eiffl43633479294a49f8gci_60x28.png"
+        ],
+        "props": [
+          "家居裙",
+          "睡裙",
+          "多色可选",
+          "儿童",
+          "夏季"
+        ]
+      },
+      {
+        "orgPrice": "￥82.38",
+        "acm": "3.ms.2_4_1kemzv2.0.24472-25176.94mObqoiXSNcI.t_0-lc_17",
+        "iid": "1kemzv2",
+        "link": "http://item.meilishuo.com/h5/detail/1kemzv2?acm=3.ms.2_4_1kemzv2.0.24472-25176.94mObqoiXSNcI.t_0-lc_17",
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1kemzv2?acm=3.ms.2_4_1kemzv2.0.24472-25176.94mObqoiXSNcI.t_0-lc_17",
+        "itemType": 10,
+        "popularStar": null,
+        "cparam": null,
+        "itemMarks": "135",
+        "show": {
+          "w": 320,
+          "img": "http://s3.mogucdn.com/mlcdn/c45406/170604_4bjekjlb7j616d3747hhac1a363cd_640x900.jpg_320x999.jpg",
+          "h": 416
+        },
+        "type": 2,
+        "sale": 30,
+        "title": "连衣裙 荷叶边 小清新 中长款 宽松 新款 韩版",
+        "cfav": 463,
+        "price": "￥82.38",
+        "ptpC": "_mb_mls_0_wap-search_noab-noab",
+        "lefttop_taglist": [],
+        "titleTags": "连衣裙;荷叶边;小清新;中长款;宽松;新款;韩版",
+        "showLarge": {
+          "img": "http://s3.mogucdn.com/mlcdn/c45406/170604_4bjekjlb7j616d3747hhac1a363cd_640x900.jpg_560x999.jpg",
+          "w": 560,
+          "h": 788
+        },
+        "leftbottom_taglist": [
+          "http://s2.mogucdn.com/p2/170307/1_1h8e97a4ed6giciglgjae69g9a269_60x28.png"
+        ],
+        "props": [
+          "连衣裙",
+          "荷叶边",
+          "小清新",
+          "中长款",
+          "宽松",
+          "新款",
+          "韩版"
+        ]
+      },
+      {
+        "orgPrice": "￥87.50",
+        "acm": "3.ms.2_4_1kemvr0.0.24472-25176.94mObqoiXSNcI.t_0-lc_17",
+        "iid": "1kemvr0",
+        "link": "http://item.meilishuo.com/h5/detail/1kemvr0?acm=3.ms.2_4_1kemvr0.0.24472-25176.94mObqoiXSNcI.t_0-lc_17",
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1kemvr0?acm=3.ms.2_4_1kemvr0.0.24472-25176.94mObqoiXSNcI.t_0-lc_17",
+        "itemType": 10,
+        "popularStar": null,
+        "cparam": null,
+        "itemMarks": "135",
+        "show": {
+          "w": 320,
+          "img": "http://s3.mogucdn.com/mlcdn/c45406/170521_1216e520ddgkc4hdde572cec719ib_640x900.jpg_320x999.jpg",
+          "h": 416
+        },
+        "type": 2,
+        "sale": 38,
+        "title": "连衣裙 裙子 收腰显瘦 蕾丝 气质 镂空 印花 花朵 百搭 新款 韩版",
+        "cfav": 418,
+        "price": "￥87.50",
+        "ptpC": "_mb_mls_0_wap-search_noab-noab",
+        "lefttop_taglist": [],
+        "titleTags": "连衣裙;裙子;收腰显瘦;蕾丝;气质;镂空;印花;花朵;百搭;新款;韩版",
+        "showLarge": {
+          "img": "http://s3.mogucdn.com/mlcdn/c45406/170521_1216e520ddgkc4hdde572cec719ib_640x900.jpg_560x999.jpg",
+          "w": 560,
+          "h": 788
+        },
+        "leftbottom_taglist": [
+          "http://s2.mogucdn.com/p2/170307/1_1h8e97a4ed6giciglgjae69g9a269_60x28.png"
+        ],
+        "props": [
+          "连衣裙",
+          "裙子",
+          "收腰显瘦",
+          "蕾丝",
+          "气质",
+          "镂空",
+          "印花",
+          "花朵",
+          "百搭",
+          "新款",
+          "韩版"
+        ]
+      },
+      {
+        "orgPrice": "￥79.38",
+        "acm": "3.ms.2_4_1keocue.0.24472-25176.94mObqoiXSNcI.t_0-lc_17",
+        "iid": "1keocue",
+        "link": "http://item.meilishuo.com/h5/detail/1keocue?acm=3.ms.2_4_1keocue.0.24472-25176.94mObqoiXSNcI.t_0-lc_17",
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1keocue?acm=3.ms.2_4_1keocue.0.24472-25176.94mObqoiXSNcI.t_0-lc_17",
+        "itemType": 10,
+        "popularStar": null,
+        "cparam": null,
+        "itemMarks": "135",
+        "show": {
+          "w": 320,
+          "img": "http://s3.mogucdn.com/p2/170627/upload_8854h4da1671f54k1i95l524316gh_640x900.jpg_320x999.jpg",
+          "h": 416
+        },
+        "type": 2,
+        "sale": 25,
+        "title": "连衣裙 白色公主裙 露肩 一字领 挂脖 性感 中长款 高腰",
+        "cfav": 372,
+        "price": "￥79.38",
+        "ptpC": "_mb_mls_0_wap-search_noab-noab",
+        "lefttop_taglist": [],
+        "titleTags": "连衣裙;白色公主裙;露肩;一字领;挂脖;性感;中长款;高腰",
+        "showLarge": {
+          "img": "http://s3.mogucdn.com/p2/170627/upload_8854h4da1671f54k1i95l524316gh_640x900.jpg_560x999.jpg",
+          "w": 560,
+          "h": 788
+        },
+        "leftbottom_taglist": [
+          "http://s2.mogucdn.com/p2/170307/1_1h8e97a4ed6giciglgjae69g9a269_60x28.png"
+        ],
+        "props": [
+          "连衣裙",
+          "白色公主裙",
+          "露肩",
+          "一字领",
+          "挂脖",
+          "性感",
+          "中长款",
+          "高腰"
+        ]
+      },
+      {
+        "orgPrice": "￥68.75",
+        "acm": "3.ms.2_4_1keo50i.0.24472-25176.94mObqoiXSNcI.t_0-lc_17",
+        "iid": "1keo50i",
+        "link": "http://item.meilishuo.com/h5/detail/1keo50i?acm=3.ms.2_4_1keo50i.0.24472-25176.94mObqoiXSNcI.t_0-lc_17",
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1keo50i?acm=3.ms.2_4_1keo50i.0.24472-25176.94mObqoiXSNcI.t_0-lc_17",
+        "itemType": 10,
+        "popularStar": null,
+        "cparam": null,
+        "itemMarks": "135",
+        "show": {
+          "w": 320,
+          "img": "http://s3.mogucdn.com/p2/170628/upload_4ff77bfgjejbi4468d2dl3943df92_640x832.jpg_320x999.jpg",
+          "h": 416
+        },
+        "type": 2,
+        "sale": 37,
+        "title": "连衣裙 碎花 优雅 甜美",
+        "cfav": 480,
+        "price": "￥68.75",
+        "ptpC": "_mb_mls_0_wap-search_noab-noab",
+        "lefttop_taglist": [],
+        "titleTags": "连衣裙;碎花;优雅;甜美",
+        "showLarge": {
+          "img": "http://s3.mogucdn.com/p2/170628/upload_4ff77bfgjejbi4468d2dl3943df92_640x832.jpg_560x999.jpg",
+          "w": 560,
+          "h": 728
+        },
+        "leftbottom_taglist": [
+          "http://s2.mogucdn.com/p2/170307/1_1h8e97a4ed6giciglgjae69g9a269_60x28.png"
+        ],
+        "props": [
+          "连衣裙",
+          "碎花",
+          "优雅",
+          "甜美"
+        ]
+      },
+      {
+        "orgPrice": "￥60.00",
+        "acm": "3.ms.2_4_1kelx7k.0.24472-25176.94mObqoiXSNcI.t_0-lc_17",
+        "iid": "1kelx7k",
+        "link": "http://item.meilishuo.com/h5/detail/1kelx7k?acm=3.ms.2_4_1kelx7k.0.24472-25176.94mObqoiXSNcI.t_0-lc_17",
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1kelx7k?acm=3.ms.2_4_1kelx7k.0.24472-25176.94mObqoiXSNcI.t_0-lc_17",
+        "itemType": 10,
+        "popularStar": null,
+        "cparam": null,
+        "itemMarks": "135",
+        "show": {
+          "w": 320,
+          "img": "http://s3.mogucdn.com/p2/170628/upload_6c4lifbb9kkglj7d1h3g53gl8j7c2_640x900.jpg_320x999.jpg",
+          "h": 416
+        },
+        "type": 2,
+        "sale": 39,
+        "title": "连衣裙 条纹腰带 修身显瘦 文艺 小清新 新款 韩版",
+        "cfav": 306,
+        "price": "￥60.00",
+        "ptpC": "_mb_mls_0_wap-search_noab-noab",
+        "lefttop_taglist": [],
+        "titleTags": "连衣裙;条纹腰带;修身显瘦;文艺;小清新;新款;韩版",
+        "showLarge": {
+          "img": "http://s3.mogucdn.com/p2/170628/upload_6c4lifbb9kkglj7d1h3g53gl8j7c2_640x900.jpg_560x999.jpg",
+          "w": 560,
+          "h": 788
+        },
+        "leftbottom_taglist": [
+          "http://s2.mogucdn.com/p2/170307/1_1h8e97a4ed6giciglgjae69g9a269_60x28.png"
+        ],
+        "props": [
+          "连衣裙",
+          "条纹腰带",
+          "修身显瘦",
+          "文艺",
+          "小清新",
+          "新款",
+          "韩版"
+        ]
+      },
+      {
+        "orgPrice": "￥75.00",
+        "acm": "3.ms.2_4_1kenp2y.0.24472-25176.94mObqoiXSNcI.t_0-lc_17",
+        "iid": "1kenp2y",
+        "link": "http://item.meilishuo.com/h5/detail/1kenp2y?acm=3.ms.2_4_1kenp2y.0.24472-25176.94mObqoiXSNcI.t_0-lc_17",
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1kenp2y?acm=3.ms.2_4_1kenp2y.0.24472-25176.94mObqoiXSNcI.t_0-lc_17",
+        "itemType": 10,
+        "popularStar": null,
+        "cparam": null,
+        "itemMarks": "135",
+        "show": {
+          "w": 320,
+          "img": "http://s3.mogucdn.com/p2/170627/upload_4f32e69289dfj27bj273865443008_640x900.jpg_320x999.jpg",
+          "h": 416
+        },
+        "type": 2,
+        "sale": 48,
+        "title": "蕾丝连衣裙 v领 气质 显瘦 休闲 韩版",
+        "cfav": 194,
+        "price": "￥75.00",
+        "ptpC": "_mb_mls_0_wap-search_noab-noab",
+        "lefttop_taglist": [],
+        "titleTags": "蕾丝连衣裙;v领;气质;显瘦;休闲;韩版",
+        "showLarge": {
+          "img": "http://s3.mogucdn.com/p2/170627/upload_4f32e69289dfj27bj273865443008_640x900.jpg_560x999.jpg",
+          "w": 560,
+          "h": 788
+        },
+        "leftbottom_taglist": [
+          "http://s2.mogucdn.com/p2/170307/1_1h8e97a4ed6giciglgjae69g9a269_60x28.png"
+        ],
+        "props": [
+          "蕾丝连衣裙",
+          "v领",
+          "气质",
+          "显瘦",
+          "休闲",
+          "韩版"
+        ]
+      },
+      {
+        "orgPrice": "￥90.67",
+        "acm": "3.ms.2_4_1kdulka.0.24472-25176.94mObqoiXSNcI.t_0-lc_17",
+        "iid": "1kdulka",
+        "link": "http://item.meilishuo.com/h5/detail/1kdulka?acm=3.ms.2_4_1kdulka.0.24472-25176.94mObqoiXSNcI.t_0-lc_17",
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1kdulka?acm=3.ms.2_4_1kdulka.0.24472-25176.94mObqoiXSNcI.t_0-lc_17",
+        "itemType": 11,
+        "popularStar": null,
+        "cparam": null,
+        "itemMarks": "135 107 158",
+        "show": {
+          "w": 320,
+          "img": "http://s3.mogucdn.com/p2/170614/upload_0kk5ajg6jl8ji2l88jf9gg4g90c6b_1600x2250.jpg_320x999.jpg",
+          "h": 416
+        },
+        "type": 2,
+        "sale": 120,
+        "title": "连衣裙 荷叶边 清新 印花 个性 夏季",
+        "cfav": 1431,
+        "price": "￥90.67",
+        "ptpC": "_mb_mls_0_wap-search_noab-noab",
+        "lefttop_taglist": [],
+        "titleTags": "连衣裙;荷叶边;清新;印花;个性;夏季",
+        "showLarge": {
+          "img": "http://s3.mogucdn.com/p2/170614/upload_0kk5ajg6jl8ji2l88jf9gg4g90c6b_1600x2250.jpg_560x999.jpg",
+          "w": 560,
+          "h": 788
+        },
+        "leftbottom_taglist": [
+          "http://s2.mogucdn.com/p2/170307/1_5k6k8eiffl43633479294a49f8gci_60x28.png"
+        ],
+        "props": [
+          "连衣裙",
+          "荷叶边",
+          "清新",
+          "印花",
+          "个性",
+          "夏季"
+        ]
+      },
+      {
+        "orgPrice": "￥68.75",
+        "acm": "3.ms.2_4_1kcnifq.0.24472-25176.94mObqoiXSNcI.t_0-lc_17",
+        "iid": "1kcnifq",
+        "link": "http://item.meilishuo.com/h5/detail/1kcnifq?acm=3.ms.2_4_1kcnifq.0.24472-25176.94mObqoiXSNcI.t_0-lc_17",
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1kcnifq?acm=3.ms.2_4_1kcnifq.0.24472-25176.94mObqoiXSNcI.t_0-lc_17",
+        "itemType": 12,
+        "popularStar": null,
+        "cparam": null,
+        "itemMarks": "135 107 159",
+        "show": {
+          "w": 320,
+          "img": "http://s3.mogucdn.com/p2/170523/upload_2e232hl8l3086hij6d7h55heh81ik_640x900.jpg_320x999.jpg",
+          "h": 416
+        },
+        "type": 2,
+        "sale": 842,
+        "title": "雪纺连衣裙 无袖 碎花 开叉 星座",
+        "cfav": 2476,
+        "price": "￥68.75",
+        "ptpC": "_mb_mls_0_wap-search_noab-noab",
+        "lefttop_taglist": [],
+        "titleTags": "雪纺连衣裙;无袖;碎花;开叉;星座",
+        "showLarge": {
+          "img": "http://s3.mogucdn.com/p2/170523/upload_2e232hl8l3086hij6d7h55heh81ik_640x900.jpg_560x999.jpg",
+          "w": 560,
+          "h": 788
+        },
+        "leftbottom_taglist": [
+          "http://s2.mogucdn.com/p2/170307/1_5k6k8eiffl43633479294a49f8gci_60x28.png"
+        ],
+        "props": [
+          "雪纺连衣裙",
+          "无袖",
+          "碎花",
+          "开叉",
+          "星座"
+        ]
+      },
+      {
+        "orgPrice": "￥82.38",
+        "acm": "3.ms.2_4_1kduing.0.24472-25176.94mObqoiXSNcI.t_0-lc_17",
+        "iid": "1kduing",
+        "link": "http://item.meilishuo.com/h5/detail/1kduing?acm=3.ms.2_4_1kduing.0.24472-25176.94mObqoiXSNcI.t_0-lc_17",
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1kduing?acm=3.ms.2_4_1kduing.0.24472-25176.94mObqoiXSNcI.t_0-lc_17",
+        "itemType": 12,
+        "popularStar": null,
+        "cparam": null,
+        "itemMarks": "135 107 159",
+        "show": {
+          "w": 320,
+          "img": "http://s3.mogucdn.com/mlcdn/c45406/170602_436lgfag0h8hbde4f0gaj89lg6h5c_640x900.jpg_320x999.jpg",
+          "h": 416
+        },
+        "type": 2,
+        "sale": 206,
+        "title": "气质连衣裙 收腰显瘦 荷叶边 露肩 气质 小清新 红色 纯色 新款 韩版",
+        "cfav": 939,
+        "price": "￥82.38",
+        "ptpC": "_mb_mls_0_wap-search_noab-noab",
+        "lefttop_taglist": [],
+        "titleTags": "气质连衣裙;收腰显瘦;荷叶边;露肩;气质;小清新;红色;纯色;新款;韩版",
+        "showLarge": {
+          "img": "http://s3.mogucdn.com/mlcdn/c45406/170602_436lgfag0h8hbde4f0gaj89lg6h5c_640x900.jpg_560x999.jpg",
+          "w": 560,
+          "h": 788
+        },
+        "leftbottom_taglist": [
+          "http://s2.mogucdn.com/p2/170307/1_5k6k8eiffl43633479294a49f8gci_60x28.png"
+        ],
+        "props": [
+          "气质连衣裙",
+          "收腰显瘦",
+          "荷叶边",
+          "露肩",
+          "气质",
+          "小清新",
+          "红色",
+          "纯色",
+          "新款",
+          "韩版"
+        ]
+      },
+      {
+        "orgPrice": "￥53.75",
+        "acm": "3.ms.2_4_1keltf8.0.24472-25176.94mObqoiXSNcI.t_0-lc_17",
+        "iid": "1keltf8",
+        "link": "http://item.meilishuo.com/h5/detail/1keltf8?acm=3.ms.2_4_1keltf8.0.24472-25176.94mObqoiXSNcI.t_0-lc_17",
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1keltf8?acm=3.ms.2_4_1keltf8.0.24472-25176.94mObqoiXSNcI.t_0-lc_17",
+        "itemType": 10,
+        "popularStar": null,
+        "cparam": null,
+        "itemMarks": "135",
+        "show": {
+          "w": 320,
+          "img": "http://s3.mogucdn.com/mlcdn/c45406/170603_6d7hia1i3b58k0a18aejh9g9jcil4_640x832.jpg_320x999.jpg",
+          "h": 416
+        },
+        "type": 2,
+        "sale": 41,
+        "title": "印花连衣裙 一字肩 露肩 宽松显瘦 卡通 韩版",
+        "cfav": 535,
+        "price": "￥53.75",
+        "ptpC": "_mb_mls_0_wap-search_noab-noab",
+        "lefttop_taglist": [],
+        "titleTags": "印花连衣裙;一字肩;露肩;宽松显瘦;卡通;韩版",
+        "showLarge": {
+          "img": "http://s3.mogucdn.com/mlcdn/c45406/170603_6d7hia1i3b58k0a18aejh9g9jcil4_640x832.jpg_560x999.jpg",
+          "w": 560,
+          "h": 728
+        },
+        "leftbottom_taglist": [
+          "http://s2.mogucdn.com/p2/170307/1_1h8e97a4ed6giciglgjae69g9a269_60x28.png"
+        ],
+        "props": [
+          "印花连衣裙",
+          "一字肩",
+          "露肩",
+          "宽松显瘦",
+          "卡通",
+          "韩版"
+        ]
+      },
+      {
+        "orgPrice": "￥90.00",
+        "acm": "3.ms.2_4_1keodks.0.24472-25176.94mObqoiXSNcI.t_0-lc_17",
+        "iid": "1keodks",
+        "link": "http://item.meilishuo.com/h5/detail/1keodks?acm=3.ms.2_4_1keodks.0.24472-25176.94mObqoiXSNcI.t_0-lc_17",
+        "clientUrl": "http://item.meilishuo.com/h5/detail/1keodks?acm=3.ms.2_4_1keodks.0.24472-25176.94mObqoiXSNcI.t_0-lc_17",
+        "itemType": 10,
+        "popularStar": null,
+        "cparam": null,
+        "itemMarks": "135",
+        "show": {
+          "w": 320,
+          "img": "http://s3.mogucdn.com/p2/170609/upload_3cae60279j6dlgj0ah7eeib4b88b6_640x900.jpg_320x999.jpg",
+          "h": 416
+        },
+        "type": 2,
+        "sale": 40,
+        "title": "黑色连衣裙 v领 修身显瘦 喇叭袖 性感 镂空 新款",
+        "cfav": 351,
+        "price": "￥90.00",
+        "ptpC": "_mb_mls_0_wap-search_noab-noab",
+        "lefttop_taglist": [],
+        "titleTags": "黑色连衣裙;v领;修身显瘦;喇叭袖;性感;镂空;新款",
+        "showLarge": {
+          "img": "http://s3.mogucdn.com/p2/170609/upload_3cae60279j6dlgj0ah7eeib4b88b6_640x900.jpg_560x999.jpg",
+          "w": 560,
+          "h": 788
+        },
+        "leftbottom_taglist": [
+          "http://s2.mogucdn.com/p2/170307/1_1h8e97a4ed6giciglgjae69g9a269_60x28.png"
+        ],
+        "props": [
+          "黑色连衣裙",
+          "v领",
+          "修身显瘦",
+          "喇叭袖",
+          "性感",
+          "镂空",
+          "新款"
+        ]
+      }
+    ],
+    "ptpPartC": "_mb_mls_0_wap-search_noab-noab",
+    "filter": {
+      "title": "wap图墙",
+      "list": [
+        {
+          "title": "综合",
+          "sort": "pop",
+          "style": null,
+          "fcid": "null",
+          "type": "sort"
+        },
+        {
+          "title": "销量",
+          "sort": "sell",
+          "style": null,
+          "fcid": "null",
+          "type": "sort"
+        },
+        {
+          "title": "最新",
+          "sort": "new",
+          "style": null,
+          "fcid": "null",
+          "type": "sort"
+        }
+      ]
+    }
+  }
+}

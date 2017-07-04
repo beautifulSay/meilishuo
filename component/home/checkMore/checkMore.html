@@ -1,0 +1,52 @@
+
+ <img src="img/banner.jpg"/>
+    <div class="today">
+        <h2>每日特价&nbsp;限时限量</h2>
+        <p>--&nbsp;距离特价结束仅剩&nbsp;--</p>
+        <div class="time">
+            <span>0</span>
+            <span>0</span>
+            <span>时</span>
+            <span>0</span>
+            <span>0</span>
+            <span>分</span>
+            <span>0</span>
+            <span>0</span>
+            <span>秒</span>
+        </div>
+    </div>
+       <!--底部图片-->
+         <div class="bg"><img src="img/buttom.jpg"/></div>
+      <!--立即抢购-->
+         <div id="book">
+                 <div ng-repeat="item in initData" class="listProduce">
+                          <img src="{{item.image}}">
+                     <div class="leftList">
+                          <li>{{item.title}}</li>
+                          <li>限时价<span class="oldPrice">￥{{item.discountPrice}}</span>原价{{item.price}}</li>
+                          <li><span class="only">仅剩{{item.itemInventory}}件</span> <span class="right">立即抢购</span></li>
+                     </div>
+                 </div>
+         </div>
+ <!--更多优选 立即抢购-->
+    <div class="soon">
+        <p>更多优选 立即抢购</p>
+        <img src="img/buttom.jpg"/>
+    </div>
+ <!--文字下方的条纹图片-->
+    <div><img src="img/buttom.jpg"/></div>
+
+   <!--下方的产品图片-->
+      <div class="proList" ng-repeat="item in initData2">
+          <ul>
+              <img src="{{item.image}}" ui-sref="detail"/>
+              <li><span>特价</span>￥{{item.price}}</li>
+              <li>{{item.title}}</li>
+              <li><a href="">立即抢购</a></li>
+          </ul>
+      </div>
+    <!--去看看更多优选好货-->
+        <div class="goods">
+            <p>去看看更多优选好货>>></p>
+        </div>
+
