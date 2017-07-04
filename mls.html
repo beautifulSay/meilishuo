@@ -8,7 +8,6 @@
 		<link rel ='stylesheet' href="css/reset.css" />
 		<link rel = 'stylesheet' href="css/swiper.min.css" />	
 		<link href="//netdna.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
-                        
 		<script src="js/libs/angular.min.js"></script>
 		<script src="js/libs/angular-css.min.js"></script>
 		<script src="js/libs/jquery.min.js"></script>					
@@ -21,7 +20,9 @@
 		<script src="component/category/category.js"></script>
 		<script src="component/shopcar/shopcar.js"></script>
 		<script src="component/mine/mine.js"></script>
+		<script src="js/libs/swiper.min.js"></script>
 		<script src="component/category/skirt/popular/popular.js"></script>
+		<script src="component/mine/baby/baby.js"></script>
 	</head>
 	<body ng-app="mls">
 <div id="wap">
@@ -29,21 +30,23 @@
 	   <div  class="tap">
 	   	         <div class="oul">
             <ul>
-                <li><img src="img/1.png"/></li>
+                <li ui-sref="home"><img src="img/1.png"/></li>
                 <li ui-sref="home" ui-sref-opts='{reload: true}'><a href="">首页</a></li>
             </ul>
             <ul>
-                <li><img src="img/2.png"/></li>
+                <li ui-sref="category"><img src="img/2.png"/></li>
                 <li ui-sref="category" ><a href="">分类</a></li>
             </ul>
             <ul>
-                <li><img src="img/3.png"/></li>
+                <li ui-sref="shopcar"><img src="img/3.png"/></li>
                 <li ui-sref="shopcar" ><a href="">购物车</a></li>
             </ul>
+
             <ul>
-                <li><img src="img/4.png"/></li>
+                <li ui-sref="mine"><img src="img/4.png"/></li>
                 <li ui-sref="mine" ><a href="">我</a></li>
             </ul>
+
         </div>
 	   </div>
 </div>		

@@ -26,7 +26,7 @@ body,html{
 html{
 	font-size:12px;
 }
-.clearfix{
+.clearfix:after{
     content: '';
     display: block;
     height: 0;

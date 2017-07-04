@@ -1,10 +1,8 @@
 .topcar{width: 100%;height: 44px;background: #ffffff;}
-#oul{width: 100%;height: 100%;font-size: 18px;text-align: center;}
-#oul li{float: left;height: 44px;line-height: 44px;padding-left: 15px;}
+#oul{width: 100%;height: 100%;font-size: 20px;text-align: center;}
+#oul li{float: left;height: 44px;line-height: 44px;width: 33%;}
 #oul li i{height: 44px;line-height: 44px;}
-#oul li:last-child{float: right;padding-right: 15px;}
-#oul li:nth-child(2){padding-left: 110px;}
-#Content{width: 100%;height:453px;background: #f4f4f4;}
+#Content{width: 100%;height:568px;background: #f4f4f4;}
 .shopfonse{width: 100%;height: 188px;}
 .Text{text-align: center;padding-top: 48px;text-align:center;}
 .Text li{font-size: 14px;}

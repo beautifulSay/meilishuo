@@ -1,21 +1,42 @@
-.Personal{width: 100%;height: 100%;}
-#oul2{width: 100%;height: 44px;font-size: 18px;text-align: center;}
-#oul2 li{float: left;height: 44px;line-height: 44px;padding-left: 15px;}
-#oul2 li i{height: 44px;line-height: 44px;}
-#oul2 li:last-child{float: right;padding-right: 15px;}
-#oul2 li:nth-child(2){padding-left: 110px;}
-.personPicter{width: 100%;height: 177px;background: #ff7050;border-bottom: 12px solid #f4f4f4;}
+.Personal{width: 100%;height: 100%;overflow: scroll;}
+.oul2{width: 100%;height: 44px;font-size: 18px;text-align: center;position: relative;}
+.oul2 li{float: left;height: 44px;line-height: 44px;}
+.oul2 li i{height: 44px;line-height: 44px;}
+.oul2 li:first-child{padding-left: 3%;}
+.oul2 li:nth-child(2){position: absolute;left: 41%;}
+.oul2 li:last-child{float: right;padding-right: 3%;}
+.personPicter{width: 100%;height: 198px;background: #ff7050;border-bottom: 12px solid #f4f4f4;}
 #persontop{width: 100%;height: 110px;border-bottom: 1px solid #ddd;}
-.personPicter img{text-align: center;padding-top: 17px;}
+.personPicter img{width:50px;border-radius:50%;text-align: center;display: block;margin: 0 auto;padding: 10px 0;}
 .personPicter p{text-align: center;font-size: 18px;color: #ffffff;}
-#div1{width: 50%;height: 67px;float: left;border-right: 1px solid #ddd;color: #ffffff;}
-#div1 ul{float: left;text-align: center;padding-top: 15px;font-size: 14px;}
-#div1 ul:first-child{padding-left: 10px;padding-right: 22px;}
-#div2{width: 50%;height: 67px;float: left;color: #ffffff;}
-#div2 ul{float: left;text-align: center;padding-top: 15px;font-size: 14px;}
-#div2 ul:first-child{padding-left: 10px;padding-right: 22px;}
-.div3{width: 100%;height: 45px;line-height: 45px;border-bottom: 12px solid #f4f4f4;}
-.div3 ul li{float: left;}
+#div1{width: 50%;height: 76px;float: left;border-right: 1px solid #ddd;color: #ffffff;position: relative;}
+#div1 ul{float: left;text-align: center;padding-top: 10%;font-size: 14px;}
+#div1 ul:first-child{position:absolute;left: 5%;}
+#div1 ul:last-child{position:absolute;right: 5%;}
+#div2{width: 50%;height: 76px;float: left;color: #ffffff;position: relative;}
+#div2 ul{float: left;text-align: center;padding-top: 10%;font-size: 14px;}
+#div2 ul:first-child{position:absolute;left: 15%;}
+#div2 ul:last-child{position:absolute;right: 10%;}
+.div3{width: 100%;height: 45px;line-height: 45px;position: relative;}
+.div3 ul{height: 45px;line-height: 45px;}
+.div3 ul li:first-child{float:left;font-size: 18px;padding-left: 3%;}
+.div3 ul li:nth-child(2){float: left;font-size: 16px;position: absolute;right: 5%;}
+.div3 ul li:last-child{float: right;padding-right: 10px;padding-top: 4px;}
+.div3 img{width: 29px;float: left;padding-top: 6px;}
+.div4{width: 100%;height: 65px;border-top: 12px solid #f4f4f4;}
+.div4 ul{width:25%;float: left;padding-top: 3%;text-align: center;}
+.div4 ul li{font-size: 16px;}
+.div5{height: 350px;text-align: center;background: #EEEEEE;}
+.div5 img{margin-top: 30px;}
+.div5 p{font-size: 16px;padding-bottom: 42px;}
+.div5 span{font-size: 14px;}
+.tap oul{background: #FFFFFF;}
+
+
+
+
+
+
 
 
 
