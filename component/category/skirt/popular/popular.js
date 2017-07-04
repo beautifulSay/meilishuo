@@ -6,13 +6,41 @@ angular.module("popularModule",["ui.router"])
         $stateProvider
             .state('category.skirt.popular', {
                 url: '/popular',
-                templateUrl: 'component/skirt/popular/popular.html',
+                templateUrl: 'component/category/skirt/popular/popular.html',
                 controller:'popularCtrl',
-                css:'component/skirt/popular/popular.html'
+                css:'component/category/skirt/popular/popular.css'
             })
+<<<<<<< HEAD
     })
     
     .controller('popularCtrl',['$scope','$http',function($scope,$http){
+=======
+    }).controller('popularCtrl',['$scope','$http',function($scope,$http) {
+>>>>>>> e1074a307fbc36969d23e2fbe2fe6d05ec647eba
+
+        $http.get("json/category/myshop.json").then(function (res) {
+         var data = res.data.result.itemInfo;
+            $scope.arr = res.data.result.itemInfo.topImages;
+            console.log(res.data.result.itemInfo.topImages);
+              $scope.columss = res.data.result.columns;
+            console.log(res);
+            var mySwiper = new Swiper('.swiper-container', {
+
+<<<<<<< HEAD
+=======
+                    loop:true,
+                    autoplayDisableOnInteraction:false,
+                    pagination : '.swiper-pagination',
+                    paginationClickable: true,
+                    longSwipesRatio: 0.3,
+                    touchRatio:1,
+                    observer:true,//修改swiper自己或子元素时，自动初始化swiper
+                    observeParents:true,//修改swiper的父元素时，自动初始化swiper
+                })
+            $scope.title = data.desc;
 
 
+
+        })
+>>>>>>> e1074a307fbc36969d23e2fbe2fe6d05ec647eba
     }])
