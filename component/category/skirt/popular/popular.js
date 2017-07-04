@@ -11,10 +11,8 @@ angular.module("popularModule",["ui.router"])
                 css:'component/skirt/popular/popular.html'
             })
     })
+    
     .controller('popularCtrl',['$scope','$http',function($scope,$http){
-
-
-
 
 
     }])
