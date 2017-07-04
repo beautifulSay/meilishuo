@@ -16,16 +16,7 @@ angular.module("ConcessionalModule",["ui.router"])
 //			  })
 			  
 			  
-			    $('#opend').on('click',function(){			    	
-			            $('#smoll').hide();			       
-			  })
-			  
-			
-	  	          $('#smoll').on('click',function(){
-		  	             $("#opend").show();
-			  })
-			  
-			  
+				  
 })
 
 
