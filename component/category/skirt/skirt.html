@@ -1,4 +1,4 @@
-<div class="fashion">
+<div class="fashion" ui-view>
     <div class="fashion-list1"ng-show="mean.show">
 <div class="cate_warp"></div>
     <div class="title">
@@ -23,12 +23,13 @@
     </div>
     <div class="popular"ng-show="pop.show">
         <ul class="popular-list">
-            <li ng-click="opo(da.isfilled)"ng-class="{true:'lis',false:'lis2'}[da.isfilled]">流行</li>
-            <li ng-click="hsale()">热销</li>
-            <li ng-click="toggles()">价格</li>
+            <li ng-click="opo()"ng-class="{true:'lis',false:'lis2'}[isfilled]">流行</li>
+            <li ng-click="hsale()"ng-class="{true:'lis',false:'lis2'}[isSencod]">热销</li>
+            <li ng-click="toggles()"ng-class="{true:'lis',false:'lis2'}[isfire]">价格</li>
         </ul>
-        <ul class="item_warp">
-            <li ng-repeat="item1 in arr3">
+        <ul class="item_warp"ng-show="warp1.show">
+
+            <li ng-repeat="item1 in arr3" ui-sref=".popular">
                 <img src="{{item1.showLarge.img}}">
                 <p class="title2">{{item1.title}}</p>
                 <p class="price">{{item1.price}}</p>
@@ -36,6 +37,32 @@
                 <span class="img-tag"><img src="{{item2}}"ng-repeat="item2 in item1.leftbottom_taglist"></span>
             </li>
         </ul>
+        <ul class="item_warp2"ng-show="warp2.show">
+            <li ng-repeat="item1 in arr3 |orderBy:'-sale'">
+                <img src="{{item1.showLarge.img}}">
+                <p class="title2">{{item1.title}}</p>
+                <p class="price">{{item1.price}}</p>
+                <p class="sale_num">{{item1.sale+"人已购买"}}</p>
+                <span class="img-tag"><img src="{{item2}}"ng-repeat="item2 in item1.leftbottom_taglist"></span>
+            </li>
+        </ul>
+        <div class="price-level"ng-show="flag">
+            <div class="price-level-clearfix">
+                <div class="price-level-f1">0-30</div>
+                <div class="price-level-f1">30-60</div>
+                <div class="price-level-f1">60以上</div>
+            </div>
+            <div class="price-level-clearfix">
+                <input type="text"class="low-area-f1"ng-model="myVar">
+                <span class="price-line">-</span>
+                <input type="text" class="high-area-f1">
+                <span class="price-cancel">清空</span>
+                <span class="price-comfirm">确认</span>
+
+            </div>
+        </div>
     </div>
 
+
 </div>
+<!--http://m.meilishuo.com/detail/mls/v1/h5?iid=1keohrq&_ajax=1&cparam=-->

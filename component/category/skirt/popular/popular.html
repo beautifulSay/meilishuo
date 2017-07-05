@@ -1,0 +1,15 @@
+<div class="myshop">
+    <div class="swiper-container">
+        <div class="swiper-wrapper">
+            <div class="swiper-slide" ng-repeat="item2 in arr"><img src="{{item2}}" alt="" /></div>
+        </div>
+        <div class="swiper-pagination"></div>
+    </div>
+    <div class="info-title">{{title}}</div>
+    <div class="now-price">{{'￥'+75.00}}</div>
+    <ul class="cplums">
+        <li ng-repeat="item3 in columss">
+           {{item3}}
+        </li>
+    </ul>
+</div>

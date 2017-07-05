@@ -1,0 +1,12 @@
+.add{width: 100%;height: 100%;overflow: scroll;position: relative;}
+.oul8{width: 100%;height: 44px;font-size: 18px;text-align: center;position: relative;border-bottom: 1px solid #DDDDDD;}
+.oul8 li{float: left;height: 44px;line-height: 44px;}
+.oul8 li i{height: 44px;line-height: 44px;}
+.oul8 li:first-child{padding-left: 3%;}
+.oul8 li:nth-child(2){position: absolute;left: 41%;}
+.oul8 li:last-child{float: right;padding-right: 3%;}
+.centener{width: 100%;height: 100%;background: #EEEEEE;}
+
+
+
+
