@@ -10,13 +10,13 @@ angular.module("popularModule",["ui.router"])
                 controller:'popularCtrl',
                 css:'component/category/skirt/popular/popular.css'
             })
-<<<<<<< HEAD
+
     })
     
-    .controller('popularCtrl',['$scope','$http',function($scope,$http){
-=======
-    }).controller('popularCtrl',['$scope','$http',function($scope,$http) {
->>>>>>> e1074a307fbc36969d23e2fbe2fe6d05ec647eba
+
+
+    .controller('popularCtrl',['$scope','$http',function($scope,$http) {
+
 
         $http.get("json/category/myshop.json").then(function (res) {
          var data = res.data.result.itemInfo;
@@ -26,8 +26,7 @@ angular.module("popularModule",["ui.router"])
             console.log(res);
             var mySwiper = new Swiper('.swiper-container', {
 
-<<<<<<< HEAD
-=======
+
                     loop:true,
                     autoplayDisableOnInteraction:false,
                     pagination : '.swiper-pagination',
@@ -42,5 +41,5 @@ angular.module("popularModule",["ui.router"])
 
 
         })
->>>>>>> e1074a307fbc36969d23e2fbe2fe6d05ec647eba
+
     }])
