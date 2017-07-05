@@ -1,0 +1,22 @@
+.swiper-slide img{width:80%;height: 480px;}
+.price{width: 100%;height: 44px;}
+.price span{font-size: 20px;color: hotpink;text-align: center;margin: 0 auto;display: block}
+.sale{width: 100%;height: 20px;border: 1px solid green;}
+.sale ul{width: 100%;margin: 0 auto;}
+.sale ul li{float: left;margin: 0 10px;width:28%;;}
+.dou{width: 100%;height: 50px;border: 1px solid red;}
+.dou p{text-align: center;line-height: 50px;}
+.dou p span{font-size: 22px;}
+.dou p span:first-child{float: left}
+.dou p span:nth-child(2){float: right}
+/*美丽优选*/
+.beautiful{width:100%;height: 265px;border: 1px solid blue;}
+.beautiful img{display: block;float: left;width: 50px;height: 50px;}
+.bAll{float: right;width:70%;height:50px;display: block;margin-left: 60px;}
+.bAll p:first-child{font-size: 20px;}
+.infro-content{width:100%;height: 110px;border: 1px solid red;}
+.infro-content ul{width: 100%;height: 110px;margin-top: 50px;}
+.infro-content ul li{float: left}
+.service{width: 80%;height: 110px;border: 2px solid green;margin: 0 auto}
+.service ul{width: 100%}
+.service ul li{float:left;font-size: 18px;width: 40%;margin-top: 20px;}

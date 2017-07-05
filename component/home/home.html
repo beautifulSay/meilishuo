@@ -2,7 +2,7 @@
     <div class="icon">
             <img src="img/logo.png"/>
             <i class="fa fa-search"></i>
-            <input type="text" placeholder="套装"ui-sref=".search">
+            <input type="text" ui-sref="search" placeholder="套装">
             <i class="fa fa-commenting-o"></i>
     </div>
 </div>
@@ -32,13 +32,10 @@
         <div class="preferential">
              <p>-限时特惠距活动结束仅剩-</p>
             <div class="clock">
-                <span>0</span>
                 <span>{{hours}}</span>
                 <span>时</span>
-                <span>0</span>
                 <span>{{mintues}}</span>
                 <span>分</span>
-                <span>0</span>
                 <span>{{seconds}}</span>
                 <span>秒</span>
             </div>
@@ -76,9 +73,8 @@
      <div class="clearfix"></div>
 <!--查看更多-->
      <div id="check">
-         <p>查看更多&nbsp;&gt</p>
+        <p ng-click="checkMore()" ui-sref="checkMore">查看更多&nbsp;&gt</p>
      </div>
-
 <div id="gray"></div>
 
 <!--新款 流行 精选-->
@@ -89,10 +85,17 @@
             <li ui-sref="home.handpick" ui-sref-opts='{reload: true}'><a href="">精选</a></li>
         </ul>
     </div>
-<div class="def" ui-view></div>
+    <div class="def" ui-view></div>
+
 
 <!--流行图片-->
-
+<div class="newStyle" ng-repeat="item in initDatas">
+    <ul class="styleList">
+        <img src="{{item.showLarge.img}}" alt=""/>
+        <li>{{item.title}}</li>
+        <li>{{item.price}}</li>
+    </ul>
+</div>
 
 <!--回到顶部-->
   <div id="backTop"></div>

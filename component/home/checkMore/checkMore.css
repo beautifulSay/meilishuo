@@ -1,0 +1,40 @@
+img{width:100%;margin:10px 10px;vertical-align: middle}
+.today{width:100%;height: 80px;margin:0 1%;}
+h2,p{text-align:center;font-size: 14px;margin: 5px auto}
+.time{width:34%;margin:10px auto}
+span{text-align:center;background:#e30047;color: white;font-size: 16px;}
+.bg img{display: block;}
+
+#book{width: 100%;}
+#book ul li{float: left}
+.listProduce{width: 100%;}
+#book img{width:100px;height:140px;}
+.leftList{width:70%;height:150px;float:right;}
+.leftList li{width:80%;overflow: hidden;white-space: nowrap;text-overflow: ellipsis;
+               font-size:16px;text-indent:15px;line-height: 40px;margin-top: 5px;}
+.leftList li:nth-child(2){width: 75%}
+.leftList li:nth-child(3){text-align: center;}
+.leftList li:nth-child(3) .only{background: lightgray;/*border-radius: 20px;display: block;float: left*/}
+.leftList li:nth-child(3) .right{width:50%;height:30px; border-radius: 20px;display: block;
+                                     float: right;text-align: center; line-height: 30px;}
+.leftList li .oldPrice{font-size: 22px;background: white;color:#e30047;font-weight: bolder}
+
+/*更多优选，立即抢购*/
+  .soon{width: 100%;height:40px;}
+  .soon p{text-align: center;line-height:40px;font-size: 20px;font-weight: bold}
+
+  .proList{width: 100%}
+  .proList ul{width:50%;float: left}
+  .proList ul img{width:100%;border-radius: 20px;margin-right:10px;padding:0 5px;}
+  .proList ul li{width:100%;font-size:14px;overflow: hidden;
+                   white-space: nowrap;text-overflow:ellipsis;margin-left: 10px;line-height: 20px;}
+  .proList ul li:nth-child(2){width:100%;color: hotpink;text-align:center;font-size: 18px;}
+  .proList ul li:nth-child(3){width:80%;text-align:center;font-size: 16px; margin: 0 20px;}
+   .proList ul li:nth-child(4){width:80%;text-align:center;font-size: 18px;border-radius:20px;margin: 0 auto}
+  .proList ul li:nth-child(4) a{text-align: center;width: 100%;background: #ff3377;
+                                   color: white;display: block; height:30px;line-height: 30px;}
+
+   .goods{width: 100%;height: 88px;}
+   .goods p{text-align: center;line-height: 88px;font-size: 24px;}
+/*隐藏下面的tab栏目*/
+    .tap{display: none}
