@@ -45,7 +45,7 @@
 <!--限时特惠下面的产品图片-->
 <div id="produceList">
     <ul>
-        <li ng-repeat="item in initData2"><img src="{{item.image}}"><p>{{'￥'+ 72.6}}</p></li>
+        <li ng-repeat="item in initData2"><img src="{{item.image}}"><p>{{'￥'+ 72.6}}</p><p class="buy">立即抢购</p></li>
     </ul>
  </div>
 
@@ -62,9 +62,9 @@
          <h3>好物组货</h3>
          <p>最新潮好物 每日更新</p>
        <ul>
-          <li ng-repeat="item in initData4"><img src="{{item.image}}">
+          <li ng-repeat="item in initData4"><img src="{{item.image}}" class="firstImg">
              <ul class="secondList">
-                 <li ng-repeat="item in initData5"><img src="{{item.image}}"><p>￥{{item.price}}</p></li>
+                 <li ng-repeat="item in initData5"><img src="{{item.image}}" class="secondImg"><p>￥{{item.price}}</p></li>
              </ul>
           </li>
        </ul>
@@ -80,13 +80,12 @@
 <!--新款 流行 精选-->
     <div id="nav">
         <ul>
-            <li ui-sref="home.popular" ui-sref-opts='{reload: true}'><a href="">流行</a></li>
-            <li ui-sref="home.newStyle" ui-sref-opts='{reload: true}'><a href="">新款</a></li>
-            <li ui-sref="home.handpick" ui-sref-opts='{reload: true}'><a href="">精选</a></li>
+            <li ui-sref="home.popular" ui-sref-opts='{reload:true}'><a href="" ng-class='{active:flase}'>流行</a></li>
+            <li ui-sref="home.newStyle" ui-sref-opts='{reload:true}'><a href="" ng-class='{active:isActive}'>新款</a></li>
+            <li ui-sref="home.handpick" ui-sref-opts='{reload:true}'><a href="" ng-class='{active:isActive}'>精选</a></li>
         </ul>
     </div>
     <div class="def" ui-view></div>
-
 
 <!--流行图片-->
 <div class="newStyle" ng-repeat="item in initDatas">

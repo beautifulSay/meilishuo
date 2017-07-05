@@ -25,6 +25,7 @@ angular.module('homeModule',['ui.router'])
             })
             $urlRouterProvider.otherwise('/home/popular');
         })
+
     .controller('homeCtrl',['$scope','$state','$http','$timeout','$interval',function($scope,$state,$http,$timeout,$interval){
         $http.get("json/home.json").then(function(res){
             console.log(res);
